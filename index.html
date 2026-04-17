@@ -1,0 +1,1059 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shorts Analyzer — KBO · LoL</title>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg:#080808;--surface:#111;--surface2:#191919;--surface3:#222;
+  --border:rgba(255,255,255,.07);--border2:rgba(255,255,255,.14);
+  --accent:#ff4500;--accent2:#ffd600;
+  --text:#ede9df;--muted:#555;--muted2:#888;
+  --success:#00e676;--warn:#ffab40;--danger:#ff5252;
+  --gemini:#4285f4;
+  --kbo:#e8002d;--lol:#c89b3c;
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+html{scroll-behavior:smooth;}
+body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;min-height:100vh;line-height:1.6;}
+
+header{border-bottom:1px solid var(--border);padding:1.2rem 2rem;display:flex;align-items:center;gap:1.25rem;position:sticky;top:0;background:rgba(8,8,8,.95);backdrop-filter:blur(14px);z-index:200;}
+.logo{font-family:'Bebas Neue',sans-serif;font-size:1.75rem;letter-spacing:.06em;line-height:1;}
+.logo span{color:var(--accent);}
+.badge{font-family:'DM Mono',monospace;font-size:.58rem;background:var(--gemini);color:#fff;padding:3px 8px;border-radius:2px;letter-spacing:.12em;text-transform:uppercase;}
+.hright{margin-left:auto;}
+.h-status{font-family:'DM Mono',monospace;font-size:.65rem;padding:3px 10px;border-radius:20px;border:1px solid var(--border2);color:var(--muted2);transition:all .3s;}
+.h-status.ready{border-color:rgba(0,230,118,.4);color:var(--success);background:rgba(0,230,118,.06);}
+
+.container{max-width:900px;margin:0 auto;padding:2rem 1.5rem;}
+
+/* KEY */
+.key-sec{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:1.75rem;margin-bottom:1.1rem;}
+.sec-label{font-family:'DM Mono',monospace;font-size:.62rem;color:var(--muted2);letter-spacing:.14em;text-transform:uppercase;margin-bottom:.9rem;display:block;}
+.key-row{display:flex;gap:.6rem;}
+.key-row input{flex:1;background:var(--surface2);border:1px solid var(--border2);border-radius:7px;padding:.78rem 1rem;color:var(--text);font-family:'DM Mono',monospace;font-size:.8rem;outline:none;transition:border .2s;}
+.key-row input:focus{border-color:var(--gemini);}
+.key-row input.saved{border-color:rgba(0,230,118,.45);}
+.btn{background:transparent;border:1px solid var(--border2);border-radius:7px;padding:.78rem 1.1rem;color:var(--muted2);font-family:'DM Mono',monospace;font-size:.75rem;cursor:pointer;transition:all .2s;white-space:nowrap;}
+.btn:hover{border-color:rgba(255,255,255,.3);color:var(--text);}
+.btn.save:hover{border-color:var(--success);color:var(--success);}
+.btn.del:hover{border-color:var(--danger);color:var(--danger);}
+.key-info{margin-top:.65rem;display:flex;align-items:center;gap:.5rem;font-family:'DM Mono',monospace;font-size:.72rem;color:var(--muted2);}
+.kdot{width:6px;height:6px;border-radius:50%;background:var(--muted);transition:background .3s;flex-shrink:0;}
+.kdot.on{background:var(--success);}
+.api-note{margin-top:.9rem;background:rgba(66,133,244,.07);border:1px solid rgba(66,133,244,.18);border-radius:8px;padding:.75rem 1rem;font-size:.78rem;color:#90b8f8;line-height:1.7;}
+.api-note strong{color:#aecbfa;}
+
+/* SPORT SELECTOR */
+.sport-sec{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:1.75rem;margin-bottom:1.1rem;}
+.sport-grid{display:grid;grid-template-columns:1fr 1fr;gap:.75rem;margin-bottom:0;}
+@media(max-width:480px){.sport-grid{grid-template-columns:1fr;}}
+.sport-card{border:2px solid var(--border2);border-radius:12px;padding:1.25rem 1.5rem;cursor:pointer;transition:all .2s;position:relative;user-select:none;display:flex;align-items:center;gap:1rem;}
+.sport-card:hover{background:var(--surface2);transform:translateY(-1px);}
+.sport-card.on.kbo{border-color:var(--kbo);background:rgba(232,0,45,.07);}
+.sport-card.on.lol{border-color:var(--lol);background:rgba(200,155,60,.07);}
+.sport-emoji{font-size:2rem;line-height:1;flex-shrink:0;}
+.sport-info{}
+.sport-name{font-weight:500;font-size:1.05rem;margin-bottom:2px;}
+.sport-desc{font-size:.75rem;color:var(--muted2);}
+.sport-badge{position:absolute;top:.6rem;right:.7rem;font-family:'DM Mono',monospace;font-size:.6rem;padding:2px 7px;border-radius:3px;}
+.sport-card.on.kbo .sport-badge{background:var(--kbo);color:#fff;}
+.sport-card.on.lol .sport-badge{background:var(--lol);color:#000;}
+.sport-card:not(.on) .sport-badge{display:none;}
+
+/* PERSPECTIVE CARDS */
+.persp-sec{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:1.75rem;margin-bottom:1.1rem;}
+.persp-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:.7rem;margin-bottom:1.1rem;}
+@media(max-width:560px){.persp-grid{grid-template-columns:1fr;}}
+.pcard{border:1.5px solid var(--border2);border-radius:10px;padding:.9rem;cursor:pointer;transition:all .2s;position:relative;user-select:none;}
+.pcard:hover{background:var(--surface2);transform:translateY(-1px);}
+.pcard.on{border-color:var(--gemini);background:rgba(66,133,244,.08);}
+.pchk{position:absolute;top:.55rem;right:.55rem;width:17px;height:17px;border-radius:50%;border:1.5px solid var(--border2);display:flex;align-items:center;justify-content:center;font-size:.58rem;transition:all .2s;}
+.pcard.on .pchk{background:var(--gemini);border-color:transparent;color:#fff;}
+.pcard-h{display:flex;align-items:center;gap:.55rem;margin-bottom:.45rem;}
+.picon{width:26px;height:26px;border-radius:5px;background:rgba(66,133,244,.18);color:var(--gemini);display:flex;align-items:center;justify-content:center;font-size:.8rem;flex-shrink:0;}
+.pname{font-weight:500;font-size:.9rem;}
+.psub{font-family:'DM Mono',monospace;font-size:.6rem;color:var(--muted2);}
+.pdesc{font-size:.74rem;color:var(--muted2);line-height:1.5;}
+
+.mode-row{display:flex;background:var(--surface2);border:1px solid var(--border);border-radius:8px;overflow:hidden;}
+.mbtn{flex:1;padding:.58rem 1rem;font-size:.82rem;background:transparent;border:none;color:var(--muted2);cursor:pointer;transition:all .2s;font-family:'DM Sans',sans-serif;}
+.mbtn.on{background:var(--surface3);color:var(--text);font-weight:500;}
+.mode-note{margin-top:.75rem;font-size:.75rem;color:var(--muted2);font-family:'DM Mono',monospace;line-height:1.6;padding:.6rem .9rem;background:var(--surface2);border-radius:6px;border-left:2px solid var(--accent2);display:none;}
+.mode-note.on{display:block;}
+
+/* URL */
+.url-sec{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:1.75rem;margin-bottom:1.1rem;}
+.url-input-row{display:flex;gap:.75rem;}
+.url-input-row input{flex:1;background:var(--surface2);border:1px solid var(--border2);border-radius:7px;padding:.78rem 1rem;color:var(--text);font-family:'DM Sans',sans-serif;font-size:.93rem;outline:none;transition:border .2s;}
+.url-input-row input:focus{border-color:var(--accent);}
+.btn-go{background:var(--accent);color:#fff;border:none;border-radius:7px;padding:.78rem 1.5rem;font-family:'Bebas Neue',sans-serif;font-size:1.1rem;letter-spacing:.07em;cursor:pointer;transition:opacity .2s,transform .15s;white-space:nowrap;}
+.btn-go:hover{opacity:.84;}.btn-go:active{transform:scale(.97);}.btn-go:disabled{opacity:.3;cursor:not-allowed;}
+
+/* PIPELINE */
+.pipeline{display:flex;margin-bottom:1.1rem;border:1px solid var(--border);border-radius:10px;overflow:hidden;}
+.step{flex:1;padding:.6rem .3rem;text-align:center;font-family:'DM Mono',monospace;font-size:.63rem;color:var(--muted);background:var(--surface);border-right:1px solid var(--border);transition:all .35s;}
+.step:last-child{border-right:none;}
+.step .sn{display:block;font-family:'Bebas Neue',sans-serif;font-size:1rem;margin-bottom:1px;}
+.step.active{color:var(--gemini);background:rgba(66,133,244,.07);}
+.step.done{color:var(--success);background:rgba(0,230,118,.04);}
+
+/* PROGRESS BAR */
+.pbar{height:2px;background:var(--border);border-radius:1px;margin-bottom:1.1rem;overflow:hidden;display:none;}
+.pbar.on{display:block;}
+.pfill{height:100%;background:linear-gradient(90deg,var(--gemini),#34a0ff);transition:width .6s ease;width:0;border-radius:1px;}
+
+/* TIMER */
+.timer-box{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:1rem 1.25rem;margin-bottom:1.1rem;display:none;}
+.timer-box.on{display:block;}
+.timer-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:.75rem;flex-wrap:wrap;gap:.5rem;}
+.timer-label{font-family:'DM Mono',monospace;font-size:.7rem;color:var(--muted2);letter-spacing:.08em;}
+.timer-pct{font-family:'Bebas Neue',sans-serif;font-size:1.6rem;color:var(--gemini);line-height:1;}
+.timer-track{height:6px;background:var(--surface3);border-radius:3px;overflow:hidden;margin-bottom:.75rem;}
+.timer-fill{height:100%;background:linear-gradient(90deg,var(--gemini),#34a0ff);border-radius:3px;transition:width .8s ease;width:0%;}
+.timer-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:.5rem;}
+.tstat{background:var(--surface2);border-radius:7px;padding:.55rem .75rem;text-align:center;}
+.tstat-val{font-family:'Bebas Neue',sans-serif;font-size:1.15rem;color:var(--text);line-height:1;margin-bottom:2px;}
+.tstat-lbl{font-family:'DM Mono',monospace;font-size:.58rem;color:var(--muted2);letter-spacing:.06em;}
+.tstat.hi .tstat-val{color:var(--accent2);}
+.cur-task{margin-top:.7rem;font-family:'DM Mono',monospace;font-size:.72rem;color:var(--gemini);display:flex;align-items:center;gap:.5rem;}
+.pulse{width:6px;height:6px;border-radius:50%;background:var(--gemini);flex-shrink:0;animation:pulse 1.2s ease-in-out infinite;}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1);}50%{opacity:.4;transform:scale(.7);}}
+
+/* LOG */
+.logbox{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:1rem 1.25rem;font-family:'DM Mono',monospace;font-size:.72rem;line-height:1.9;max-height:200px;overflow-y:auto;display:none;margin-bottom:1.1rem;}
+.logbox.on{display:block;}
+.ll{display:flex;gap:.75rem;}
+.lt{color:var(--muted);min-width:56px;flex-shrink:0;}
+.lm{color:var(--text);}
+.lm.ok{color:var(--success);}.lm.warn{color:var(--warn);}.lm.err{color:var(--danger);}.lm.info{color:var(--accent2);}.lm.g{color:var(--gemini);}
+
+/* RESULTS */
+.res{display:none;}
+.res.on{display:block;}
+.res-hd{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:1.4rem;padding-bottom:.9rem;border-bottom:1px solid var(--border);flex-wrap:wrap;gap:.5rem;}
+.res-title{font-family:'Bebas Neue',sans-serif;font-size:1.55rem;letter-spacing:.04em;}
+.res-meta{font-size:.73rem;font-family:'DM Mono',monospace;color:var(--muted2);}
+.stabs{display:flex;gap:.45rem;margin-bottom:1.1rem;flex-wrap:wrap;}
+.stab{padding:.38rem .9rem;border-radius:20px;font-size:.75rem;font-family:'DM Mono',monospace;border:1px solid var(--border);cursor:pointer;background:transparent;color:var(--muted2);transition:all .2s;}
+.stab.on{background:rgba(66,133,244,.14);border-color:var(--gemini);color:var(--gemini);}
+.stab.on.merged{background:rgba(255,69,0,.14);border-color:var(--accent);color:var(--accent);}
+
+/* CARDS */
+.card{background:var(--surface);border:1px solid var(--border);border-radius:12px;margin-bottom:1.2rem;overflow:hidden;transition:border-color .2s;}
+.card:hover{border-color:rgba(255,69,0,.3);}
+.card-h{display:flex;align-items:center;gap:.8rem;padding:1rem 1.4rem;border-bottom:1px solid var(--border);background:var(--surface2);flex-wrap:wrap;}
+.rank{font-family:'Bebas Neue',sans-serif;font-size:1.85rem;color:var(--accent);line-height:1;min-width:32px;}
+.ctitle{font-weight:500;font-size:.95rem;flex:1;min-width:140px;}
+.tag{font-family:'DM Mono',monospace;font-size:.7rem;border-radius:4px;padding:3px 8px;white-space:nowrap;}
+.t-time{background:rgba(255,69,0,.11);color:var(--accent);border:1px solid rgba(255,69,0,.22);}
+.t-ver{background:rgba(0,230,118,.09);color:var(--success);border:1px solid rgba(0,230,118,.18);}
+.t-unver{background:rgba(255,82,82,.09);color:var(--danger);border:1px solid rgba(255,82,82,.18);}
+.t-persp{background:rgba(66,133,244,.13);color:#90b8f8;border:1px solid rgba(66,133,244,.25);font-size:.63rem;padding:2px 7px;}
+.t-agree{background:rgba(255,214,0,.1);color:var(--accent2);border:1px solid rgba(255,214,0,.22);font-size:.63rem;padding:2px 7px;}
+.card-b{padding:1.15rem 1.4rem;}
+.fl{font-family:'DM Mono',monospace;font-size:.6rem;color:var(--muted2);letter-spacing:.12em;text-transform:uppercase;margin-top:1rem;margin-bottom:.38rem;}
+.fl:first-child{margin-top:0;}
+.ft{font-size:.87rem;line-height:1.75;color:#ccc;}
+.ft strong{color:var(--text);font-weight:500;}
+.ft a{color:var(--accent);text-decoration:none;}
+.ft a:hover{text-decoration:underline;}
+.srclist{list-style:none;display:flex;flex-direction:column;gap:.42rem;margin-top:.3rem;}
+.srcitem{display:flex;align-items:flex-start;gap:.45rem;}
+.sdot{width:5px;height:5px;border-radius:50%;background:var(--accent2);margin-top:7px;flex-shrink:0;}
+.srcitem a{color:var(--accent2);text-decoration:none;font-size:.8rem;line-height:1.5;}
+.srcitem a:hover{text-decoration:underline;}
+.srcub{font-family:'DM Mono',monospace;font-size:.67rem;color:var(--muted);display:block;word-break:break-all;}
+.ver-detail{margin-top:.6rem;background:var(--surface2);border-radius:6px;padding:.6rem .8rem;font-size:.78rem;color:#bbb;line-height:1.65;}
+.ver-ok{border-left:2px solid var(--success);}
+.ver-warn{border-left:2px solid var(--warn);}
+.diff-grid{display:flex;flex-direction:column;gap:.5rem;margin-top:.4rem;}
+.diff-row{display:flex;gap:.6rem;align-items:flex-start;}
+.diff-lbl{font-family:'DM Mono',monospace;font-size:.62rem;padding:2px 7px;border-radius:3px;background:rgba(66,133,244,.13);color:#90b8f8;white-space:nowrap;margin-top:3px;flex-shrink:0;}
+
+/* TOAST */
+.toast{position:fixed;bottom:2rem;right:2rem;background:var(--surface);border:1px solid var(--border2);border-radius:10px;padding:.85rem 1.2rem;font-family:'DM Mono',monospace;font-size:.78rem;display:flex;align-items:center;gap:.6rem;box-shadow:0 8px 32px rgba(0,0,0,.5);z-index:999;transform:translateY(120%);opacity:0;transition:transform .35s cubic-bezier(.22,.61,.36,1),opacity .35s;pointer-events:none;max-width:320px;}
+.toast.show{transform:translateY(0);opacity:1;}
+.tdot{width:8px;height:8px;border-radius:50%;flex-shrink:0;}
+.toast.ok .tdot{background:var(--success);}
+.toast.warn .tdot{background:var(--warn);}
+.toast.err .tdot{background:var(--danger);}
+.tip{background:rgba(255,214,0,.05);border:1px solid rgba(255,214,0,.1);border-radius:8px;padding:.8rem 1.1rem;font-size:.8rem;color:#ffe57f;margin-bottom:1.1rem;line-height:1.75;}
+.empty{text-align:center;padding:3.5rem 2rem;color:var(--muted);}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">SHORTS <span>ANALYZER</span></div>
+  <span class="badge">Gemini Vision</span>
+  <div class="hright"><div class="h-status" id="hStatus">키 미입력</div></div>
+</header>
+<div class="toast" id="toast"><div class="tdot"></div><span id="toastMsg"></span></div>
+
+<div class="container">
+
+  <!-- ① API KEY -->
+  <div class="key-sec">
+    <span class="sec-label">① Gemini API 키 — 저장 후 자동 로드</span>
+    <div class="key-row">
+      <input type="password" id="gKey" placeholder="AIza..." oninput="onKeyInput()">
+      <button class="btn save" onclick="saveKey()">저장</button>
+      <button class="btn del" onclick="clearKey()">✕</button>
+    </div>
+    <div class="key-info"><div class="kdot" id="kdot"></div><span id="kinfo">키를 입력 후 저장하면 이 브라우저에 보관됩니다</span></div>
+    <div class="api-note">
+      <strong>💳 Gemini 2.5 Flash</strong> — YouTube 영상 직접 시청 · 1회 분석 약 30~60원<br>
+      키 발급: <a href="https://aistudio.google.com/apikey" target="_blank" style="color:var(--accent2)">aistudio.google.com/apikey ↗</a>
+    </div>
+  </div>
+
+  <!-- ② SPORT SELECT -->
+  <div class="sport-sec">
+    <span class="sec-label">② 종목 선택</span>
+    <div class="sport-grid">
+      <div class="sport-card kbo on" id="sp-kbo" onclick="setSport('kbo')">
+        <div class="sport-badge">선택됨</div>
+        <div class="sport-emoji">⚾</div>
+        <div class="sport-info">
+          <div class="sport-name">KBO 프로야구</div>
+          <div class="sport-desc">한국 프로야구 하이라이트 분석</div>
+        </div>
+      </div>
+      <div class="sport-card lol" id="sp-lol" onclick="setSport('lol')">
+        <div class="sport-badge">선택됨</div>
+        <div class="sport-emoji">🎮</div>
+        <div class="sport-info">
+          <div class="sport-name">리그오브레전드</div>
+          <div class="sport-desc">LoL 경기 · 롤챔스 하이라이트 분석</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ③ PERSPECTIVES -->
+  <div class="persp-sec">
+    <span class="sec-label">③ 분석 관점 선택</span>
+    <div class="persp-grid" id="perspGrid"></div>
+    <span class="sec-label" style="margin-bottom:.6rem">실행 모드</span>
+    <div class="mode-row">
+      <button class="mbtn" id="mS" onclick="setMode('single')">단일 관점</button>
+      <button class="mbtn on" id="mM" onclick="setMode('multi')">다중 관점 병렬 취합</button>
+    </div>
+    <div class="mode-note on" id="modeNote"></div>
+  </div>
+
+  <!-- ④ URL -->
+  <div class="url-sec">
+    <span class="sec-label" id="urlLabel">④ 하이라이트 YouTube URL</span>
+    <div class="url-input-row">
+      <input type="text" id="vUrl" placeholder="https://youtu.be/...">
+      <button class="btn-go" id="goBtn" onclick="startAnalysis()">분석 시작 →</button>
+    </div>
+  </div>
+
+  <div class="tip" id="tipEl">
+    💡 <strong>Gemini Vision:</strong> Gemini가 YouTube 영상을 직접 시청하고 실제 타임라인을 추출합니다.
+    이후 Google Search로 뉴스·커뮤니티 실제 언급 여부를 <strong>연도·날짜 일치 검증</strong>까지 포함해 검증하고, 할루시네이션 의심 후보는 자동 제거합니다.
+  </div>
+
+  <div class="pipeline">
+    <div class="step" id="s1"><span class="sn">01</span>영상 확인</div>
+    <div class="step" id="s2"><span class="sn">02</span>AI 분석</div>
+    <div class="step" id="s3"><span class="sn">03</span>검색 검증</div>
+    <div class="step" id="s4"><span class="sn">04</span>취합·선별</div>
+  </div>
+
+  <div class="pbar" id="pbar"><div class="pfill" id="pfill"></div></div>
+
+  <div class="timer-box" id="timerBox">
+    <div class="timer-top">
+      <span class="timer-label" id="timerPhase">준비 중...</span>
+      <span class="timer-pct" id="timerPct">0%</span>
+    </div>
+    <div class="timer-track"><div class="timer-fill" id="timerFill"></div></div>
+    <div class="timer-stats">
+      <div class="tstat"><div class="tstat-val" id="tElapsed">0:00</div><div class="tstat-lbl">경과 시간</div></div>
+      <div class="tstat hi"><div class="tstat-val" id="tRemain">--:--</div><div class="tstat-lbl">남은 시간 예상</div></div>
+      <div class="tstat"><div class="tstat-val" id="tTotal">--:--</div><div class="tstat-lbl">총 예상 시간</div></div>
+    </div>
+    <div class="cur-task"><div class="pulse" id="pulseEl"></div><span id="timerTask">분석 준비 중...</span></div>
+  </div>
+
+  <div class="logbox" id="logbox"></div>
+
+  <div class="res" id="resEl">
+    <div class="res-hd">
+      <div class="res-title">✅ 검증된 쇼츠 후보</div>
+      <div class="res-meta" id="resMeta"></div>
+    </div>
+    <div class="stabs" id="stabs" style="display:none"></div>
+    <div id="cards"></div>
+  </div>
+</div>
+
+<script>
+// ════════════════════════════════════════
+// SPORT DEFINITIONS
+// ════════════════════════════════════════
+const SPORTS = {
+  kbo: {
+    name: 'KBO 프로야구',
+    emoji: '⚾',
+    searchKeywords: ['KBO', '프로야구', '야구'],
+    perspectives: {
+      viral:    { label:'바이럴 관점',  emoji:'🔥', desc:'팬 반응·SNS 버즈, 유튜브 알고리즘 최적화 장면' },
+      tactical: { label:'전술 관점',    emoji:'📋', desc:'투구 배합, 수비 포메이션, 작전 등 야구 전술 중심' },
+      stats:    { label:'스탯 관점',    emoji:'📊', desc:'타율·방어율·역대 기록 등 데이터 의미 있는 장면' },
+    },
+    analysisPrompt: (url, perspStyle) => `당신은 한국 프로야구(KBO) 전문가이자 유튜브 쇼츠 편집 전문가입니다.
+${perspStyle}
+
+이 KBO 하이라이트 영상을 주의 깊게 시청하세요: ${url}
+
+영상을 직접 보고 유튜브 쇼츠로 만들기 좋은 장면 5~6개를 찾아주세요.
+반드시 영상에서 실제로 보이는 정확한 타임스탬프를 기입하세요.
+
+결과를 아래 JSON 형식으로만 반환하세요 (마크다운 없이):
+{
+  "video_title": "영상 제목",
+  "game_info": {
+    "teams": "홈팀 vs 원정팀",
+    "date": "경기 날짜 (YYYY-MM-DD)",
+    "season": "시즌 (예: 2024 KBO)",
+    "final_score": "최종 스코어"
+  },
+  "candidates": [
+    {
+      "rank": 1,
+      "title": "쇼츠 제목 (한국어, 20자 이내)",
+      "start_sec": 45,
+      "end_sec": 82,
+      "players": ["선수명"],
+      "scene_description": "장면을 구체적으로 한국어로 설명",
+      "engagement_reason": "이 장면이 조회수를 높이는 이유 (한국어)",
+      "sports_significance": "야구팬에게 의미 있는 이유 (한국어)",
+      "viral_potential": "high"
+    }
+  ]
+}`,
+    verifyPrompt: (c, gi, uploadDate) => {
+      const year = uploadDate ? uploadDate.slice(0,4) : new Date().getFullYear();
+      const teams = gi.teams || 'KBO';
+      const date  = gi.date  || gi.season || '';
+      return `다음 KBO 야구 장면에 대한 뉴스, 기사, 커뮤니티 반응을 검색해주세요.
+
+반드시 ${year}년 전후 최근 자료만 사용하고, 연도가 다른 자료는 무시하세요.
+
+장면: "${c.scene_description}"
+선수: ${(c.players||[]).join(', ')}
+경기: ${teams} ${date}
+
+검색 대상:
+1. 네이버 스포츠, 스포츠조선, 엑스포츠뉴스 등 스포츠 뉴스
+2. 네이버 카페(야구 커뮤니티), MLB파크, 에펨코리아 등 팬 반응
+3. 해당 선수/경기 관련 ${year}년 기사
+
+중요: 검색 결과의 날짜를 반드시 확인하고, ${year}년 자료인지 명시해주세요.
+검색된 자료의 날짜와 경기 날짜가 일치하는지 교차 확인해주세요.
+검증 가능한 자료가 없으면 반드시 NO_VERIFICATION_FOUND로 시작하세요.
+관련 URL을 포함해 요약해주세요.`;
+    }
+  },
+  lol: {
+    name: '리그오브레전드',
+    emoji: '🎮',
+    searchKeywords: ['롤', 'LoL', '리그오브레전드', 'LCK'],
+    perspectives: {
+      viral:    { label:'바이럴 관점',  emoji:'🔥', desc:'팬 반응·밈·SNS 화제, 유튜브 알고리즘 최적화 플레이' },
+      tactical: { label:'전술 관점',    emoji:'📋', desc:'한타 구도, 오브젝트 운영, 픽밴 의도 등 전략 중심' },
+      stats:    { label:'스탯 관점',    emoji:'📊', desc:'KDA·CS·딜량·역대 기록 등 데이터 의미 있는 장면' },
+    },
+    analysisPrompt: (url, perspStyle) => `당신은 리그오브레전드(LoL) e스포츠 전문가이자 유튜브 쇼츠 편집 전문가입니다.
+${perspStyle}
+
+이 LoL 하이라이트 영상을 주의 깊게 시청하세요: ${url}
+
+영상을 직접 보고 유튜브 쇼츠로 만들기 좋은 장면 5~6개를 찾아주세요.
+반드시 영상에서 실제로 보이는 정확한 타임스탬프를 기입하세요.
+
+결과를 아래 JSON 형식으로만 반환하세요 (마크다운 없이):
+{
+  "video_title": "영상 제목",
+  "game_info": {
+    "teams": "팀A vs 팀B",
+    "date": "경기 날짜 (YYYY-MM-DD)",
+    "season": "시즌 (예: 2024 LCK Spring)",
+    "final_score": "세트 스코어"
+  },
+  "candidates": [
+    {
+      "rank": 1,
+      "title": "쇼츠 제목 (한국어, 20자 이내)",
+      "start_sec": 45,
+      "end_sec": 82,
+      "players": ["선수명 (챔피언명)"],
+      "scene_description": "장면을 구체적으로 한국어로 설명",
+      "engagement_reason": "이 장면이 조회수를 높이는 이유 (한국어)",
+      "sports_significance": "LoL 팬에게 의미 있는 이유 (한국어)",
+      "viral_potential": "high"
+    }
+  ]
+}`,
+    verifyPrompt: (c, gi, uploadDate) => {
+      const year = uploadDate ? uploadDate.slice(0,4) : new Date().getFullYear();
+      const teams = gi.teams || 'LCK';
+      const date  = gi.date  || gi.season || '';
+      return `다음 리그오브레전드 장면에 대한 뉴스, 기사, 커뮤니티 반응을 검색해주세요.
+
+반드시 ${year}년 전후 최근 자료만 사용하고, 연도가 다른 자료는 무시하세요.
+
+장면: "${c.scene_description}"
+선수/챔피언: ${(c.players||[]).join(', ')}
+경기: ${teams} ${date}
+
+검색 대상:
+1. 인벤, 포모스, 게임메카 등 게임 전문 뉴스
+2. 네이버 카페(롤 커뮤니티), 루리웹, 에펨코리아 등 팬 반응
+3. 트위터/X, 유튜브 댓글 등 SNS 반응
+4. 해당 선수 ${year}년 관련 기사
+
+중요: 검색 결과의 날짜를 반드시 확인하고, ${year}년 자료인지 명시해주세요.
+검색된 자료의 날짜와 경기 날짜가 일치하는지 교차 확인해주세요.
+검증 가능한 자료가 없으면 반드시 NO_VERIFICATION_FOUND로 시작하세요.
+관련 URL을 포함해 요약해주세요.`;
+    }
+  }
+};
+
+// 관점별 분석 스타일
+const PERSP_STYLES = {
+  viral:    '바이럴 관점으로 분석하세요: SNS에서 화제가 될 만한 장면, 팬들이 열광할 플레이, 밈이 될 수 있는 순간, 감정적 피크, 유튜브 알고리즘에 최적화된 클립을 중심으로 선별하세요.',
+  tactical: '전술 관점으로 분석하세요: 탁월한 전략적 판단, 팀워크, 작전의 성공/실패, 선수의 상황 판단 능력, 경기 흐름을 바꾼 장면을 중심으로 선별하세요.',
+  stats:    '스탯 관점으로 분석하세요: 역대 기록 경신, 시즌 통계상 의미 있는 퍼포먼스, 역사적으로 드문 기록, 데이터로 증명되는 탁월한 장면을 중심으로 선별하세요.',
+};
+
+// ════════════════════════════════════════
+// STATE
+// ════════════════════════════════════════
+const LS_KEY  = 'sa_gemini_key';
+const LS_SEL  = 'sa_persp_sel';
+const LS_MODE = 'sa_mode';
+const LS_SPORT= 'sa_sport';
+const G_MODEL = 'gemini-2.5-flash';
+const G_BASE  = 'https://generativelanguage.googleapis.com/v1beta/models/';
+
+let currentSport = 'kbo';
+let mode = 'multi';
+let sel  = { viral:true, tactical:true, stats:true };
+
+// ════════════════════════════════════════
+// STORAGE
+// ════════════════════════════════════════
+const lsSet=(k,v)=>{try{localStorage.setItem(k,v);}catch(e){}};
+const lsGet=k=>{try{return localStorage.getItem(k);}catch(e){return null;}};
+const lsDel=k=>{try{localStorage.removeItem(k);}catch(e){}};
+
+// ════════════════════════════════════════
+// TOAST
+// ════════════════════════════════════════
+let toastT;
+function toast(msg,type='ok'){
+  const el=document.getElementById('toast');
+  el.className='toast '+type;
+  document.getElementById('toastMsg').textContent=msg;
+  void el.offsetWidth; el.classList.add('show');
+  clearTimeout(toastT); toastT=setTimeout(()=>el.classList.remove('show'),3200);
+}
+
+// ════════════════════════════════════════
+// KEY
+// ════════════════════════════════════════
+function saveKey(){
+  const v=document.getElementById('gKey').value.trim();
+  if(!v){toast('키를 입력해주세요','warn');return;}
+  if(!v.startsWith('AIza')){toast('올바른 Gemini 키 형식이 아닙니다 (AIza...)','warn');return;}
+  lsSet(LS_KEY,v); markSaved(true);
+  toast('Gemini API 키 저장 완료 ✓','ok');
+}
+function clearKey(){lsDel(LS_KEY);document.getElementById('gKey').value='';markSaved(false);toast('키 삭제됨','warn');}
+function onKeyInput(){
+  document.getElementById('kinfo').textContent='미저장 — 저장 버튼을 눌러주세요';
+  document.getElementById('gKey').classList.remove('saved');
+  document.getElementById('kdot').classList.remove('on');
+  document.getElementById('hStatus').textContent='키 미저장';
+  document.getElementById('hStatus').classList.remove('ready');
+}
+function markSaved(ok){
+  const inp=document.getElementById('gKey'),dot=document.getElementById('kdot'),
+        inf=document.getElementById('kinfo'),hs=document.getElementById('hStatus');
+  if(ok){
+    inp.classList.add('saved');dot.classList.add('on');
+    inf.textContent='✓ 저장됨 — 다음 방문 시 자동 로드';
+    hs.textContent='Gemini 연결됨';hs.classList.add('ready');
+  }else{
+    inp.classList.remove('saved');dot.classList.remove('on');
+    inf.textContent='키를 입력 후 저장하면 이 브라우저에 보관됩니다';
+    hs.textContent='키 미입력';hs.classList.remove('ready');
+  }
+}
+function getKey(){return document.getElementById('gKey').value.trim()||lsGet(LS_KEY)||'';}
+
+// ════════════════════════════════════════
+// SPORT
+// ════════════════════════════════════════
+function setSport(id){
+  currentSport=id; lsSet(LS_SPORT,id);
+  ['kbo','lol'].forEach(s=>{
+    document.getElementById('sp-'+s).classList.toggle('on',s===id);
+  });
+  renderPerspCards();
+  updateModeNote();
+  document.getElementById('urlLabel').textContent =
+    `④ ${SPORTS[id].name} 하이라이트 YouTube URL`;
+}
+
+// ════════════════════════════════════════
+// PERSPECTIVES
+// ════════════════════════════════════════
+function renderPerspCards(){
+  const perps = SPORTS[currentSport].perspectives;
+  document.getElementById('perspGrid').innerHTML = Object.entries(perps).map(([id,p])=>`
+    <div class="pcard ${sel[id]?'on':''}" id="pc-${id}" onclick="toggleP('${id}')">
+      <div class="pchk" id="pk-${id}">✓</div>
+      <div class="pcard-h"><div class="picon">${p.emoji}</div>
+        <div><div class="pname">${p.label}</div><div class="psub">${id}</div></div>
+      </div>
+      <div class="pdesc">${p.desc}</div>
+    </div>`).join('');
+}
+function toggleP(id){
+  const active=Object.keys(sel).filter(k=>sel[k]);
+  if(sel[id]&&active.length===1){toast('최소 1개는 선택해야 합니다','warn');return;}
+  sel[id]=!sel[id];
+  document.getElementById('pc-'+id)?.classList.toggle('on',sel[id]);
+  lsSet(LS_SEL,JSON.stringify(sel));
+  updateModeNote();
+}
+function getActiveP(){return Object.keys(sel).filter(id=>sel[id]);}
+function setMode(m){
+  mode=m; lsSet(LS_MODE,m);
+  document.getElementById('mS').classList.toggle('on',m==='single');
+  document.getElementById('mM').classList.toggle('on',m==='multi');
+  updateModeNote();
+}
+function updateModeNote(){
+  const note=document.getElementById('modeNote');
+  const perps=SPORTS[currentSport].perspectives;
+  if(mode==='single'){note.classList.remove('on');return;}
+  const active=getActiveP();
+  note.classList.add('on');
+  if(active.length<2) note.textContent='⚠ 2개 이상 선택해주세요.';
+  else note.textContent=`✦ ${active.map(p=>perps[p]?.label||p).join(' + ')} 동시 분석 → 취합 → 교차 검증`;
+}
+
+// ════════════════════════════════════════
+// UTILS
+// ════════════════════════════════════════
+const sleep=ms=>new Promise(r=>setTimeout(r,ms));
+function fmtT(s){return `${Math.floor(s/60)}:${String(s%60).padStart(2,'0')}`;}
+function fmtSec(s){if(s<0||isNaN(s))return '--:--';return `${Math.floor(s/60)}:${String(Math.round(s%60)).padStart(2,'0')}`;}
+function getVid(url){
+  for(const p of[/[?&]v=([^&]+)/,/youtu\.be\/([^?&]+)/,/embed\/([^?&]+)/]){
+    const m=url.match(p);if(m)return m[1].split('?')[0];
+  }return null;
+}
+let logs_=[];
+function log(msg,type=''){
+  const box=document.getElementById('logbox');box.classList.add('on');
+  const t=new Date().toTimeString().slice(0,8);logs_.push({t,msg,type});
+  box.innerHTML=logs_.map(l=>`<div class="ll"><span class="lt">${l.t}</span><span class="lm ${l.type}">${l.msg}</span></div>`).join('');
+  box.scrollTop=box.scrollHeight;
+}
+function prog(p,label){
+  document.getElementById('pbar').classList.add('on');
+  document.getElementById('pfill').style.width=p+'%';
+  updateTimer(p,label);
+}
+function setStep(n){
+  const labels=['영상 URL 확인 중','AI 영상 분석 중','뉴스·커뮤니티 검증 중','후보 취합·선별 중'];
+  for(let i=1;i<=4;i++) document.getElementById('s'+i).className='step'+(i<n?' done':i===n?' active':'');
+  if(n>=1&&n<=4) updateTimer(_currentPct,labels[n-1]);
+}
+
+// ════════════════════════════════════════
+// TIMER
+// ════════════════════════════════════════
+let _timerStart=0,_timerInterval=null,_currentPct=0;
+function startTimer(totalSec,label){
+  _timerStart=Date.now(); _currentPct=0;
+  document.getElementById('timerBox').classList.add('on');
+  document.getElementById('timerPct').textContent='0%';
+  document.getElementById('timerFill').style.width='0%';
+  document.getElementById('timerPhase').textContent=label;
+  document.getElementById('timerTask').textContent=label;
+  document.getElementById('tTotal').textContent=fmtSec(totalSec);
+  document.getElementById('tRemain').textContent=fmtSec(totalSec);
+  document.getElementById('tElapsed').textContent='0:00';
+  const pulse=document.getElementById('pulseEl');
+  pulse.style.background='var(--gemini)'; pulse.style.animation='';
+  if(_timerInterval) clearInterval(_timerInterval);
+  _timerInterval=setInterval(()=>{
+    const el=(Date.now()-_timerStart)/1000;
+    document.getElementById('tElapsed').textContent=fmtSec(el);
+    if(_currentPct>0){
+      const est=el/(_currentPct/100);
+      document.getElementById('tTotal').textContent=fmtSec(est);
+      document.getElementById('tRemain').textContent=fmtSec(Math.max(0,est-el));
+    }
+  },500);
+}
+function updateTimer(pct,label){
+  _currentPct=pct;
+  document.getElementById('timerPct').textContent=Math.round(pct)+'%';
+  document.getElementById('timerFill').style.width=pct+'%';
+  if(label){document.getElementById('timerPhase').textContent=label;document.getElementById('timerTask').textContent=label;}
+}
+function stopTimer(label){
+  if(_timerInterval) clearInterval(_timerInterval);
+  const el=(Date.now()-_timerStart)/1000;
+  document.getElementById('timerPct').textContent='100%';
+  document.getElementById('timerFill').style.width='100%';
+  document.getElementById('tRemain').textContent='0:00';
+  document.getElementById('tElapsed').textContent=fmtSec(el);
+  document.getElementById('tTotal').textContent=fmtSec(el);
+  document.getElementById('timerPhase').textContent=label;
+  document.getElementById('timerTask').textContent=label;
+  const pulse=document.getElementById('pulseEl');
+  pulse.style.background='var(--success)'; pulse.style.animation='none';
+}
+function resetTimer(){
+  if(_timerInterval) clearInterval(_timerInterval);
+  document.getElementById('timerBox').classList.remove('on');
+}
+
+// ════════════════════════════════════════
+// GEMINI API
+// ════════════════════════════════════════
+async function geminiJSON(key,prompt,videoUrl){
+  const parts=[{text:prompt}];
+  if(videoUrl) parts.push({file_data:{mime_type:'video/youtube',file_uri:videoUrl}});
+  const body={
+    contents:[{parts}],
+    generationConfig:{temperature:0.4,responseMimeType:'application/json'}
+  };
+  const r=await fetch(`${G_BASE}${G_MODEL}:generateContent?key=${key}`,{
+    method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)
+  });
+  if(!r.ok){const e=await r.json();throw new Error(e.error?.message||`HTTP ${r.status}`);}
+  const d=await r.json();
+  const txt=d.candidates?.[0]?.content?.parts?.[0]?.text||'{}';
+  try{return JSON.parse(txt.replace(/```json|```/g,'').trim());}
+  catch(e){throw new Error('JSON 파싱 실패: '+txt.slice(0,120));}
+}
+
+async function geminiSearch(key,prompt){
+  const body={
+    contents:[{parts:[{text:prompt}]}],
+    tools:[{google_search:{}}],
+    generationConfig:{temperature:0.2}
+  };
+  const r=await fetch(`${G_BASE}${G_MODEL}:generateContent?key=${key}`,{
+    method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)
+  });
+  if(!r.ok){const e=await r.json();throw new Error(e.error?.message||`HTTP ${r.status}`);}
+  const d=await r.json();
+  const parts=d.candidates?.[0]?.content?.parts||[];
+  let text=''; for(const p of parts) if(p.text) text+=p.text;
+  const sources=(d.candidates?.[0]?.groundingMetadata?.groundingChunks||[])
+    .filter(c=>c.web).map(c=>({title:c.web.title||'링크',url:c.web.uri}));
+  return{text,sources};
+}
+
+// ════════════════════════════════════════
+// 강화된 검증 — 연도 일치 + 다단계
+// ════════════════════════════════════════
+function extractYearFromUrl(url){
+  // YouTube URL에서 업로드 연도 추정은 불가능하므로 game_info 날짜 사용
+  return null;
+}
+
+function validateSourceYears(sources, targetYear){
+  // URL에서 연도 패턴 추출
+  const yearPattern = /20\d{2}/g;
+  const valid=[], invalid=[];
+  for(const s of sources){
+    const years=[...s.url.matchAll(yearPattern),...(s.title||'').matchAll(yearPattern)]
+      .map(m=>parseInt(m[0]));
+    if(years.length===0){
+      valid.push({...s, yearNote:'연도 확인 불가'});
+    } else if(years.some(y=>Math.abs(y-targetYear)<=1)){
+      valid.push({...s, yearNote:`${Math.max(...years)}년`});
+    } else {
+      invalid.push({...s, yearNote:`연도 불일치(${years.join(',')}년)`});
+    }
+  }
+  return{valid,invalid};
+}
+
+async function verifyCandidate(key, c, gi, sport, uploadDate){
+  const sportDef = SPORTS[sport];
+  const targetYear = gi.date
+    ? parseInt(gi.date.slice(0,4))
+    : (new Date().getFullYear());
+
+  // Step 1: 1차 검색 — 장면 + 선수 + 연도
+  log(`  [검증 1단계] "${c.title}" 뉴스 검색 중...`,'g');
+  const v1 = await geminiSearch(key, sportDef.verifyPrompt(c, gi, uploadDate));
+  await sleep(800);
+
+  // Step 2: 소스 연도 검증
+  const {valid:validSrc, invalid:invalidSrc} = validateSourceYears(v1.sources, targetYear);
+  if(invalidSrc.length>0){
+    log(`  [검증] 연도 불일치 소스 ${invalidSrc.length}개 제외`,'warn');
+  }
+
+  // Step 3: 2차 검색 — 유효 소스가 부족하면 선수명으로 재검색
+  let allSources=[...validSrc];
+  let allText=v1.text;
+  if(validSrc.length<2 && (c.players||[]).length>0){
+    log(`  [검증 2단계] 선수 중심 재검색...`,'g');
+    const playerQuery = `${(c.players||[]).join(' ')} ${targetYear}년 ${sportDef.searchKeywords[0]} 기록 뉴스`;
+    const v2 = await geminiSearch(key, `다음 ${sportDef.name} 선수와 관련된 ${targetYear}년 뉴스나 기록을 검색해주세요:\n\n"${playerQuery}"\n\n${targetYear}년 자료만 포함하고, 관련 URL과 함께 요약해주세요. 관련 없으면 NO_VERIFICATION_FOUND로 시작하세요.`);
+    await sleep(600);
+    const {valid:v2valid} = validateSourceYears(v2.sources, targetYear);
+    allSources=[...validSrc,...v2valid];
+    if(v2valid.length>0) allText += '\n\n[추가 검색 결과]\n' + v2.text;
+  }
+
+  // Step 4: 날짜 일치 최종 판정
+  const noVerif = allText.trimStart().startsWith('NO_VERIFICATION_FOUND');
+  const textOk  = !noVerif && allText.length > 80;
+  const srcOk   = allSources.length > 0;
+  const verified = textOk || srcOk;
+
+  return {
+    text: allText,
+    sources: allSources,
+    invalidSources: invalidSrc,
+    verified,
+    yearNote: `${targetYear}년 기준 검증`
+  };
+}
+
+// ════════════════════════════════════════
+// SINGLE PIPELINE
+// ════════════════════════════════════════
+async function runSingle(perspId, videoUrl, key){
+  const sport=SPORTS[currentSport];
+  const perp=sport.perspectives[perspId];
+  log(`[${perp.label}] Gemini 영상 분석 중...`,'g');
+  const prompt=sport.analysisPrompt(videoUrl, PERSP_STYLES[perspId]);
+  const res=await geminiJSON(key, prompt, videoUrl);
+  const cands=res.candidates||[];
+  const gi=res.game_info||{};
+  log(`경기: ${gi.teams||'?'} | ${gi.date||gi.season||''} | ${gi.final_score||''}`,'info');
+  log(`${cands.length}개 후보 발견`,'ok');
+  prog(38,'분석 완료 — 검증 시작');
+  setStep(3);
+
+  const verified=[];
+  for(let i=0;i<cands.length;i++){
+    const c=cands[i];
+    prog(38+(i/cands.length)*47, `검증 중 (${i+1}/${cands.length})`);
+    log(`검증 (${i+1}/${cands.length}): "${c.title}"`);
+    try{
+      const v=await verifyCandidate(key,c,gi,currentSport,null);
+      if(v.verified){
+        log(`✓ 검증됨: "${c.title}" (${v.yearNote})`,'ok');
+        verified.push({...c,persp:perspId,ai_sources:[perspId],
+          verification_summary:v.text,sources:v.sources,
+          invalid_sources:v.invalidSources,year_note:v.yearNote});
+      }else{
+        log(`✗ 검증 불가 — 제외: "${c.title}"`,'warn');
+      }
+    }catch(e){
+      log(`검증 오류(유지): ${e.message}`,'warn');
+      verified.push({...c,persp:perspId,ai_sources:[perspId],
+        verification_summary:'검증 오류 — 수동 확인 필요',sources:[],year_note:''});
+    }
+    await sleep(600);
+  }
+  return{candidates:verified,gameInfo:gi,totalBefore:cands.length,videoTitle:res.video_title||''};
+}
+
+// ════════════════════════════════════════
+// MULTI PIPELINE
+// ════════════════════════════════════════
+async function runMulti(activeP, videoUrl, key){
+  const sport=SPORTS[currentSport];
+  log(`다중 관점 분석 — ${activeP.map(p=>sport.perspectives[p].label).join(' + ')}`,'info');
+
+  // Phase 1: 순차 분석
+  const results=[];
+  for(let i=0;i<activeP.length;i++){
+    const perspId=activeP[i];
+    const perp=sport.perspectives[perspId];
+    try{
+      log(`[${perp.label}] Gemini 영상 분석 중...`,'g');
+      prog(5+(i/activeP.length)*33, `${perp.label} 분석 중...`);
+      const prompt=sport.analysisPrompt(videoUrl, PERSP_STYLES[perspId]);
+      const res=await geminiJSON(key, prompt, videoUrl);
+      log(`[${perp.label}] ${(res.candidates||[]).length}개 반환`,'ok');
+      results.push({perspId,result:res});
+      if(i<activeP.length-1) await sleep(1000);
+    }catch(e){
+      log(`[${sport.perspectives[perspId].label}] 실패: ${e.message}`,'err');
+    }
+  }
+  if(!results.length) throw new Error('모든 관점 분석 실패');
+
+  const gi=results[0].result.game_info||{};
+  const videoTitle=results[0].result.video_title||'';
+  log(`경기: ${gi.teams||'?'} | ${gi.date||gi.season||''} | ${gi.final_score||''}`,'info');
+  prog(40,'후보 취합 중');
+
+  // Phase 2: 취합 + 중복 제거 (±12초)
+  const all=[];
+  for(const{perspId,result}of results)
+    for(const c of(result.candidates||[]))
+      all.push({...c,persp:perspId});
+
+  const deduped=[];
+  for(const c of all){
+    const ex=deduped.find(d=>Math.abs(d.start_sec-c.start_sec)<13&&!(d.ai_sources||[]).includes(c.persp));
+    if(ex){
+      ex.ai_sources=[...(ex.ai_sources||[ex.persp]),c.persp];
+      ex.multi_desc=ex.multi_desc||[{perspId:ex.persp,text:ex.scene_description}];
+      ex.multi_desc.push({perspId:c.persp,text:c.scene_description});
+      ex.agreement=(ex.agreement||1)+1;
+      if((c.scene_description||'').length>(ex.scene_description||'').length)
+        ex.scene_description=c.scene_description;
+    }else{
+      deduped.push({...c,ai_sources:[c.persp],agreement:1});
+    }
+  }
+  deduped.sort((a,b)=>{
+    if(b.agreement!==a.agreement)return b.agreement-a.agreement;
+    return (b.viral_potential==='high'?1:0)-(a.viral_potential==='high'?1:0);
+  });
+  log(`취합: ${all.length}개 → 중복제거 후 ${deduped.length}개`,'info');
+
+  // Phase 3: 강화 검증
+  setStep(3);
+  const verified=[];
+  for(let i=0;i<deduped.length;i++){
+    const c=deduped[i];
+    prog(43+(i/deduped.length)*44, `검증 중 (${i+1}/${deduped.length})`);
+    const pLabels=(c.ai_sources||[c.persp]).map(p=>sport.perspectives[p]?.label||p).join('+');
+    log(`검증 (${i+1}/${deduped.length}): "${c.title}" [${pLabels}]`);
+    try{
+      const v=await verifyCandidate(key,c,gi,currentSport,null);
+      const consensus=(c.agreement||1)>=2;
+      if(v.verified||(consensus&&v.text.length>30)){
+        const note=(!v.verified&&consensus)?` (${c.agreement}개 관점 합의로 유지)`:'';
+        log(`✓ 검증됨: "${c.title}"${note} (${v.yearNote})`,'ok');
+        verified.push({...c,verification_summary:v.text,sources:v.sources,
+          invalid_sources:v.invalidSources,year_note:v.yearNote});
+      }else{
+        log(`✗ 검증 불가 — 제외: "${c.title}"`,'warn');
+      }
+    }catch(e){
+      log(`검증 오류(유지): ${e.message}`,'warn');
+      verified.push({...c,verification_summary:'검증 오류 — 수동 확인 필요',
+        sources:[],invalid_sources:[],year_note:''});
+    }
+    await sleep(700);
+  }
+  return{candidates:verified,gameInfo:gi,totalBefore:all.length,byPersp:results,videoTitle};
+}
+
+// ════════════════════════════════════════
+// MAIN
+// ════════════════════════════════════════
+async function startAnalysis(){
+  const key=getKey();
+  if(!key){toast('Gemini API 키를 먼저 입력·저장해주세요','warn');return;}
+  const url=document.getElementById('vUrl').value.trim();
+  const vid=getVid(url);
+  if(!vid){toast('올바른 YouTube URL을 입력해주세요','warn');return;}
+  const activeP=getActiveP();
+  if(!activeP.length){toast('관점을 최소 1개 선택해주세요','warn');return;}
+  if(mode==='multi'&&activeP.length<2){toast('다중 관점 모드는 2개 이상 선택 필요합니다','warn');return;}
+
+  const videoUrl=`https://www.youtube.com/watch?v=${vid}`;
+  document.getElementById('goBtn').disabled=true;
+  document.getElementById('resEl').classList.remove('on');
+  document.getElementById('logbox').classList.remove('on');
+  document.getElementById('stabs').style.display='none';
+  logs_=[];
+  resetTimer();
+
+  const estSec = mode==='multi'
+    ? activeP.length*30 + 15*18
+    : 30 + 6*18;
+  startTimer(estSec,'분석 준비 중...');
+
+  try{
+    setStep(1); prog(3,'영상 URL 확인 중');
+    log(`종목: ${SPORTS[currentSport].name}`,'info');
+    log(`영상 ID: ${vid}`,'info');
+    log(`모드: ${mode==='multi'?'다중 관점':'단일 관점'} | 관점: ${activeP.map(p=>SPORTS[currentSport].perspectives[p].label).join(', ')}`,'info');
+    await sleep(300);
+    setStep(2);
+
+    let result;
+    if(mode==='single'||activeP.length===1){
+      result=await runSingle(activeP[0],videoUrl,key);
+    }else{
+      result=await runMulti(activeP,videoUrl,key);
+    }
+
+    setStep(4); prog(97,'최종 선별 중');
+    if(result.videoTitle) log(`영상: ${result.videoTitle}`,'info');
+    log(`최종 선별: ${result.candidates.length}개 / 전체 ${result.totalBefore}개`,'ok');
+    await sleep(200);
+    renderResults(result,vid);
+    prog(100,'완료');
+    stopTimer(`✅ 완료 — ${result.candidates.length}개 후보 발견`);
+    log('완료!','ok');
+    toast(`${result.candidates.length}개 쇼츠 후보 발견 ✓`,'ok');
+  }catch(e){
+    log('오류: '+e.message,'err');
+    stopTimer('❌ 오류 발생');
+    toast('오류: '+e.message,'err');
+  }finally{
+    document.getElementById('goBtn').disabled=false;
+  }
+}
+
+// ════════════════════════════════════════
+// RENDER
+// ════════════════════════════════════════
+window._cands=[]; window._vid='';
+
+function renderResults(r,vid){
+  const{candidates,totalBefore,byPersp,videoTitle}=r;
+  window._cands=candidates; window._vid=vid;
+  const sport=SPORTS[currentSport];
+  let metaStr=`${candidates.length}개 검증 통과 / 총 ${totalBefore}개 후보 | ${sport.name}`;
+  if(videoTitle) metaStr=`"${videoTitle}" | `+metaStr;
+  document.getElementById('resMeta').textContent=metaStr;
+
+  const stabs=document.getElementById('stabs');
+  if(mode==='multi'&&byPersp&&byPersp.length>1){
+    stabs.style.display='flex';
+    stabs.innerHTML=
+      `<button class="stab on merged" onclick="filterCards('all',this)">🔀 전체 취합 (${candidates.length})</button>`
+      +byPersp.map(({perspId,result})=>
+        `<button class="stab" onclick="filterCards('${perspId}',this)">${sport.perspectives[perspId].emoji} ${sport.perspectives[perspId].label} (${(result.candidates||[]).length})</button>`
+      ).join('');
+  }
+  if(!candidates.length){
+    document.getElementById('cards').innerHTML=`<div class="empty"><div style="font-size:3rem;opacity:.2;margin-bottom:1rem">${sport.emoji}</div>검증된 후보를 찾지 못했습니다.<br><span style="font-size:.8rem">영상이 공개 영상인지, 종목이 맞는지 확인해주세요.</span></div>`;
+  }else{
+    renderCards(candidates,vid);
+  }
+  document.getElementById('resEl').classList.add('on');
+  document.getElementById('resEl').scrollIntoView({behavior:'smooth',block:'start'});
+}
+
+function filterCards(perspId,btn){
+  document.querySelectorAll('.stab').forEach(t=>t.classList.remove('on'));
+  btn.classList.add('on');
+  if(perspId==='all') btn.classList.add('merged');
+  const filtered=perspId==='all'?window._cands
+    :window._cands.filter(c=>(c.ai_sources||[c.persp]).includes(perspId));
+  renderCards(filtered,window._vid);
+}
+
+function renderCards(cands,vid){
+  const sport=SPORTS[currentSport];
+  document.getElementById('cards').innerHTML=cands.map((c,i)=>{
+    const ytUrl=`https://www.youtube.com/watch?v=${vid}&t=${c.start_sec}s`;
+    const ais=c.ai_sources||[c.persp];
+    const perspTags=ais.map(p=>`<span class="tag t-persp">${sport.perspectives[p]?.emoji||''} ${sport.perspectives[p]?.label||p}</span>`).join('');
+    const agreeTag=(c.agreement||1)>1?`<span class="tag t-agree">✦ ${c.agreement}개 관점 합의</span>`:'';
+    const verTag=(c.sources||[]).length>0
+      ?`<span class="tag t-ver">✓ 검증됨</span>`
+      :`<span class="tag t-unver">미검증</span>`;
+
+    // 검증된 소스
+    const srcHtml=(c.sources||[]).length>0
+      ?`<ul class="srclist">${c.sources.slice(0,5).map(s=>`
+          <li class="srcitem"><span class="sdot"></span><div>
+            <a href="${s.url}" target="_blank">${s.title||'링크'}${s.yearNote?` <span style="color:var(--success);font-size:.65rem">[${s.yearNote}]</span>`:''}</a>
+            <span class="srcub">${s.url}</span>
+          </div></li>`).join('')}</ul>`
+      :`<p class="ft" style="color:var(--muted)">검증된 직접 소스 없음 — 검증 내용 참조</p>`;
+
+    // 제외된 연도 불일치 소스 경고
+    const invalidWarn=(c.invalid_sources||[]).length>0
+      ?`<div style="margin-top:.5rem;font-size:.75rem;color:var(--warn);font-family:'DM Mono',monospace;">⚠ 연도 불일치로 제외된 소스 ${c.invalid_sources.length}개 (${c.invalid_sources.map(s=>s.yearNote).join(', ')})</div>`
+      :'';
+
+    const multiHtml=c.multi_desc?.length
+      ?`<div class="fl">🔍 관점별 해석 비교</div>
+        <div class="diff-grid">${c.multi_desc.map(d=>`
+          <div class="diff-row">
+            <span class="diff-lbl">${sport.perspectives[d.perspId]?.emoji||''} ${sport.perspectives[d.perspId]?.label||d.perspId}</span>
+            <span class="ft">${d.text}</span>
+          </div>`).join('')}</div>`:'';
+
+    const vt=(c.verification_summary||'').slice(0,600)+((c.verification_summary||'').length>600?'...':'');
+    const verClass=vt&&!vt.startsWith('NO_VERIFICATION')?'ver-ok':'ver-warn';
+
+    return `<div class="card">
+      <div class="card-h">
+        <div class="rank">${String(i+1).padStart(2,'0')}</div>
+        <div class="ctitle">${c.title||c.scene_description}</div>
+        <span class="tag t-time">${fmtT(c.start_sec)} – ${fmtT(c.end_sec)}</span>
+        ${verTag}${perspTags}${agreeTag}
+      </div>
+      <div class="card-b">
+        <div class="fl">📍 타임라인 (실제 영상 기준)</div>
+        <p class="ft">
+          <strong>${fmtT(c.start_sec)} ~ ${fmtT(c.end_sec)}</strong>
+          (${c.end_sec-c.start_sec}초 구간) —
+          <a href="${ytUrl}" target="_blank">▶ 해당 구간 바로가기 ↗</a>
+        </p>
+        ${(c.players||[]).length?`<div class="fl">👤 등장 선수</div><p class="ft">${c.players.join(', ')}</p>`:''}
+        <div class="fl">🎬 장면 설명 (Gemini 직접 확인)</div>
+        <p class="ft">${c.scene_description}</p>
+        ${multiHtml}
+        <div class="fl">🔥 조회수에 좋은 이유</div>
+        <p class="ft">${c.engagement_reason}</p>
+        <div class="fl">🏆 팬에게 의미 있는 이유</div>
+        <p class="ft">${c.sports_significance||c.basketball_significance||''}</p>
+        <div class="fl">🔍 검증 결과${c.year_note?` — ${c.year_note}`:''}</div>
+        ${srcHtml}
+        ${invalidWarn}
+        ${vt?`<div class="ver-detail ${verClass}">${vt}</div>`:''}
+      </div>
+    </div>`;
+  }).join('');
+}
+
+// ════════════════════════════════════════
+// INIT
+// ════════════════════════════════════════
+(function init(){
+  const k=lsGet(LS_KEY);
+  if(k){document.getElementById('gKey').value=k;markSaved(true);}
+  const sp=lsGet(LS_SPORT);
+  if(sp&&SPORTS[sp]) currentSport=sp;
+  ['kbo','lol'].forEach(s=>document.getElementById('sp-'+s).classList.toggle('on',s===currentSport));
+  const sv=lsGet(LS_SEL);
+  if(sv){try{Object.assign(sel,JSON.parse(sv));}catch(e){}}
+  const m=lsGet(LS_MODE);
+  if(m) mode=m;
+  document.getElementById('mS').classList.toggle('on',mode==='single');
+  document.getElementById('mM').classList.toggle('on',mode==='multi');
+  renderPerspCards();
+  updateModeNote();
+})();
+</script>
+</body>
+</html>
