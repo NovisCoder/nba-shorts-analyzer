@@ -1,0 +1,341 @@
+{
+  "savedAt": "2026-04-17T12:34:07.895Z",
+  "sport": "KBO 프로야구",
+  "videoUrl": "https://www.youtube.com/watch?v=gfPh125xdcg",
+  "videoTitle": "[롯데자이언츠 vs LG트윈스] 4.16(목) 야구 하이라이트｜2026 KBO 리그",
+  "gameInfo": {
+    "teams": "LG vs 롯데",
+    "date": "2026-04-16",
+    "season": "2026 KBO리그",
+    "final_score": "LG 트윈스 7 : 4 롯데 자이언츠",
+    "home_team": "LG",
+    "away_team": "롯데"
+  },
+  "totalCandidatesBefore": 18,
+  "verifiedCandidates": [
+    {
+      "rank": 5,
+      "title": "레이예스 동점 투런포!",
+      "start_sec": 506,
+      "end_sec": 535,
+      "players": [
+        "빅터 레이예스"
+      ],
+      "scene_description": "6회초 1사 1루 상황에서 빅터 레이예스 선수가 좌중간 담장을 넘기는 비거리 130m의 큼지막한 투런 홈런을 터뜨려 롯데가 3대3 동점을 만듭니다.",
+      "engagement_reason": "롯데 팬들의 열광적인 반응과 경기 흐름을 단숨에 뒤집는 극적인 홈런에 대한 찬사.",
+      "sports_significance": "팀의 사기를 끌어올리고 경기 분위기를 전환시키는 결정적인 한 방으로, 롯데의 저력을 보여주는 장면.",
+      "fan_reaction_basis": "팬들이 '6회 레이예스 선수가 2점 홈런을 터뜨려 3-3 동점을 만든 장면은 롯데 팬들에게 중요한 순간으로 언급되었다'고 언급.",
+      "viral_potential": "high",
+      "persp": "viral",
+      "ai_sources": [
+        "viral",
+        "tactical",
+        "stats"
+      ],
+      "agreement": 3,
+      "multi_desc": [
+        {
+          "perspId": "viral",
+          "text": "6회초 1사 1루 상황, 빅터 레이예스가 좌중간 담장을 넘기는 동점 투런 홈런을 터뜨려 경기를 3대3 원점으로 돌린다."
+        },
+        {
+          "perspId": "tactical",
+          "text": "6회초 1사 1루 상황에서 빅터 레이예스 선수가 좌중간 담장을 넘기는 비거리 130m의 큼지막한 투런 홈런을 터뜨려 롯데가 3대3 동점을 만듭니다."
+        },
+        {
+          "perspId": "stats",
+          "text": "6회초, 롯데 빅터 레이예스가 LG 장현식 투수를 상대로 좌중월 동점 투런포를 터뜨리며 경기의 균형을 맞춥니다."
+        }
+      ],
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 6,
+      "title": "문성주 2타점 역전 적시타!",
+      "start_sec": 633,
+      "end_sec": 650,
+      "players": [
+        "문성주"
+      ],
+      "scene_description": "6회말 2사 만루 상황에서 문성주 선수가 좌익수 키를 넘기는 2타점 적시타를 때려내며 3루 주자 박동원, 2루 주자 오지환 선수를 홈으로 불러들여 LG가 5대3으로 다시 역전합니다.",
+      "engagement_reason": "LG 팬들의 열광적인 환호와 승부를 결정짓는 문성주의 클러치 능력에 대한 극찬.",
+      "sports_significance": "팽팽한 동점 상황에서 팀에 리드를 안겨주는 결정적인 타점으로, 승리의 발판을 마련하는 중요한 순간.",
+      "fan_reaction_basis": "팬들이 '6회말 2타점 적시타로 LG의 5-3 재역전을 이끈 문성주 선수는 '문성주가 잠실을 깨웠다'는 평가를 받으며 팬들의 큰 관심을 받았다'고 언급.",
+      "viral_potential": "high",
+      "persp": "viral",
+      "ai_sources": [
+        "viral",
+        "tactical",
+        "stats"
+      ],
+      "agreement": 3,
+      "multi_desc": [
+        {
+          "perspId": "viral",
+          "text": "6회말 2사 만루 상황, 문성주가 좌익수 키를 넘기는 2타점 적시타를 때려 LG가 5대3으로 재역전에 성공한다."
+        },
+        {
+          "perspId": "tactical",
+          "text": "6회말 2사 만루 상황에서 문성주 선수가 좌익수 키를 넘기는 2타점 적시타를 때려내며 3루 주자 박동원, 2루 주자 오지환 선수를 홈으로 불러들여 LG가 5대3으로 다시 역전합니다."
+        },
+        {
+          "perspId": "stats",
+          "text": "6회말 2사 만루 상황, LG 문성주 선수가 롯데 최이준 투수를 상대로 2타점 적시타를 터뜨려 LG가 5-3으로 재역전합니다."
+        }
+      ],
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 1,
+      "title": "윤동희 선취 2루타!",
+      "start_sec": 86,
+      "end_sec": 107,
+      "players": [
+        "윤동희",
+        "한동희"
+      ],
+      "scene_description": "1회초 2사 3루 1루 상황에서 윤동희 선수가 좌익선상 적시 2루타를 터뜨려 롯데가 선취점을 올립니다. 롯데 팬들의 열광적인 응원이 이어집니다.",
+      "engagement_reason": "롯데 팬들의 열광적인 반응과 윤동희의 타격감 회복에 대한 기대감.",
+      "sports_significance": "롯데가 경기 초반 기선 제압에 성공하며 팀의 사기를 올리는 중요한 선취점.",
+      "fan_reaction_basis": "팬들이 '윤동희 선수의 적시 2루타로 롯데가 선취점을 얻었으며, 윤동희 선수의 타격감이 돌아왔다'고 언급.",
+      "viral_potential": "high",
+      "persp": "viral",
+      "ai_sources": [
+        "viral",
+        "tactical"
+      ],
+      "agreement": 2,
+      "multi_desc": [
+        {
+          "perspId": "viral",
+          "text": "1회초 2사 1,3루 상황, 윤동희가 좌측 펜스 앞 적시 2루타를 때려 롯데가 선취점을 얻고 1루 주자 한동희는 3루까지 진루한다."
+        },
+        {
+          "perspId": "tactical",
+          "text": "1회초 2사 3루 1루 상황에서 윤동희 선수가 좌익선상 적시 2루타를 터뜨려 롯데가 선취점을 올립니다. 롯데 팬들의 열광적인 응원이 이어집니다."
+        }
+      ],
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 3,
+      "title": "오지환 2000경기 번트!",
+      "start_sec": 717,
+      "end_sec": 736,
+      "players": [
+        "오지환",
+        "구본혁"
+      ],
+      "scene_description": "7회말 1사 주자 없는 상황에서 오지환 선수가 기습적인 번트 안타를 성공시키고, 이어진 1루 상황에서 과감한 2루 도루를 성공시킵니다. 개인 통산 2000경기 출전 경기에서 보여준 활약입니다.",
+      "engagement_reason": "오지환 선수의 2000경기 출전 대기록과 노련한 주루 플레이에 대한 팬들의 감탄.",
+      "sports_significance": "베테랑 선수의 경험과 적극적인 플레이가 팀의 공격 기회를 확대하고 상대 수비를 교란하는 전략적인 장면.",
+      "fan_reaction_basis": "팬들이 '36세의 오지환 선수가 8회 번트 안타로 롯데 내야진을 흔들고 폭풍 도루를 선보이는 등 적극적인 발야구를 펼쳤다'고 언급 (영상은 7회말).",
+      "viral_potential": "high",
+      "persp": "viral",
+      "ai_sources": [
+        "viral",
+        "tactical"
+      ],
+      "agreement": 2,
+      "multi_desc": [
+        {
+          "perspId": "viral",
+          "text": "7회말 1사 1루 상황, 오지환이 기습 번트 안타를 성공시키고 2루로 과감하게 도루하며 롯데 내야진을 흔든다."
+        },
+        {
+          "perspId": "tactical",
+          "text": "7회말 1사 주자 없는 상황에서 오지환 선수가 기습적인 번트 안타를 성공시키고, 이어진 1루 상황에서 과감한 2루 도루를 성공시킵니다. 개인 통산 2000경기 출전 경기에서 보여준 활약입니다."
+        }
+      ],
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 4,
+      "title": "LG, 역대 최초 5200도루!",
+      "start_sec": 853,
+      "end_sec": 865,
+      "players": [
+        "박해민"
+      ],
+      "scene_description": "7회초 박해민 선수의 2루 도루로 LG 트윈스가 KBO리그 역대 최초 팀 통산 5,200도루를 달성하는 대기록을 세웁니다.",
+      "engagement_reason": "KBO 역사에 남을 대기록 달성 순간에 대한 팬들의 뜨거운 축하와 자부심.",
+      "sports_significance": "LG 트윈스 팀의 오랜 역사와 '뛰는 야구'의 상징성을 보여주는 기념비적인 기록 달성.",
+      "fan_reaction_basis": "뉴스 기사에서 'LG 트윈스는 이날 경기에서 3개의 도루를 추가하며 KBO리그 역대 최초로 팀 통산 5200도루를 달성하는 대기록을 세웠다'고 보도.",
+      "viral_potential": "high",
+      "persp": "viral",
+      "ai_sources": [
+        "viral",
+        "stats"
+      ],
+      "agreement": 2,
+      "multi_desc": [
+        {
+          "perspId": "viral",
+          "text": "7회말 2사 1루 상황, 박해민이 2루 도루를 성공시키며 KBO리그 역대 최초 팀 통산 5200도루를 달성한다."
+        },
+        {
+          "perspId": "stats",
+          "text": "7회초 박해민 선수의 2루 도루로 LG 트윈스가 KBO리그 역대 최초 팀 통산 5,200도루를 달성하는 대기록을 세웁니다."
+        }
+      ],
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 3,
+      "title": "문보경, 역전 적시타!",
+      "start_sec": 438,
+      "end_sec": 463,
+      "players": [
+        "문보경",
+        "문성주"
+      ],
+      "scene_description": "5회말 2사 2루 상황에서 문보경 선수가 우중간을 가르는 적시타를 터뜨려 2루 주자 문성주 선수를 홈으로 불러들이며 LG가 3대1로 역전에 성공합니다.",
+      "engagement_reason": "문보경 선수의 꾸준한 활약과 중요한 순간에 터진 역전 적시타는 LG 팬들의 기대를 높였으며, 그의 타격 능력이 다시 한번 입증된 장면입니다.",
+      "sports_significance": "득점권에서 해결사 역할을 해내며 팀의 리드를 가져오는 결정적인 타격입니다. 문보경 선수의 타격감이 절정에 달했음을 보여줍니다.",
+      "fan_reaction_basis": "YouTube 댓글에서 '문보경 선수가 타선을 이끌었다'는 반응과 함께 5회 적시타가 언급되었습니다.",
+      "viral_potential": "high",
+      "persp": "tactical",
+      "ai_sources": [
+        "tactical"
+      ],
+      "agreement": 1,
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 2,
+      "title": "문보경 동점 2루타!",
+      "start_sec": 112,
+      "end_sec": 127,
+      "players": [
+        "문보경"
+      ],
+      "scene_description": "2회말 무사 1루 상황, 문보경이 우측 라인 안쪽에 떨어지는 2루타를 쳐 1루 주자 오스틴이 홈으로 들어오며 동점을 만든다.",
+      "engagement_reason": "LG의 빠른 동점 추격으로 경기 분위기 반전, 문보경의 타격 능력에 대한 팬들의 호응.",
+      "sports_significance": "롯데의 선취점을 즉시 따라붙으며 경기의 균형을 맞추고 LG의 공격 흐름을 이어가는 중요한 득점.",
+      "fan_reaction_basis": "팬들이 '문보경 선수가 2회 2루타로 즉시 동점을 만들고 2안타 1타점으로 타선을 이끌었다'고 언급.",
+      "viral_potential": "medium",
+      "persp": "viral",
+      "ai_sources": [
+        "viral"
+      ],
+      "agreement": 1,
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 2,
+      "title": "천성호, 동점 적시 2루타!",
+      "start_sec": 152,
+      "end_sec": 174,
+      "players": [
+        "천성호",
+        "문보경"
+      ],
+      "scene_description": "2회말 1사 2루 상황에서 천성호 선수가 좌익선상 적시 2루타를 때려내며 2루에 있던 문보경 선수를 홈으로 불러들여 1대1 동점을 만듭니다.",
+      "engagement_reason": "롯데의 선취점 이후 LG가 바로 동점을 만들며 경기의 균형을 맞춘 장면으로, LG 팬들에게는 팀의 저력을 보여준 순간으로 주목받았습니다.",
+      "sports_significance": "상대팀의 선취점 이후 바로 동점을 만드는 것은 상대의 기세를 꺾고 분위기를 다시 가져오는 데 중요합니다. 천성호 선수의 클러치 능력이 돋보였습니다.",
+      "fan_reaction_basis": "뉴스 기사에서 천성호 선수의 동점 적시타가 언급되었으며, 경기 흐름을 바꾼 중요한 장면으로 평가되었습니다.",
+      "viral_potential": "medium",
+      "persp": "tactical",
+      "ai_sources": [
+        "tactical"
+      ],
+      "agreement": 1,
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 3,
+      "title": "오지환 2000경기 출전",
+      "start_sec": 131,
+      "end_sec": 135,
+      "players": [
+        "오지환"
+      ],
+      "scene_description": "LG 트윈스 오지환 선수가 KBO 역대 23번째로 개인 통산 2,000경기 출전이라는 대기록을 달성합니다.",
+      "engagement_reason": "KBO리그에서 2,000경기 출전은 매우 드문 대기록으로, 팬들에게 오지환 선수의 꾸준함과 헌신을 다시 한번 각인시켰습니다.",
+      "sports_significance": "한 선수가 2,000경기를 소화하는 것은 오랜 기간 꾸준한 기량과 자기 관리를 유지했음을 의미하며, KBO 역사에 남을 기록입니다.",
+      "fan_reaction_basis": "뉴스 기사에서 오지환 선수의 2,000경기 출전이 비중 있게 다뤄졌습니다.",
+      "viral_potential": "medium",
+      "persp": "stats",
+      "ai_sources": [
+        "stats"
+      ],
+      "agreement": 1,
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 5,
+      "title": "우강훈 신무기 커브!",
+      "start_sec": 671,
+      "end_sec": 681,
+      "players": [
+        "우강훈",
+        "윤동희"
+      ],
+      "scene_description": "7회초 LG 우강훈 투수가 롯데 윤동희 선수를 상대로 몸쪽 커브를 결정구로 사용하여 삼진을 잡아냅니다.",
+      "engagement_reason": "직구 위주 투수의 새로운 구종인 커브가 위력적으로 들어가는 모습은 팬들에게 신선함과 놀라움을 주며 기대감을 높였습니다.",
+      "sports_significance": "투수가 새로운 구종을 완벽하게 구사하며 타자를 압도하는 것은 투수 개인의 성장뿐 아니라 팀 불펜 강화에도 큰 의미가 있습니다.",
+      "fan_reaction_basis": "뉴스 기사에서 '신무기 커브'가 언급되며 우강훈 선수의 새로운 피칭 스타일에 대한 관심이 높았습니다.",
+      "viral_potential": "medium",
+      "persp": "stats",
+      "ai_sources": [
+        "stats"
+      ],
+      "agreement": 1,
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 6,
+      "title": "신민재 쐐기 적시타!",
+      "start_sec": 800,
+      "end_sec": 812,
+      "players": [
+        "신민재",
+        "박준우"
+      ],
+      "scene_description": "7회말 2사 2루 상황, LG 신민재 선수가 롯데 박준우 투수를 상대로 우중간 적시타를 터뜨려 LG가 7-3으로 달아납니다.",
+      "engagement_reason": "LG의 승리에 쐐기를 박는 적시타로, 경기 후반 중요한 순간에 터져 팬들의 환호를 이끌어냈습니다.",
+      "sports_significance": "경기 후반 승부처에서 추가점을 내는 적시타는 상대 팀의 추격 의지를 꺾고 팀 승리에 결정적인 역할을 합니다.",
+      "fan_reaction_basis": "유튜브 댓글에서 신민재 선수의 적시타가 승부를 굳힌 장면으로 언급되었습니다.",
+      "viral_potential": "medium",
+      "persp": "stats",
+      "ai_sources": [
+        "stats"
+      ],
+      "agreement": 1,
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    }
+  ]
+}
