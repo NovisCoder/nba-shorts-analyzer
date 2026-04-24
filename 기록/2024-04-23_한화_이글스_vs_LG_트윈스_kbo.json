@@ -1,0 +1,394 @@
+{
+  "savedAt": "2026-04-24T11:58:31.471Z",
+  "sport": "KBO 프로야구",
+  "videoUrl": "https://www.youtube.com/watch?v=kdlCLQyMa5M",
+  "videoTitle": "노시환 복귀전 홈런포 작렬! 한화 이글스 vs LG 트윈스 하이라이트 | 2024.05.08",
+  "gameInfo": {
+    "teams": "한화 이글스 vs LG 트윈스",
+    "date": "2024-04-23",
+    "season": "2026 KBO리그",
+    "final_score": "8-4",
+    "home_team": "한화 이글스",
+    "away_team": "LG 트윈스"
+  },
+  "totalCandidatesBefore": 18,
+  "verifiedCandidates": [
+    {
+      "rank": 1,
+      "title": "노시환 복귀포! 동점 솔로 홈런",
+      "start_sec": 496,
+      "end_sec": 539,
+      "players": [
+        "노시환",
+        "함덕주"
+      ],
+      "scene_description": "부상 복귀 후 첫 타석 삼진에 이어 두 번째 타석에서 좌월 솔로 홈런을 터뜨리며 팀의 동점을 만들고 자신의 복귀를 화려하게 알리는 장면.",
+      "engagement_reason": "부상 복귀 후 첫 홈런으로 팬들의 기대감을 충족시키고, 팀의 사기를 끌어올리는 극적인 순간.",
+      "sports_significance": "부상 복귀 선수의 활약은 팀의 분위기 전환과 전력 상승에 큰 영향을 미치며, 특히 중요한 순간에 터진 홈런은 팬들에게 강렬한 인상을 남김.",
+      "viral_potential": "high",
+      "persp": "tactical",
+      "ai_sources": [
+        "tactical",
+        "stats"
+      ],
+      "agreement": 2,
+      "multi_desc": [
+        {
+          "perspId": "tactical",
+          "text": "부상 복귀 후 첫 타석 삼진에 이어 두 번째 타석에서 좌월 솔로 홈런을 터뜨리며 팀의 동점을 만들고 자신의 복귀를 화려하게 알리는 장면."
+        },
+        {
+          "perspId": "stats",
+          "text": "퓨처스리그에서 복귀한 노시환 선수가 두 번째 타석에서 좌월 솔로 홈런을 터뜨리며 팀의 동점포를 쏘아 올렸다."
+        }
+      ],
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 2,
+      "title": "문현빈 역전 솔로 홈런",
+      "start_sec": 712,
+      "end_sec": 749,
+      "players": [
+        "문현빈",
+        "김진성"
+      ],
+      "scene_description": "노시환의 동점 홈런 직후 문현빈이 우월 솔로 홈런을 추가하며 한화가 역전에 성공하는 장면.",
+      "engagement_reason": "연속 홈런으로 경기의 흐름을 완전히 뒤집는 짜릿한 순간, 팬들의 열광적인 반응을 유도.",
+      "sports_significance": "연이은 홈런은 상대 투수에게 큰 압박을 주고, 팀의 공격력을 과시하며 경기 분위기를 장악하는 중요한 전술적 의미를 가짐.",
+      "viral_potential": "high",
+      "persp": "tactical",
+      "ai_sources": [
+        "tactical",
+        "stats"
+      ],
+      "agreement": 2,
+      "multi_desc": [
+        {
+          "perspId": "tactical",
+          "text": "노시환의 동점 홈런 직후 문현빈이 우월 솔로 홈런을 추가하며 한화가 역전에 성공하는 장면."
+        },
+        {
+          "perspId": "stats",
+          "text": "한화 문현빈 선수가 우측 담장을 넘기는 솔로 홈런을 터뜨리며 팀의 리드를 더욱 벌렸다."
+        }
+      ],
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 5,
+      "title": "황영묵, 만루서 2타점 적시타",
+      "start_sec": 919,
+      "end_sec": 949,
+      "players": [
+        "황영묵",
+        "김진수"
+      ],
+      "scene_description": "한화 황영묵 선수가 2사 2,3루 상황에서 좌전 2타점 적시타를 때려내며 팀의 추가 득점을 올렸다.",
+      "engagement_reason": "만루 상황에서 터진 클러치 히트로 팬들에게 시원한 득점 장면을 선사.",
+      "sports_significance": "득점권 찬스에서 집중력을 발휘하여 타점을 올리는 것은 팀의 공격 효율성을 높이고, 상대 팀의 추격 의지를 꺾는 중요한 전술적 판단.",
+      "viral_potential": "high",
+      "persp": "tactical",
+      "ai_sources": [
+        "tactical",
+        "stats"
+      ],
+      "agreement": 2,
+      "multi_desc": [
+        {
+          "perspId": "tactical",
+          "text": "1사 만루 상황에서 황영묵이 좌익수 앞 2타점 적시타를 때려내며 한화의 리드를 더욱 벌리는 장면."
+        },
+        {
+          "perspId": "stats",
+          "text": "한화 황영묵 선수가 2사 2,3루 상황에서 좌전 2타점 적시타를 때려내며 팀의 추가 득점을 올렸다."
+        }
+      ],
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 4,
+      "title": "천성호, LG 위기 막는 호수비",
+      "start_sec": 254,
+      "end_sec": 279,
+      "players": [
+        "천성호",
+        "허인서",
+        "이정용"
+      ],
+      "scene_description": "LG 3루수 천성호가 허인서의 강한 타구를 몸을 날려 잡아내고 1루로 정확히 송구하여 아웃시키는 결정적인 수비 장면.",
+      "engagement_reason": "LG 팬들에게는 팀의 위기를 막아낸 영웅적인 수비, 한화 팬들에게는 아쉬움을 남기는 명장면.",
+      "sports_significance": "상대 팀의 득점 기회를 무산시키는 다이빙 캐치는 투수의 멘탈을 지켜주고, 팀 수비에 대한 신뢰를 높이며 경기 분위기를 전환하는 데 기여.",
+      "viral_potential": "medium",
+      "persp": "tactical",
+      "ai_sources": [
+        "tactical",
+        "stats"
+      ],
+      "agreement": 2,
+      "multi_desc": [
+        {
+          "perspId": "tactical",
+          "text": "LG 3루수 천성호가 허인서의 강한 타구를 몸을 날려 잡아내고 1루로 정확히 송구하여 아웃시키는 결정적인 수비 장면."
+        },
+        {
+          "perspId": "stats",
+          "text": "LG 천성호 선수가 3루수 방면으로 향하는 강습 타구를 몸을 날려 잡아내며 환상적인 다이빙 수비를 선보였다."
+        }
+      ],
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 1,
+      "title": "노시환 복귀전 기대감",
+      "start_sec": 45,
+      "end_sec": 112,
+      "players": [
+        "노시환",
+        "박지원",
+        "신혜원"
+      ],
+      "scene_description": "박지원 아나운서가 노시환 선수의 복귀 소식을 전하고, 두 아나운서가 함께 응원 구호를 외치며 팬들의 기대감을 높이는 장면.",
+      "engagement_reason": "KBO 스타 플레이어 노시환의 복귀 소식과 아나운서들의 활기찬 진행이 팬들의 이목을 집중시키며 높은 조회수를 유발합니다.",
+      "sports_significance": "KBO의 인기 선수 복귀는 팀 분위기를 고조시키고 팬들의 기대감을 최고조로 끌어올리는 중요한 이벤트입니다.",
+      "fan_reaction_basis": "노시환 선수의 복귀는 팬들 사이에서 큰 화제였으며, 아나운서들의 밝은 에너지가 긍정적인 반응을 이끌어냈습니다.",
+      "viral_potential": "high",
+      "persp": "viral",
+      "ai_sources": [
+        "viral"
+      ],
+      "agreement": 1,
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 2,
+      "title": "천성호, 환상적인 다이빙 수비",
+      "start_sec": 414,
+      "end_sec": 424,
+      "players": [
+        "천성호",
+        "허인서"
+      ],
+      "scene_description": "LG 3루수 천성호가 허인서의 강한 타구를 몸을 날려 잡아내고 정확한 송구로 아웃시키는 멋진 수비 장면.",
+      "engagement_reason": "슈퍼 플레이는 항상 높은 조회수를 기록하며, 특히 몸을 아끼지 않는 다이빙 캐치는 팬들에게 큰 감동을 선사합니다.",
+      "sports_significance": "실점을 막는 결정적인 수비는 경기 흐름을 바꾸는 중요한 요소이며, 수비의 중요성을 보여주는 명장면입니다.",
+      "fan_reaction_basis": "야구 팬들은 호수비에 열광하며, 특히 다이빙 캐치는 SNS에서 밈으로 활용될 가능성이 높습니다.",
+      "viral_potential": "high",
+      "persp": "viral",
+      "ai_sources": [
+        "viral"
+      ],
+      "agreement": 1,
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 4,
+      "title": "황영묵, 2타점 적시타로 역전!",
+      "start_sec": 1522,
+      "end_sec": 1538,
+      "players": [
+        "황영묵",
+        "김진수"
+      ],
+      "scene_description": "황영묵이 2사 만루 상황에서 2타점 적시타를 때려내며 팀의 추가 득점을 이끌어내는 클러치 상황.",
+      "engagement_reason": "득점권 찬스에서의 클러치 히트는 경기 분위기를 고조시키고, 팬들에게 짜릿함을 선사하여 높은 몰입도를 유발합니다.",
+      "sports_significance": "중요한 순간에 터진 적시타는 팀의 승리에 결정적인 역할을 하며, 선수 개인의 집중력과 능력을 보여줍니다.",
+      "fan_reaction_basis": "역전의 발판을 마련하는 클러치 히트는 팬들 사이에서 '해결사'로 불리며 큰 환호를 받습니다.",
+      "viral_potential": "high",
+      "persp": "viral",
+      "ai_sources": [
+        "viral"
+      ],
+      "agreement": 1,
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 5,
+      "title": "오지환, 폭투 틈타 두 베이스 질주",
+      "start_sec": 1750,
+      "end_sec": 1803,
+      "players": [
+        "오지환",
+        "성동현",
+        "허인서"
+      ],
+      "scene_description": "오지환이 폭투를 틈타 2루에서 3루, 그리고 홈까지 질주하여 득점하는 예상치 못한 장면.",
+      "engagement_reason": "폭투로 인한 연속 진루 및 득점은 예상치 못한 상황으로, 야구팬들에게 흥미로운 볼거리를 제공하며 밈으로 활용될 가능성이 높습니다.",
+      "sports_significance": "상대팀의 실책을 놓치지 않고 득점으로 연결하는 주루 플레이는 경기의 변수를 만들고 팀에 유리한 흐름을 가져옵니다.",
+      "fan_reaction_basis": "예상치 못한 플레이는 항상 팬들 사이에서 큰 화제가 되며, '이게 되네?'와 같은 반응을 이끌어냅니다.",
+      "viral_potential": "high",
+      "persp": "viral",
+      "ai_sources": [
+        "viral"
+      ],
+      "agreement": 1,
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 3,
+      "title": "노시환, 홈런 후 환상 수비",
+      "start_sec": 751,
+      "end_sec": 773,
+      "players": [
+        "노시환",
+        "오스틴",
+        "정우주"
+      ],
+      "scene_description": "홈런을 친 노시환이 3루수로서 오스틴의 강습 타구를 몸을 날려 잡아내고 1루로 송구하여 아웃시키는 환상적인 수비 장면.",
+      "engagement_reason": "공격뿐만 아니라 수비에서도 뛰어난 활약을 보여주는 만능 플레이어의 모습에 팬들이 열광.",
+      "sports_significance": "중요한 순간 실점을 막는 호수비는 투수의 부담을 덜어주고, 팀의 수비력을 강화하며 경기 흐름을 유지하는 데 결정적.",
+      "viral_potential": "high",
+      "persp": "tactical",
+      "ai_sources": [
+        "tactical"
+      ],
+      "agreement": 1,
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 6,
+      "title": "강백호 2타점 적시타! 쐐기점",
+      "start_sec": 1084,
+      "end_sec": 1102,
+      "players": [
+        "강백호",
+        "성동현",
+        "오재원"
+      ],
+      "scene_description": "1사 1,3루 상황에서 강백호가 좌익수 앞 2타점 적시타를 때려내고, 좌익수의 실책으로 추가 득점까지 연결되는 장면.",
+      "engagement_reason": "한화의 승리를 굳히는 결정적인 득점과 상대 팀의 실책이 겹치며 극적인 상황을 연출.",
+      "sports_significance": "경기 막판 추가 득점은 상대 팀의 추격 의지를 완전히 꺾고, 승리를 확정 짓는 데 결정적인 역할을 함. 실책 유발은 상대 수비진에 대한 압박의 결과.",
+      "viral_potential": "high",
+      "persp": "tactical",
+      "ai_sources": [
+        "tactical"
+      ],
+      "agreement": 1,
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 2,
+      "title": "이원석 슈퍼 다이빙 캐치!",
+      "start_sec": 430,
+      "end_sec": 459,
+      "players": [
+        "이원석"
+      ],
+      "scene_description": "LG 오지환 선수의 좌중간 깊숙한 타구를 한화 이원석 선수가 몸을 날리는 슈퍼 다이빙 캐치로 잡아내며 위기에서 팀을 구했다.",
+      "engagement_reason": "엄청난 집중력과 운동 능력을 보여준 호수비로, 팬들에게 깊은 인상을 남겼다.",
+      "sports_significance": "실점 위기 상황에서 나온 결정적인 수비로, 경기 흐름을 한화 쪽으로 가져오는 데 기여했다.",
+      "fan_reaction_basis": "중계진의 감탄과 슬로우 모션 리플레이를 통해 수비의 난이도와 중요성이 강조되었으며, 감탄과 놀라움을 표현하는 반응이 많았을 것으로 예상된다.",
+      "viral_potential": "high",
+      "persp": "stats",
+      "ai_sources": [
+        "stats"
+      ],
+      "agreement": 1,
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 3,
+      "title": "페라자 시즌 2호 솔로포!",
+      "start_sec": 461,
+      "end_sec": 491,
+      "players": [
+        "요나단 페라자"
+      ],
+      "scene_description": "한화 페라자 선수가 좌측 담장을 넘기는 시즌 2호 솔로 홈런을 기록하며 팀의 첫 득점을 올렸다.",
+      "engagement_reason": "시원한 타구와 함께 팀의 추격의 발판을 마련하는 홈런으로 팬들의 기대감을 높였다.",
+      "sports_significance": "팀의 첫 득점이자 추격의 시작을 알리는 홈런으로, 경기 분위기 반전에 중요한 역할을 했다.",
+      "fan_reaction_basis": "홈런 직후 관중들의 열광적인 반응과 중계진의 흥분된 코멘트가 인상적이며, 득점에 대한 기쁨과 역전 기대감을 표하는 반응이 많았을 것으로 예상된다.",
+      "viral_potential": "high",
+      "persp": "stats",
+      "ai_sources": [
+        "stats"
+      ],
+      "agreement": 1,
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 3,
+      "title": "노시환, 복귀전 동점포 폭발!",
+      "start_sec": 820,
+      "end_sec": 859,
+      "players": [
+        "노시환",
+        "함덕주"
+      ],
+      "scene_description": "노시환이 복귀 후 첫 홈런을 터뜨리며 경기를 동점으로 만드는 극적인 순간과 팬들의 열광적인 반응.",
+      "engagement_reason": "KBO 스타 플레이어의 복귀 홈런은 팬들에게 큰 감동과 환희를 선사하며, 드라마틱한 스토리로 바이럴 가능성이 매우 높습니다.",
+      "sports_significance": "부상 복귀 후 팀에 기여하는 홈런은 선수 개인에게도, 팀에게도 큰 의미가 있으며, 경기 흐름을 완전히 뒤집는 전환점이 됩니다.",
+      "fan_reaction_basis": "노시환의 홈런은 팬들 사이에서 가장 큰 화제였으며, 복귀전이라는 스토리텔링이 더해져 폭발적인 반응을 이끌어냈습니다.",
+      "viral_potential": "very high",
+      "persp": "viral",
+      "ai_sources": [
+        "viral"
+      ],
+      "agreement": 1,
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    },
+    {
+      "rank": 6,
+      "title": "오스틴 딘, 9회 추격의 솔로포",
+      "start_sec": 1833,
+      "end_sec": 1847,
+      "players": [
+        "오스틴 딘",
+        "김규민"
+      ],
+      "scene_description": "오스틴 딘이 9회초 솔로 홈런을 터뜨리며 추격의 불씨를 살리는 장면.",
+      "engagement_reason": "경기 후반에 터지는 홈런은 팬들에게 희망을 주고, 경기의 긴장감을 유지하며 극적인 상황을 연출합니다.",
+      "sports_significance": "패색이 짙은 상황에서 터진 홈런은 팀의 사기를 올리고, 마지막까지 포기하지 않는 정신력을 보여줍니다.",
+      "fan_reaction_basis": "경기 막판 홈런은 팬들의 감정을 고조시키며, '역전각' 등의 반응과 함께 SNS에서 공유될 가능성이 있습니다.",
+      "viral_potential": "medium-high",
+      "persp": "viral",
+      "ai_sources": [
+        "viral"
+      ],
+      "agreement": 1,
+      "verification_summary": "검증 오류",
+      "sources": [],
+      "invalid_sources": [],
+      "year_note": ""
+    }
+  ]
+}
