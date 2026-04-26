@@ -1,0 +1,1123 @@
+{
+  "savedAt": "2026-04-26T12:23:40.704Z",
+  "sport": "KBO 프로야구",
+  "videoUrl": "https://www.youtube.com/watch?v=RiCMvPfmIyo",
+  "videoTitle": "2026 KBO리그 4월 26일 한화 vs NC 하이라이트",
+  "gameInfo": {
+    "teams": "한화 이글스 vs NC 다이노스",
+    "date": "2026-04-26",
+    "season": "2026 KBO 리그",
+    "final_score": "NC 5 - 3 한화",
+    "home_team": "한화 이글스",
+    "away_team": "NC 다이노스"
+  },
+  "totalCandidatesBefore": 18,
+  "verifiedCandidates": [
+    {
+      "rank": 1,
+      "title": "대타 안중열, 역전 투런포!",
+      "start_sec": 530,
+      "end_sec": 550,
+      "players": [
+        "안중열",
+        "김서현"
+      ],
+      "scene_description": "7회초, 1사 1루 상황에서 대타로 나선 안중열이 한화 투수 김서현을 상대로 초구에 좌월 결승 투런 홈런을 터뜨리며 NC가 5대3으로 역전합니다.",
+      "engagement_reason": "경기의 흐름을 완전히 뒤집는 역전 홈런으로, 팬들에게 가장 큰 환희를 선사한 장면입니다. 특히 전날 실책을 만회하는 '결자해지' 서사가 더해져 드라마틱한 요소가 강합니다.",
+      "sports_significance": "승패를 가른 결정적인 홈런이자, 대타 작전의 성공을 보여주는 명장면입니다. NC 팬들에게는 오랜만의 위닝 시리즈를 확정 짓는 감격적인 순간입니다.",
+      "fan_reaction_basis": "팬 반응 사전 조사에서 '안중열 선수의 결승 투런포'가 가장 많이 언급되었으며, '결자해지'와 '이호준 감독의 언급' 등 스토리텔링 요소가 풍부합니다.",
+      "viral_potential": "high",
+      "persp": "viral",
+      "ai_sources": [
+        "viral",
+        "tactical"
+      ],
+      "agreement": 2,
+      "multi_desc": [
+        {
+          "perspId": "viral",
+          "text": "7회초 3대3 동점 상황, 대타 안중열 선수가 김서현 투수를 상대로 좌월 역전 투런 홈런을 터뜨리며 NC가 리드를 잡는 결정적인 순간."
+        },
+        {
+          "perspId": "tactical",
+          "text": "7회초, 1사 1루 상황에서 대타로 나선 안중열이 한화 투수 김서현을 상대로 초구에 좌월 결승 투런 홈런을 터뜨리며 NC가 5대3으로 역전합니다."
+        }
+      ],
+      "verification_summary": "다음은 2026년 4월 26일 KBO 한화 이글스와 NC 다이노스 경기에서 안중열 선수가 김서현 선수를 상대로 터뜨린 결승 투런 홈런 관련 뉴스 및 커뮤니티 검색 결과입니다.\n\n**뉴스 기사**\n\n*   **매일경제**\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** NC 다이노스가 '대타 안중열의 결승 투런포'에 힘입어 한화 이글스에 전날 패배를 설욕하고 2승 1패로 위닝 시리즈를 가져갔습니다. 7회초 1사 후 도태훈의 볼넷에 이어 대타로 나선 안중열이 한화 투수 김서현의 초구 151km 패스트볼을 좌월 투런포로 연결하며 비거리 125m의 시즌 1호 홈런을 기록했습니다. 이는 안중열 선수의 2024년 9월 27일 롯데 자이언츠전 이후 576일 만의 1군 경기 홈런입니다.\n    *   **URL:** [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDwQlHXHbEsJDiMfcygq1eQ5D35m4oU-nd1Y9wEUzQXpvXo28pG9F0jYFrpbpdlEstwMrO4jZeZA8MkN8FpF63GNQjEWlrZpOGJKPAKJhBf6v6JM--1Db4KabltjyxF9dP82W3](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDwQlHXHbEsJDiMfcygq1eQ5D35m4oU-nd1Y9wEUzQXpvXo28pG9F0jYFrpbpdlEstwMrO4jZeZA8MkN8FpF63GNQjEWlrZpOGJKPAKJhBf6v6JM--1Db4KabltjyxF9dP82W3)\n\n*   **연합뉴스**\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** NC 다이노스가 26일 대전 한화생명이글스파크에서 열린 한화 이글스와의 경기에서 7회 터진 안중열의 결승 투런포에 힘입어 5-3으로 재역전승을 거두며 위닝 시리즈를 장식했습니다. NC는 1회초 2점을 선취했으나 한화가 페라자의 동점 홈런과 김태연의 솔로 홈런으로 3-2 역전에 성공했습니다. NC는 6회 박건우의 솔로 홈런으로 동점을 만들었고, 7회초 1사 1루 상황에서 대타 안중열이 김서현을 상대로 역전 2점 홈런을 터뜨려 5-3으로 경기를 뒤집었습니다.\n    *   **URL:** [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI3Sk3pXBu8HMvb05xZiQEG0u7Y6cwMCz2rp9YlZbZgaIXNeZMo97jqbyc5cQAXmuIriQ1Zvqa1JijwZrpTG5WBTdnFIzIuF9cmmce8-qbvmOghFP-rkhNZa8z2R8dJM7BW9CtAKbEGz-i](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI3Sk3pXBu8HMvb05xZiQEG0u7Y6cwMCz2rp9YlZbZgaIXNeZMo97jqbyc5cQAXmuIriQ1Zvqa1JijwZrpTG5WBTdnFIzIuF9cmmce8-qbvmOghFP-rkhNZa8z2R8dJM7BW9CtAKbEGz-i)\n\n*   **경남일보**\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** NC 다이노스가 한화 이글스를 5-3으로 꺾고 주말 3연전 위닝 시리즈를 기록했습니다. NC는 1회초 2점을 먼저 냈지만, 한화의 페라자와 김태연의 홈런으로 2-3 역전을 허용했습니다. 6회 박민우의 홈런으로 동점을 만들었고, 7회 1사 1루에서 대타 안중열이 김서현의 초구를 받아쳐 좌월 2점 홈런을 터뜨리며 5-3으로 재역전했습니다. 안중열 선수의 홈런은 2024년 9월 27일 롯데전 이후 576일 만입니다.\n    *   **URL:** [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaejQ9U-w5Q5rioYJoCLCycoxMLCbA4fdEM0ufPhMBtESEdoFgt7sTzVT5eJAShdnnkVVBLdb3orW0tcwY7t1VKdqs_sUitgl14659pwXcGk_au2BCSCOUIGCe6ZgkQL-Yw2tamcmDAKdJI8_u-9O6wTIoq0QB](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaejQ9U-w5Q5rioYJoCLCycoxMLCbA4fdEM0ufPhMBtESEdoFgt7sTzVT5eJAShdnnkVWVYvBoUAtNHnw7tXKTgMlA7d8K5YB3SXBZflmzj-TudtLGhPty3y5O_hMPCikF4XobEQIKgTE8hHeNAQ3IzSMp1Khpx9G_f1Zmg==)\n\n*   **뉴스핌**\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** NC 다이노스가 26일 한화 이글스와의 경기에서 안중열의 역전 투런포에 힘입어 5-3으로 승리하며 위닝 시리즈를 달성했습니다. NC는 1회초 2점을 먼저 냈지만, 한화의 페라자와 김태연의 홈런으로 3-2 역전을 허용했습니다. 6회 박건우의 솔로 홈런으로 3-3 동점을 만들었고, 7회초 1사 1루에서 대타 안중열이 김서현을 상대로 좌월 투런 홈런을 터뜨려 5-3으로 경기를 뒤집었습니다.\n    *   **URL:** [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUdvd1bwMdFS6SIECEN_NLnuq8wwdflK980Gw_QGoHpZTWVYvBoUAtNHnw7tXKTgMlA7d8K5YB3SXBZflmzj-TudtLGhPty3y5O_hMPCikF4XobEQIKgTE8hHeNAQ3IzSMp1Khpx9G_f1Zmg==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUdvd1bwMdFS6SIECEN_NLnuq8wwdflK980Gw_QGoHpZTWVYvBoUAtNHnw7tXKTgMlA7d8K5YB3SXBZflmzj-TudtLGhPty3y5O_hMPCikF4XobEQIKgTE8hHeNAQ3IzSMp1Khpx9G_f1Zmg==)\n\n*   **머니투데이 (오!쎈 대전)**\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** 한화 이글스 투수 김서현은 26일 NC 다이노스와의 경기에서 3-3 동점이던 7회 등판했으나, 도태훈에게 볼넷을 내준 뒤 대타 안중열에게 재역전 투런포를 허용하며 3-5로 끌려가는 점수를 내주고 패전 투수 위기에 몰렸습니다. 김서현은 초구 151km 패스트볼이 통타당했습니다.\n    *   **URL:** [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-WvaHnsDm0ZfsZNNQxCW6QMmoLRCZtT2pguZ5eyPKCpp4JadVvsVfgXHxeh4JL73FNxoFFunlMEvtMHPY3R0srbnZDZkhVNhAQaRsfv8Rtf6ydGMO_z1oBGag_yA6PQoefp50DI0SY4YnM3MKhi_YwCKLNE8=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-WvaHnsDm0ZfsZNNQxCW6QMmoLRCZtT2pguZ5eyPKCpp4JadVvsVfgXHxeh4JL73FNxoFFunlMEvtMHPY3R0srbnZDZkhVNhAQaRsfv8Rtf6ydGMO_z1oBGag_yA6PQoefp50DI0SY4YnM3MKhi_YwCKLNE8=)\n\n**커뮤니티 검색 결과**\n\n제공된 검색 결과에서는 MLB파크, 에펨코리아, 네이버야구카페 등 커뮤니티 사이트의 직접적인 게시물은 확인되지 않았습니다. 다만, 뉴스 기사들이 해당 경기 내용과 안중열 선수의 홈런에 대해 상세히 다루고 있습니다.",
+      "sources": [
+        {
+          "title": "mk.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDwQlHXHbEsJDiMfcygq1eQ5D35m4oU-nd1Y9wEUzQXpvXo28pG9F0jYFrpbpdlEstwMrO4jZeZA8MkN8FpF63GNQjEWlrZpOGJKPAKJhBf6v6JM--1Db4KabltjyxF9dP82W3",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI3Sk3pXBu8HMvb05xZiQEG0u7Y6cwMCz2rp9YlZbZgaIXNeZMo97jqbyc5cQAXmuIriQ1Zvqa1JijwZrpTG5WBTdnFIzIuF9cmmce8-qbvmOghFP-rkhNZa8z2R8dJM7BW9CtAKbEGz-i",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "gnnews.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaejQ9U-w5Q5rioYJoCLCycoxMLCbA4fdEM0ufPhMBtESEdoFgt7sTzVT5eJAShdnnkVVBLdb3orW0tcwY7t1VKdqs_sUitgl14659pwXcGk_au2BCSCOUIGCe6ZgkQL-Yw2tamcmDAKdJI8_u-9O6wTIoq0QB",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "newspim.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUdvd1bwMdFS6SIECEN_NLnuq8wwdflK980Gw_QGoHpZTWVYvBoUAtNHnw7tXKTgMlA7d8K5YB3SXBZflmzj-TudtLGhPty3y5O_hMPCikF4XobEQIKgTE8hHeNAQ3IzSMp1Khpx9G_f1Zmg==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "mt.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-WvaHnsDm0ZfsZNNQxCW6QMmoLRCZtT2pguZ5eyPKCpp4JadVvsVfgXHxeh4JL73FNxoFFunlMEvtMHPY3R0srbnZDZkhVNhAQaRsfv8Rtf6ydGMO_z1oBGag_yA6PQoefp50DI0SY4YnM3MKhi_YwCKLNE8=",
+          "yearNote": "연도 확인 불가"
+        }
+      ],
+      "invalid_sources": [],
+      "year_note": "2026년 기준"
+    },
+    {
+      "rank": 2,
+      "title": "박건우, 동점 솔로포 폭발!",
+      "start_sec": 423,
+      "end_sec": 443,
+      "players": [
+        "박건우",
+        "문동주"
+      ],
+      "scene_description": "6회초 2사 상황에서 박건우 선수가 한화 선발 문동주 투수를 상대로 좌월 동점 솔로 홈런을 기록하며 경기를 3대3 원점으로 돌리는 장면.",
+      "engagement_reason": "NC의 역전극에 발판을 마련한 중요한 홈런으로, 경기의 긴장감을 최고조로 끌어올린 순간입니다. 문동주 투수와의 대결 구도도 흥미롭습니다.",
+      "sports_significance": "팀의 사기를 끌어올리고 역전의 발판을 마련한 중요한 득점입니다. 에이스 문동주를 상대로 터뜨린 홈런이라 의미가 큽니다.",
+      "fan_reaction_basis": "팬 반응 사전 조사에서 '박건우 선수의 동점 솔로 홈런'이 NC의 역전극의 중요한 플레이로 언급되었습니다.",
+      "viral_potential": "high",
+      "persp": "viral",
+      "ai_sources": [
+        "viral",
+        "tactical"
+      ],
+      "agreement": 2,
+      "multi_desc": [
+        {
+          "perspId": "viral",
+          "text": "6회초 2사 상황에서 박건우 선수가 한화 선발 문동주 투수를 상대로 좌월 동점 솔로 홈런을 기록하며 경기를 3대3 원점으로 돌리는 장면."
+        },
+        {
+          "perspId": "tactical",
+          "text": "6회초, 2사 주자 없는 상황에서 박건우가 한화 선발 문동주를 상대로 좌월 솔로 홈런을 터뜨리며 경기를 3대3 동점으로 만듭니다."
+        }
+      ],
+      "verification_summary": "## 2026년 4월 26일 한화 이글스 vs NC 다이노스 경기 관련 뉴스 및 커뮤니티 요약\n\n2026년 4월 26일 대전 한화생명 이글스파크에서 열린 한화 이글스와 NC 다이노스의 경기에서 NC 다이노스가 5대3으로 재역전승을 거두며 위닝시리즈를 달성했습니다. 특히 6회초 2사 상황에서 박건우 선수가 한화 선발 문동주 투수를 상대로 좌월 동점 솔로 홈런을 기록하며 경기를 3대3 원점으로 돌린 장면이 주요하게 언급되었습니다.\n\n### 뉴스 기사\n\n*   **스포츠조선**: \"안중열 대타 결승포→22일 만의 위닝시리즈 달성...\"박건우 동점포-안중열 역전포 결정적\" [오!쎈 대전]\" (2026.04.26 18:40 입력). NC가 6회초 박건우의 동점 솔로 홈런과 7회초 안중열의 역전 투런 홈런에 힘입어 한화에 5-3으로 승리하며 위닝시리즈를 기록했다는 내용입니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ7jvoThvVUuy-MwJj_j2IJBuJ0DCrVd7pZfheA2pHKvCUltTZ_wVPJhRQA6lPxvWt9NFsMwFj1qmmgPbmvC1URTmBwqh4P0rENm1YQHZrQX6qTybcsyE95LvaLK-r6K6U_dtE-9wNDOQeyO7RYDjd061vcsB0ZyHrMUVgfAoddgwN2pzcY7Y=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ7jvoThvVUuy-MwJj_j2IJBuJ0DCrVd7pZfheA2pHKvCUltTZ_wVPJhRQA6lPxvWt9NFsMwFj1qmmgPbmvC1URTmBwqh4P0rENm1YQHZrQX6qTybcsyE95LvaLK-r6K6U_dtE-9wNDOQeyO7RYDjd061vcsB0ZyHrMUVgfAoddgwN2pzcY7Y=)\n*   **Daum (스포티비뉴스)**: \"대전 역전 드라마! 백업 포수가 대타 초구 홈런 쾅…NC, 한화 상대 위닝시리즈\" (2026.04.26). NC가 박건우의 6회 동점 홈런과 안중열의 7회 역전 홈런으로 한화에 5-3 역전승을 거두며 위닝시리즈를 달성했다는 기사입니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI96NBsS5HHR4Afdwnzxhs5zg7A0oO3M2TdutGnblQmgxBEkD9pr8yzjCivHdPLDIIJfE830NEuuCaf0pzSleTTQVKgMGBnA6VPoryu0GWCeRJDz0OQ1eeEXvX43ZtNKQ=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI96NBsS5HHR4Afdwnzxhs5zg7A0oO3M2TdutGnblQmgxBEkD9pr8yzjCivHdPLDIIJfE830NEuuCaf0pzSleTTQVKgMGBnA6VPoryu0GWCeRJDz0OQ1eeEXvX43ZtNKQ=)\n*   **매일경제**: \"오랜만에 위닝시리즈다!…'대타 안중열 결승 투런포' NC, 한화에 전날 패배 설욕→2승 1패로 3연전 마감\" (2026.04.26). NC가 박건우의 동점 솔로 홈런과 안중열의 결승 투런포로 한화에 승리하며 위닝시리즈를 기록했다는 내용입니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMc0b1KuyIoio2xAwgVuebkRDwmzqMlr2XrOXJOYgdhzY2Psc9hdyIOcu5u2ljkqyV_cpzu3SMrkiub3iUtAJWwOsWJzv3l4pyR3VHG0gWOVu1peZD9Ff5rbETrXBQTdNQ2m0=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMc0b1KuyIoio2xAwgVuebkRDwmzqMlr2XrOXJOYgdhzY2Psc9hdyIOcu5u2ljkqyV_cpzu3SMrkiub3iUtAJWwOsWJzv3l4pyR3VHG0gWOVu1peZD9Ff5rbETrXBQTdNQ2m0=)\n*   **엑스포츠뉴스**: \"박건우 '홈런으로 만든 동점'[포토]\" (2026.04.26 15:48 입력). 6회초 2사 NC 박건우가 솔로 홈런을 날린 후 기뻐하는 모습의 포토 기사입니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV_n7V6YQYvIWYJ2OKhhZ0fBumOU7bJX_Inr-du9v5gOevft8_TPsfvxJruX4rRYsYqsCIy-YG2V61P_CXuKjnrR5m9Z4KU8EVU1wYAnUQRxKZR3Q2Ib4cZ_iMDGkbVftnztpw](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV_n7V6YQYvIWYJ2OKhhZ0fBumOU7bJX_Inr-du9v5gOevft8_TPsfvxJruX4rRYsYqsCIy-YG2V61P_CXuKjnrR5m9Z4KU8EVU1wYAnUQRxKZR3Q2Ib4cZ_iMDGkbVftzntpw)\n*   **마니아타임즈**: \"'대타 안중열의 한 방' NC, 한화에 5-3 재역전승...불펜 5명이 무실점 합작\" (2026.04.26 20:02:59). 6회초 박건우의 동점 솔로 홈런과 7회초 대타 안중열의 결승 투런 홈런이 결정적이었다고 언급하고 있습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgsQS9-MA7Ujv-OsYshQLOJ32oN_p8yxMYEJyPsVXbBKKAqWCHQ_i0thLNbKuWk58LSNZtixZPIOxI-Ri6X0cJMcDdxgKHMkC5_EzcUpCbPvH8e0S4byrnQnhiaE4nHHnvhISLrB0x10kXcNSucDcTynVJDu6BNPH6leSPbup-ob8=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgsQS9-MA7Ujv-OsYshQLOJ32oN_p8yxMYEJyPsVXbBKKAqWCHQ_i0thLNbKuWk58LSNZtixZPIOxI-Ri6X0cJMcDdxgKHMkC5_EzcUpCbPvH8e0S4byrnQnhiaE4nHHnvhISLrB0x10kXcNSucDcTynVJDu6BNPH6leSPbup-ob8=)\n*   **OSEN**: \"5번째 등판에서 첫 퀄리티스타트...한화 문동주, 6회 박건우에 일격→노디시전 [오!쎈 대전]\" (2026.04.26). 문동주 투수가 6회 2사 후 박건우에게 좌월 솔로 홈런을 허용하며 동점이 되어 승리 요건이 날아갔다는 내용입니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyP-8GuiY-FC2jzONSFJ16ZYZxwLDI0-5sXlqTJaerWh7zq5fFiTbsAA6XfSKDhUk3wNCfb3nGUnl2TWMAT9WOWZZHOTgB71rzZ4WETHykpqAsKAMeLWrnmmFTQR2HNjasCmA=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyP-8GuiY-FC2jzONSFJ16ZYZxwLDI0-5sXlqTJaerWh7zq5fFiTbsAA6XfSKDhUk3wNCfb3nGUnl2TWMAT9WOWZZHOTgB71rzZ4WETHykpqAsKAMeLWrnmmFTQR2HNjasCmA=)\n*   **뉴스핌**: \"[AI상보] 김서현 울린 대타 안중열의 역전 투런포... NC, 한화 꺾고 위닝시리즈\" (2026.04.26). 6회초 2사 주자 없는 상황에서 박건우가 문동주의 포심 패스트볼을 공략해 좌월 솔로 홈런을 터뜨리며 3-3 동점을 만들었다고 보도했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG83o00WNxg2B-fb0WyGqoK-jRzKzEG8jrBBpkTYLNvXWqwQZOyca8wXgm8Oh8otc--fwe6YeruqZqLrBm5L2klxRA8XXBd8zq2dUcqBi1F1SIP1crb6JeYfilFvJc7tu8mmwR39NFuqpTX](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG83o00WNxg2B-fb0WyGqoK-jRzKzEG8jrBBpkTYLNvXWqwQZOyca8wXgm8Oh8otc--fwe6YeruqZqLrBm5L2klxRA8XXBd8zq2dUcqBi1F1SIP1crb6JeYfilFvJc7tu8mmwR39NFuqpTX)\n*   **연합뉴스**: \"김서현 두들긴 대타 안중열 결승 투런포…NC, 한화에 역전승\" (2026.04.26 17:02 송고). NC가 6회초 박건우가 문동주를 상대로 솔로 홈런을 쏘아 올려 3-3 동점을 만들었다고 전했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzNJZhSCv5DZc_ajhehalnjn4vJaJPY6kfvsdwQnO-HQJssEs17VaPkcrMZftEkjRB0NqOLw3h5ITGSAEdmutXyBZFGI5kg7UUN5G8OTlCDs_sxOB_1QIIWyAxGshV2NRiaHFm69P_Lyg=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzNJZhSCv5DZc_ajhehalnjn4vJaJPY6kfvsdwQnO-HQJssEs17VaPkcrMZftEkjRB0NqOLw3h5ITGSAEdmutXyBZFGI5kg7UUN5G8OTlCDs_sxOB_1QIIWyAxGshV2NRiaHFm69P_Lyg=)\n\n### 커뮤니티 및 기타 자료\n\n*   **KBO 공식 웹사이트**: 2026년 KBO 리그 경기 일정 및 결과 페이지에서 해당 경기의 스코어와 주요 기록을 확인할 수 있습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYXGO3nD93ZP7bihJC0BQ5ibX5_oGgMKd4bZ5gFSonrmsck9I_UNvgxC6cRFAZcU9l0B5UnU8FsbIAK7Ake-T84eh00sfPAjdt6GdpJUUJwW-ae44sviDWsMjcVecK71-SqOwqf2SXNVa9Qlc37Q==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYXGO3nD93ZP7bihJC0BQ5ibX5_oGgMKd4bZ5gFSonrmsck9I_UNvgxC6cRFAZcU9l0B5UnU8FsbIAK7Ake-T84eh00sfPAjdt6GUGdpJUUJwW-ae44sviDWsMjcVecK71-SqOwqf2SXNVa9Qlc37Q==)\n*   **나무위키**: 박건우 선수의 통산 홈런 일지 문서에 2026 시즌 기록이 업데이트될 예정이며, 해당 경기 홈런 기록이 포함될 수 있습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjTfdGZGrJrgCdi2eXiN11zs89WEMU0pPLhHKEUdtkTRdf3kmzLlstKnMs1HibSlVKyxi-0h5Q_saJVtGCTTwqC0IN5YCrVUIow2323-TyF7EEu_IVNW_W_R_RfrxjTIhieneT4KFh1oWPtgn4Sp5cQTNZ3PZRUWE5ElAblhPmy0WG7rlzLKNJGZwQMkhS9JAaq-8PIkCJmYCBSLaygWJS3sPbh9KI](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjTfdGZGrJrgCdi2eXiN11zs89WEMU0pPLhHKEUdtkTRdf3kmzLlstKnMs1HibSlVKyxi-0h5Q_saJVtGCTTwqC0IN5YCrVUIow2323-TyF7EEu_IVNW_W_R_RfrxjTIhieneT4KFh1oWPtgn4Sp5cQTNZ3PZRUWE5ElAblhPmy0WG7rlzLKNJGZwQMkhS9JAaq-8PIkCJmYCBSLaygWJS3sPbh9KI)\n\nMLB파크, 에펨코리아, 네이버야구카페 등 특정 커뮤니티 게시글은 검색 결과에 직접적으로 나타나지 않았지만, 위 뉴스 기사들이 해당 커뮤니티에서도 활발히 공유되고 논의되었을 것으로 예상됩니다.",
+      "sources": [
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ7jvoThvVUuy-MwJj_j2IJBuJ0DCrVd7pZfheA2pHKvCUltTZ_wVPJhRQA6lPxvWt9NFsMwFj1qmmgPbmvC1URTmBwqh4P0rENm1YQHZrQX6qTybcsyE95LvaLK-r6K6U_dtE-9wNDOQeyO7RYDjd061vcsB0ZyHrMUVgfAoddgwN2pzcY7Y=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI96NBsS5HHR4Afdwnzxhs5zg7A0oO3M2TdutGnblQmgxBEkD9pr8yzjCivHdPLDIIJfE830NEuuCaf0pzSleTTQVKgMGBnA6VPoryu0GWCeRJDz0OQ1eeEXvX43ZtNKQ=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "mk.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMc0b1KuyIoio2xAwgVuebkRDwmzqMlr2XrOXJOYgdhzY2Psc9hdyIOcu5u2ljkqyV_cpzu3SMrkiub3iUtAJWwOsWJzv3l4pyR3VHG0gWOVu1peZD9Ff5rbETrXBQTdNQ2m0=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "maniareport.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgsQS9-MA7Ujv-OsYshQLOJ32oN_p8yxMYEJyPsVXbBKKAqWCHQ_i0thLNbKuWk58LSNZtixZPIOxI-Ri6X0cJMcDdxgKHMkC5_EzcUpCbPvH8e0S4byrnQnhiaE4nHHnvhISLrB0x10kXcNSucDcTynVJDu6BNPH6leSPbup-ob8=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "mt.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOqZvB7Ba6mDAl0OkZ_vNU0eq8fA8bXXPKY48Hcq3-jOLwPAsi5iBbLDZoBvfBtPNuhkJCWx97N0IJjzesnO-Tn5LiChMHES8pDWdE_BPxCFpbQcd84L4HFyJroaz7uRE12A==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwM1b38XRuRa60-Kwp92w4Fcj9XFfshtEwwPn4JazMxNfZYg0hy-FwjcHF8apGdSX6XCchRri6WxD1dOLgFfkSUrFnr8FHEb1JRQCkQu8FzgWKHKLZQRJHUcmFf0YuwJ5qt5UBMZ8pDAAlZALfgUoxwXO-o05qr5Ln5EIJA9Ob5Bk3XcIBXJc=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSEkpeA-IdITpEpBCZKnYUQWsxPMA2KOn5ro3OWsnwT4mPQcxcV-y8bwDx7YQzTUgWLQHjnkwGl-sfJwCawmLp0bGkp6oY3kBu02x50CWTqhmM7cKg1gVZrhXR4ZZktizOiB_KLqtZDsyChbuzTj-fb6vVSwgzAtPszJMinDEi9LGqJSq9io0=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "newspim.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG83o00WNxg2B-fb0WyGqoK-jRzKzEG8jrBBpkTYLNvXWqwQZOyca8wXgm8Oh8otc--fwe6YeruqZqLrBm5L2klxRA8XXBd8zq2dUcqBi1F1SIP1crb6JeYfilFvJc7tu8mmwR39NFuqpTX",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "xportsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8V7rapkjejECBJju2z5fI8KkgMjBeNXiPVTTiubGO-qx6-6lLd-GFGNnqJBqCzupriTDYjh_qAPUmvaVosr0CRlhRFXOGJf2q1AiuhZbRjdewVxPQaZhNJ4FZcFjLkq3xS9Xt",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzNJZhSCv5DZc_ajhehalnjn4vJaJPY6kfvsdwQnO-HQJssEs17VaPkcrMZftEkjRB0NqOLw3h5ITGSAEdmutXyBZFGI5kg7UUN5G8OTlCDs_sxOB_1QIIWyAxGshV2NRiaHFm69P_Lyg=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "koreadaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiDlW9eE4OEVHI_pSkd9oyuRLUkLHfNmSog5ZwFzI6enSRzu8A15sEcmW6g8jlLTWXXR7DI9D_GiYx7pyANFgNhsvKgJ70gvJf1PW6UwN4ZGjV7MNc2IOEwv3cZePaD2Lf2m2ldi67-B_x-dS-Ew==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "sportschosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlEEfXlh8sBgUYLTBOJrofOO34lSjqhZzDOn3F4OIao2KnlRHhtXMLWUZuuOFto2uOLBcPkHLApcvAlFRY8Tm1VXuv34U_dAoEP5pnYQLCbPgzNIRSQZ4X0ZEwJUaVTaXOTlGH5_1a9bq9GIQ-dP5DSuFOat5at9owh9pVvwYhX5OHfg==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "xportsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV_n7V6YQYvIWYJ2OKhhZ0fBumOU7bJX_Inr-du9v5gOevft8_TPsfvxJruX4rRYsYqsCIy-YG2V61P_CXuKjnrR5m9Z4KU8EVU1wYAnUQRxKZR3Q2Ib4cZ_iMDGkbVftnztpw",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "osen.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyP-8GuiY-FC2jzONSFJ16ZYZxwLDI0-5sXlqTJaerWh7zq5fFiTbsAA6XfSKDhUk3wNCfb3nGUnl2TWMAT9WOWZZHOTgB71rzZ4WETHykpqAsKAMeLWrnmmFTQR2HNjasCmA=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "koreabaseball.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYXGO3nD93ZP7bihJC0BQ5ibX5_oGgMKd4bZ5gFSonrmsck9I_UNvgxC6cRFAZcU9l0B5UnU8FsbIAK7Ake-T84eh00sfPAjdt6GdpJUUJwW-ae44sviDWsMjcVecK71-SqOwqf2SXNVa9Qlc37Q==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "namu.wiki",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjTfdGZGrJrgCdi2eXiN11zs89WEMU0pPLhHKEUdtkTRdf3kmzLlstKnMs1HibSlVKyxi-0h5Q_saJVtGCTTwqC0IN5YCrVUIow2323-TyF7EEu_IVNW_W-R_RfrxjTIhieneT4KFh1oWPtgn4Sp5cQTNZ3PZRUWE5ElAblhPmy0WG7rlzLKNJGZwQMkhS9JAaq-8PIkCJmYCBSLaygWJS3sPbh9KI",
+          "yearNote": "연도 확인 불가"
+        }
+      ],
+      "invalid_sources": [],
+      "year_note": "2026년 기준"
+    },
+    {
+      "rank": 5,
+      "title": "문현빈, 좌익수 슈퍼 캐치!",
+      "start_sec": 158,
+      "end_sec": 175,
+      "players": [
+        "문현빈",
+        "도태훈"
+      ],
+      "scene_description": "1회말, 한화의 요나단 페라자 선수가 상대 선발 버하겐 투수를 상대로 비거리 125m의 우월 투런 홈런을 터뜨리며 경기를 2대2 동점으로 만듭니다.",
+      "engagement_reason": "실점으로 이어질 수 있는 타구를 호수비로 막아내며 투수를 돕는 멋진 장면입니다. 역동적인 플레이는 유튜브 쇼츠에서 높은 조회수를 기록할 수 있습니다.",
+      "sports_significance": "경기 흐름을 바꿀 수 있는 중요한 수비로, 팀의 실점을 막고 분위기를 전환하는 데 기여했습니다. 젊은 선수의 투지를 엿볼 수 있습니다.",
+      "fan_reaction_basis": "팬 반응에 직접적으로 언급되지는 않았지만, '문현빈' 선수가 라인업에 포함되어 있으며, 이러한 슈퍼 캐치는 항상 팬들의 감탄을 자아내고 SNS에서 화제가 될 가능성이 높습니다.",
+      "viral_potential": "high",
+      "persp": "viral",
+      "ai_sources": [
+        "viral",
+        "stats"
+      ],
+      "agreement": 2,
+      "multi_desc": [
+        {
+          "perspId": "viral",
+          "text": "2회초 도태훈 선수의 좌측 깊은 타구를 문현빈 선수가 몸을 날려 잡아내는 슈퍼 캐치 장면."
+        },
+        {
+          "perspId": "stats",
+          "text": "1회말, 한화의 요나단 페라자 선수가 상대 선발 버하겐 투수를 상대로 비거리 125m의 우월 투런 홈런을 터뜨리며 경기를 2대2 동점으로 만듭니다."
+        }
+      ],
+      "verification_summary": "NO_VERIFICATION_FOUND.\n\n2026년 4월 26일 한화 이글스와 NC 다이노스의 경기에서 \"1회말, 한화의 요나단 페라자 선수가 상대 선발 버하겐 투수를 상대로 비거리 125m의 우월 투런 홈런을 터뜨리며 경기를 2대2 동점으로 만듭니다\"라는 장면과 관련된 뉴스 및 커뮤니티 게시물을 검색했습니다.\n\n**뉴스 기사 요약:**\n\n*   **스포츠조선 (2026년 4월 26일):** '576일 만에 홈런이 터졌다…NC, 주말 3연전 위닝시리즈 [대전 리뷰]' 기사에 따르면, 1회말 한화의 황영묵 선수가 볼넷으로 출루한 뒤 요나단 페라자 선수가 NC 선발 버하겐 투수의 직구를 받아쳐 동점 투런 홈런을 기록했습니다. 이 홈런은 버하겐의 직구가 스트라이크존 가운데로 몰리자 놓치지 않고 대형 타구를 만든 것이라고 언급되어 있습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBFYO7NnEGkT8o9iudPSWsa3Tcpcv0zxKapeAAvS_SjEH7k9vWzpP2XI7gmdBqWY61U1grjuMYb0e47DvYZLadOzG0uN87Tdsdw7d3IyiAWc5LhxZlx_tn2pX7DqUC_w-WXzGyXolTWAmwr3xiS1bQIltth8wkX29v3_KmENeXMwLzx3-jEj2e](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBFYO7NnEGkT8o9iudPSWsa3Tcpcv0zxKapeAAvS_SjEH7k9vWzpP2XI7gmdBqWY61U1grjuMYb0e47DvYZLadOzG0uN87Tdsdw7d3IyiAWc5LhxZlx_tn2pX7DqUC_w-WXzGyXolTWAmwr3xiS1bQIltth8wkX29v3_KmENeXMwLzx3-jEj2e)\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaruOPHXIStm0yq-fEzBAAL9_laHD9UGVQTaNFcGGmUMiciyyZQKbsi0Lk-eSwq9EbkPHfbPjjZj3XHbb6Nxxo7C5l6btgK_0I3IVaWqowIT6_x787jN_rEw1ea0ku3FssuER274sHkrVilLU2iVGzOsF-XJM8em7y27mBHQKNpeOCnCI=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaruOPHXIStm0yq-fEzBAAL9_laHD9UGVQTaNFcGGmUMiciyyZQKbsi0Lk-eSwq9EbkPHfbPjjZj3XHbb6Nxxo7C5l6btgK_0I3IVaWqowIT6_x787jN_rEw1ea0ku3FssuER274sHkrVilLU2iVGzOsF-XJM8em7y27mBHQKNpeOCnCI=)\n\n*   **OSEN (조선일보, 2026년 4월 26일):** '안중열 대타 결승포→22일 만의 위닝시리즈 달성...\"박건우 동점포-안중열 역전포 결정적\" [오!쎈 대전]' 기사에서 1회말 페라자 선수가 투런포를 허용하며 2-2 동점을 만들었다고 언급하고 있습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcZUoE6YfPudnKEgfid-HmWAIHfuOF-xBaad0g6zzf1AuDZBxEX_WvzyW-9ihpjouOf8sxd-jpW5gft3udNhtDzQoa4UzQC5nt7GLas9LRc5hym9bYuT1rqp84-tDfhnWJW7431pVXBnvJSI7XzI_6t7fS26OWLInGD4MzEb_Geosqwaj0qPTK](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcZUoE6YfPudnKEgfid-HmWAIHfuOF-xBaad0g6zzf1AuDZBxEX_WvzyW-9ihpjouOf8sxd-jpW5gft3udNhtDzQoa4UzQC5nt7GLas9LRc5hym9bYuT1rqp84-tDfhnWJW7431pVXBnvJSI7XzI_6t7fS26OWLInGD4MzEb_Geosqwaj0qPTK)\n\n*   **엑스포츠뉴스 (2026년 4월 26일):** ''3주 만에 위닝시리즈 따냈다고?' NC 길었던 침체 드디어 벗어나나…이호준 감독 대만족 \"모든 선수들 집중력 보여 역전\" [대전 현장]' 기사에서는 1회말 요나단 페라자 선수가 NC 선발 드류 버하겐 투수에게 2점 홈런을 터트리면서 경기가 원점으로 돌아갔다고 보도했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-AQuPnTifJF8SlhWgDtVSpOGIOdmp9d6p08ixqnYekQ6bBceZ2iZUp3Ji9nVjRcFF3K3oXaPz77KTVCVsbP9bashXS7aDJq0349o55MUhrQF6t7HE24aZvCYNzdOH0E-](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-AQuPnTifJF8SlhWgDtVSpOGIOdmp9d6p08ixqnYekQ6bBceZ2iZUp3Ji9nVjRcFF3K3oXaPz77KTVCVsbP9bashXS7aDJq0349o55MUhrQF6t7HE24aZvCYNzdOH0E-)\n\n*   **Daum (스포티비뉴스, 2026년 4월 26일):** '대전 역전 드라마! 백업 포수가 대타 초구 홈런 쾅…NC, 한화 상대 위닝시리즈' 기사에서 황영묵 선수가 볼넷으로 출루한 뒤 페라자 선수가 '몬스터월'을 넘기는 동점 홈런을 날렸다고 언급했습니다. 페라자 선수는 볼카운트 0-1에서 2구째 시속 146km 투심 패스트볼을 공략했다고 상세히 설명되어 있습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa5ELcsc2kpeeQ0ugcmD16JNqDa4mKxZugBReslg2nVRuXXR5_-ekrPZUnm2i4vAtuiaA_hFXBWlBCiwzXykXZfpyDGgWZ7WzWLrrNxQQv3G_26dwsFkT6T2R8yPnqeSmD](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa5ELcsc2kpeeQ0ugcmD16JNqDa4mKxZugBReslg2nVRuXXR5_-ekrPZUnm2i4vAtuiaA_hFXBWlBCiwzXykXZfpyDGgWZ7WzWLrrNxQQv3G_26dwsFkT6T2R8yPnqeSmD)\n\n*   **OSEN (2026년 4월 26일):** '김서현 충격 패전→안중열 결승 투런포 폭발...NC, 한화에 5-3 뒤집기 위닝시리즈 [대전 리뷰]' 기사에서는 1회말 선두타자 황영묵의 볼넷으로 만든 무사 1루에서 페라자 선수가 우월 투런포를 터뜨려 2-2 동점을 만들었다고 보도했습니다. NC 선발 드류 버하겐을 상대로 1스트라이크에서 146km 패스트볼을 걷어 올려 몬스터월을 넘겼다고 구체적으로 언급했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzISMrtpAoS--pWK_p5YoaM204OUkoK6I1l58Fpg1B62VE4ELGeRAgN-sB7YPU5ZqJF5sb9mcxLXmPfg-yf1zwvnJl4uZj9T-TUAFCpFwV-mRjJmr-KlDZY-SfyJNxNXMfG5AOZVXPAwlV2qs2YxKfCzDbnZsmGGE9lBK9RTejAv8k13z5t5RM](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzISMrtpAoS--pWK_p5YoaM204OUkoK6I1l58Fpg1B62VE4ELGeRAgN-sB7YPU5ZqJF5sb9mcxLXmPfg-yf1zwvnJl4uZj9T-TUAFCpFwV-mRjJmr-KlDZY-SfyJNxNXMfG5AOZVXPAwlV2qs2YxKfCzDbnZsmGGE9lBK9RTejAv8k13z5t5RM)\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH--0n7GphtxAPIFLkN4m13E6EvsR7o3lvyqZHE6sdYar2_CGjF1yUg9wCKESypqFgvVaKbRG5U99fYdLCSQ7KcDmo62KU6D-Rj5iyWHx2TaOlG8W6CuWTAcbefVpmE7CeD4obhSq5qcWZECT2ktJ8=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH--0n7GphtxAPIFLkN4m13E6EvsR7o3lvyqZHE6sdYar2_CGjF1yUg9wCKESypqFgvVaKbRG5U99fYdLCSQ7KcDmo62KU6D-Rj5iyWHXh2TaOlG8W6CuWTAcbefVpmE7CeD4obhSq5qcWZECT2ktJ8=)\n\n*   **Daum (대전일보, 2026년 4월 26일):** '김서현 통한의 피홈런…한화, 다 잡은 위닝시리즈 놓쳤다' 기사에서 1회말 황영묵 선수의 볼넷 이후 페라자 선수가 우월 투런포를 쏘아 올리며 단숨에 승부를 원점으로 돌렸다고 보도했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMeeQe3-XYYRJ1RPQXJ4qYxQ5UJ7r2lmp6l7hO8Cihnr_93ukyoU4J8mKw0O8k_k8X11OEN1znKWDAue1fKgM_0_8N933lE4ouybti5MWhs2lhyfiG7IQFvmE=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMeeQe3-XYYRJ1RPQXJ4qYxQ5UJ7r2lmp6l7hO8Cihnr_93ukyoU4J8mKw0O8k_k8X11OEN1znKWDAue1fKgM_0_8N933lE4ouybti5MWhs2lhyfiG7IQFvmE=)\n\n*   **OSEN (2026년 4월 26일):** ''미쳤다' 페라자 이틀 연속 투런포 폭발...문동주 1회 2실점 지우는 동점 투런포 [오!쎈 대전]' 기사에서 요나단 페라자 선수가 26일 NC 다이노스와의 경기 1회말 황영묵 선수의 볼넷 출루 후 NC 선발 드류 버하겐의 투심을 받아쳐 우월 투런포를 터뜨렸다고 보도했습니다. 이 홈런은 우측 몬스터월을 훌쩍 넘기는 비거리 125m짜리 대형 홈런포였다고 구체적인 비거리를 언급했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL66HpIm4ylgpbzPHLQtozBj7T2umbnNaWC-HicOFS3aMViuSqjZR6jkVar_cGIxecD1PwdPme-12-whFkQF3Q-Q_AAGxpD0OeyoI6gIiV8O_vrF02w9kPeS6my36yo4PfqYhBKC2rbYj-xqdt9AcV7Je6KoDH2f8AxTNyenZbOMiDXjAbRmb2](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL66HpIm4ylgpbzPHLQtozBj7T2umbnNaWC-HicOFS3aMViuSqjZR6jkVar_cGIxecD1PwdPme-12-whFkQF3Q-Q_AAGxpD0OeyoI6gIiV8O_vrF02w9kPeS6my36yo4PfqYhBKC2rbYj-xqdt9AcV7Je6KoDH2f8AxTNyenZbOMiDXjAbRmb2)\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8P2uqOAwNDkO_cf1Cf2sRCOewT43RSTyakFYlosMTXsMFMKpQCXuzzvrgWKqnarKZBzQinkFKwtjYePdTqpuHVHFuaw1aTZ4zUp2a0NapLD88a1uIa77BtCLQm2KM3Jgvgbi9cdWqS28m771xoBPsnH_onPA=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8P2uqOAwNDkO_cf1Cf2sRCOewT43RSTyakFYlosMTXsMFMKpQCXuzzvrgWKqnarKZBzQinkFKwtjYePdTqpuHVHFuaw1aTZ4zUp2a0NapLD88a1uIa77BtCLQm2KM3Jgvgbi9cdWqS28m771xoBPsnH_onPA=)\n\n*   **마니아타임즈 (2026년 4월 26일):** ''대타 안중열의 한 방' NC, 한화에 5-3 재역전승...불펜 5명이 무실점 합작' 기사에서 1회말 황영묵의 볼넷에 이어 페라자의 투런홈런으로 단박에 2-2 동점을 만들었다고 언급했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwkCpU974ELYtSYV_hEvYJIlUPG303-kDjmBxfU4ybZ6uHYEI0NlmsOowuV2V_DffFwQ9Z-nmzwVx7qXThEFwv5ujts9dMKjSAaz7bmfQgQEumL4xXF9RNZb5nvzrNG9fdBsjSRc9eyRkkyb5RIstnfRAnsDGf8IvIeCs_-X1H0p3r](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwkCpU974ELYtSYV_hEvYJIlUPG303-kDjmBxfU4ybZ6uHYEI0NlmsOowuV2V_DffFwQ9Z-nmzwVx7qXThEFwv5ujts9dMKjSAaz7bmfQgQEumL4xXF9RNZb5nvzrNG9fdBsjSRc9eyRkkyb5RIstnfRAnsDGf8IvIeCs_-X1H0p3r)\n\n*   **스포츠조선 (2026년 4월 26일):** '사령탑이 꼽은 \"결정적 홈런\"…아찔했던 부상이 만든 짜릿 역전극 [대전 현장]' 기사에서도 1회말 요나단 페라자의 투런포가 터지면서 경기가 원점으로 돌아갔다고 보도했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoBh7MwKCk_s_zayvszyHMLghafxD6NCxuiaaErvi3MBw4_usGmveQMsHAqDQH8EUBsL1vO-hizZa2-TVA63MFwU818q-DdR4gxryv-TWabdoPy1uOr6zlEqCaI2Me9ojAeQb7_ubt2xocdMVFjMfpoxVf5mIEmlWSmf-9GHsNWlV6oOc=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoBh7MwKCk_s_zayvszyHMLghafxD6NCxuiaaErvi3MBw4_usGmveQMsHAqDQH8EUBsL1vO-hizZa2-TVA63MFwU818q-DdR4gxryv-TWabdoPy1uOr6zlEqCaI2Me9ojAeQb7_ubt2xocdMVFjMfpoxVf5mIEmlWSmf-9GHsNWV6oOc=)\n\n*   **엑스포츠뉴스 (2026년 4월 26일):** ''100% 매진' 홈팬 위해 한화 대포 폭발! 페라자 '8m 몬스터월' 훌쩍→연이틀 홈런포 가동...1회부터 타격전 진행 [대전 라이브]' 기사에서 1회말 황영묵 선수가 볼넷으로 출루한 뒤 요나단 페라자 선수가 버하겐의 146km/h 투심 패스트볼을 공략, 높이 8m의 오른쪽 담장 '몬스터 월'을 넘어가는 2점 홈런을 터트렸다고 상세히 보도했습니다. 이는 페라자 선수의 시즌 4호 홈런이었다고 덧붙였습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIhqZgt1hAgT7mN_k47V08vXlFTJSD6w3_q-WrnFvnHVDukpXHBxRnpBl2jTgAQP7nTI0V-6ok1i6eVqe-fHy51XSAjCByNUhuboiSri07k9fLUdWh1yvMlDQCR0JkwmSzBkCr2Q==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIhqZgt1hAgT7mN_k47V08vXlFTJSD6w3_q-WrnFvnHVDukpXHBxRnpBl2jTgAQP7nTI0V-6ok1i6eVqe-fHy51XSAjCByNUhuboiSri07k9fLUdWh1yvMlDQCR0JkwmSzBkCr2Q==)\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQEZOjDOmG8dYw1TLuL0VDZ9TrPyoDPwnTMSxdzWYxcWPouqOGBkCHEjjHFdWHo2SqVS2Y_9YlKi4_wPRcl3BzTNLR_HM9qJecoHDREIdZSJ67AQ2xlE6wtyWYoyKWHvgFp7fYnQ==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQEZOjDOmG8dYw1TLuL0VDZ9TrPyoDPwnTMSxdzWYxcWPouqOGBkCHEjjHFdWHo2SqVS2Y_9YlKi4_wPRcl3BzTNLR_HM9qJecoHDREIdZSJ67AQ2xlE6wtyWYoyKWHvgFp7fYnQ==)\n\n*   **스포티비뉴스 (2026년 4월 26일):** '문동주 1회 2실점→페라자 1회 동점포…페라자 2G 연속 홈런, 최근 4G 3홈런 몰아치기' 기사에서 페라자 선수가 1회말 첫 타석에서 홈런을 터트렸다고 보도했습니다. 황영묵 선수가 볼넷으로 출루한 가운데 페라자 선수가 볼카운트 1-1에서 드류 버하겐의 3구 포크볼을 공략해 오른쪽 '몬스터월'을 넘기는 홈런을 날렸다고 상세히 설명했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7F4xtS_XnmulWMGMgJhZTJC3QBAwqyUJwNV3myqPUPbVCvXc7gFcaJZWYbJTW70ETt5a2Dob3EGZQ_RDvtQgH74gtHVFFTFWc-OYBUBdv81R3tkFyvioQubNeGGJ6ndSkp-NJ8zaEvk9FpmTZfkcma_szNWcHKbKJ](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7F4xtS_XnmulWMGMgJhZTJC3QBAwqyUJwNV3myqPUPbVCvXc7gFcaJZWYbJTW70ETt5a2Dob3EGZQ_RDvtQgH74gtHVFFTFWc-OYBUBdv81R3tkFyvioQubNeGGJ6ndSkp-NJ8zaEvk9FpmTZfkcma_szNWcHKbKJ)\n\n**커뮤니티 게시물 요약:**\n\n*   **NC Dinos 공식 웹사이트 (2026년 4월 26일):** 정규리그 경기일정/결과 페이지에 2026년 4월 26일 NC 다이노스와 한화 이글스의 경기가 '경기중'으로 표시되어 있으며, NC 다이노스 선발은 버하겐, 한화 이글스 선발은 문동주로 명시되어 있습니다. 스코어는 2:3으로 한화가 앞서고 있는 상황입니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGti6R_d_ys3AIe6zRZ9j-qub-HxUR48dmVT-L9RfxvCOMUHe6tVJhYS9DeSyvBpuvmeW-hJr5omi0ZOChui9CxPOTISNwc4Cu7rJ8bb_gWw_h0IdGxp8iywvaJAJAomnlCIpMziVmrdw==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGti6R_d_ys3AIe6zRZ9j-qub-HxUR48dmVT-L9RfxvCOMUHe6tVJhYS9DeSyvBpuvmeW-hJr5omi0ZOChui9CxPOTISNwc4Cu7rJ8bb_gWw_h0IdGxp8iywvaJAJAomnlCIpMziVmrdw==)\n\n**결론:**\n\n2026년 4월 26일 한화 이글스와 NC 다이노스의 경기에서 1회말 한화의 요나단 페라자 선수가 NC 선발 드류 버하겐 투수를 상대로 비거리 125m의 우월 투런 홈런을 터뜨려 경기를 2대2 동점으로 만들었다는 내용의 뉴스 기사가 다수 확인되었습니다. NC 다이노스 공식 웹사이트에서도 해당 경기의 정보가 확인됩니다. 커뮤니티 게시물은 직접적으로 해당 장면을 다루는 내용은 검색되지 않았습니다.",
+      "sources": [
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBFYO7NnEGkT8o9iudPSWsa3Tcpcv0zxKapeAAvS_SjEH7k9vWzpP2XI7gmdBqWY61U1grjuMYb0e47DvYZLadOzG0uN87Tdsdw7d3IyiAWc5LhxZlx_tn2pX7DqUC_w-WXzGyXolTWAmwr3xiS1bQIltth8wkX29v3_KmENeXMwLzx3-jEj2e",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "sportschosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaruOPHXIStm0yq-fEzBAAL9_laHD9UGVQTaNFcGGmUMiciyyZQKbsi0Lk-eSwq9EbkPHfbPjjZj3XHbb6Nxxo7C5l6btgK_0I3IVaWqowIT6_x787jN_rEw1ea0ku3FssuER274sHkrVilLU2iVGzOsF-XJM8em7y27mBHQKNpeOCnCI=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcZUoE6YfPudnKEgfid-HmWAIHfuOF-xBaad0g6zzf1AuDZBxEX_WvzyW-9ihpjouOf8sxd-jpW5gft3udNhtDzQoa4UzQC5nt7GLas9LRc5hym9bYuT1rqp84-tDfhnWJW7431pVXBnvJSI7XzI_6t7fS26OWLInGD4MzEb_Geosqwaj0qPTK",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "xportsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-AQuPnTifJF8SlhWgDtVSpOGIOdmp9d6p08ixqnYekQ6bBceZ2iZUp3Ji9nVjRcFF3K3oXaPz77KTVCVsbP9bashXS7aDJq0349o55MUhrQF6t7HE24aZvCY5XMSA2h91Ddqkug==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa5ELcsc2kpeeQ0ugcmD16JNqDa4mKxZugBReslg2nVRuXXR5_-ekrPZUnm2i4vAtuiaA_hFXBWlBCiwzXykXZfpyDGgWZ7WzWLrrNxQQv3G_26dwsFkT6T2R8yPnqeSmD",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzISMrtpAoS--pWK_p5YoaM204OUkoK6I1l58Fpg1B62VE4ELGeRAgN-sB7YPU5ZqJF5sb9mcxLXmPfg-yf1zwvnJl4uZj9T-TUAFCpFwV-mRjJmr-KlDZY-SfyJNxNXMfG5AOZVXPAwlV2qs2YxKfCzDbnZsmHGE9lBK9RTejAv8k13z5t5RM",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "koreadaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH--0n7GphtxAPIFLkN4m13E6EvsR7o3lvyqZHE6sdYar2_CGjF1yUg9wCKESypqFgvVaKbRG5U99fYdLCSQ7KcDmo62KU6D-Rj5iyWHx2TaOlG8W6CuWTAcbefVpmE7CeD4obhSq5qcWZECT2ktJ8=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMeeQe3-XYYRJ1RPQXJ4qYxQ5UJ7r2lmp6l7hO8Cihnr_93ukyoU4J8mKw0O8k_k8X11OEN1znKWDAue1fKgM_0_8N933lE4ouybti5MWhs2lhyfiG7IQFvmE=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL66HpIm4ylgpbzPHLQtozBj7T2umbnNaWC-HicOFS3aMViuSqjZR6jkVar_cGIxecD1PwdPme-12-whFkQF3Q-Q_AAGxpD0OeyoI6gIiV8O_vrF02w9kPeS6my36yo4PfqYhBKC2rbYj-xqdt9AcV7Je6KoDH2f8AxTNyenZbOMiDXjAbRmb2",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "mt.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8P2uqOAwNDkO_cf1Cf2sRCOewT43RSTyakFYlosMTXsMFMKpQCXuzzvrgWKqnarKZBzQinkFKwtjYePdTqpuHVHFuaw1aTZ4zUp2a0NapLD88a1uIa77BtCLQm2KM3Jgvgbi9cdWqS28m771xoBPsnH_onPA=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "maniareport.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwkCpU974ELYtSYV_hEvYJIlUPG303-kDjmBxfU4ybZ6uHYEI0NlmsOowuV2V_DffFwQ9Z-nmzwVx7qXThEFwv5ujts9dMKjSAaz7bmfQgQEumL4xXF9RNZb5nvzrNG9fdBsjSRc9eyRkkyb5RIstnfRAnsDGf8IvIeCs_-X1H0p3r",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "sportschosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoBh7MwKCk_s_zayvszyHMLghafxD6NCxuiaaErvi3MBw4_usGmveQMsHAqDQH8EUBsL1vO-hizZa2-TVA63MFwU818q-DdR4gxryv-TWabdoPy1uOr6zlEqCaI2Me9ojAeQb7_ubt2xocdMVFjMfpoxVf5mIEmlWSmf-9GHsNWlV6oOc=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "xportsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIhqZgt1hAgT7mN_k47V08vXlFTJSD6w3_q-WrnFvnHVDukpXHBxRnpBl2jTgAQP7nTI0V-6ok1i6eVqe-fHy51XSAjCByNUhuboiSri07k9fLUdWh1yvMlDQCR0JkwmSzBkCr2Q==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "xportsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQEZOjDOmG8dYw1TLuL0VDZ9TrPyoDPwnTMSxdzWYxcWPouqOGBkCHEjjHFdWHo2SqVS2Y_9YlKi4_wPRcl3BzTNLR_HM9qJecoHDREIdZSJ67AQ2xlE6wtyWYoyKWHvgFp7fYnQ==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "spotvnews.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7F4xtS_XnmulWMGMgJhZTJC3QBAwqyUJwNV3myqPUPbVCvXc7gFcaJZWYbJTW70ETt5a2Dob3EGZQ_RDvtQgH74gtHVFFTFWc-OYBUBdv81R3tkFyvioQubNeGGJ6ndSkp-NJ8zaEvk9FpmTZfkcma_szNWcHKbKJ",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "ncdinos.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGti6R_d_ys3AIe6zRZ9j-qub-HxUR48dmVT-L9RfxvCOMUHe6tVJhYS9DeSyvBpuvmeW-hJr5omi0ZOChui9CxPOTISNwc4Cu7rJ8bb_gWw_h0IdGxp8iywvaJAJAomnlCIpMziVmrdw==",
+          "yearNote": "연도 확인 불가"
+        }
+      ],
+      "invalid_sources": [],
+      "year_note": "2026년 기준"
+    },
+    {
+      "rank": 3,
+      "title": "페라자, 비거리 125m 투런포!",
+      "start_sec": 115,
+      "end_sec": 135,
+      "players": [
+        "요나단 페라자",
+        "드류 버하겐"
+      ],
+      "scene_description": "1회말, 1사 1루 상황에서 요나단 페라자가 드류 버하겐의 공을 받아쳐 비거리 125m의 우월 투런 홈런을 기록하며 경기를 2대2 동점으로 만듭니다.",
+      "engagement_reason": "경기 초반 한화 팬들에게 큰 기대감을 안겨준 시원한 홈런입니다. 비거리 125m의 대형 홈런은 시각적으로도 매우 인상적입니다.",
+      "sports_significance": "한화의 초반 공격을 이끈 홈런으로, 경기의 흐름을 한화 쪽으로 가져오는 데 기여했습니다. 외국인 타자의 파워를 보여주는 장면입니다.",
+      "fan_reaction_basis": "팬 반응 사전 조사에서 '요나단 페라자 선수의 시즌 4호 투런포'가 한화 팬들의 초반 기대감을 안겨준 순간으로 회자될 것으로 예상됩니다.",
+      "viral_potential": "medium",
+      "persp": "viral",
+      "ai_sources": [
+        "viral",
+        "tactical"
+      ],
+      "agreement": 2,
+      "multi_desc": [
+        {
+          "perspId": "viral",
+          "text": "1회말 요나단 페라자 선수가 드류 버하겐 투수를 상대로 비거리 125m의 우월 2점 홈런을 터뜨리며 경기를 2대2 동점으로 만드는 장면."
+        },
+        {
+          "perspId": "tactical",
+          "text": "1회말, 1사 1루 상황에서 요나단 페라자가 드류 버하겐의 공을 받아쳐 비거리 125m의 우월 투런 홈런을 기록하며 경기를 2대2 동점으로 만듭니다."
+        }
+      ],
+      "verification_summary": "NO_VERIFICATION_FOUND\n\n2026년 4월 26일 한화 이글스와 NC 다이노스의 경기에서 요나단 페라자의 1회말 투런 홈런에 대한 뉴스 기사는 다수 확인되었으나, MLB파크, 에펨코리아, 네이버야구카페 등 커뮤니티 게시물은 검색되지 않았습니다.\n\n**뉴스 요약:**\n\n*   **연합뉴스 (2026년 4월 26일 17:02 송고):** NC 다이노스가 한화 이글스에 5-3으로 역전승을 거둔 경기에서, NC가 1회초 2점을 선취했으나 한화는 1회말 요나단 페라자의 동점 2점 홈런으로 곧바로 맞불을 놓았다고 보도했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkqpyLaI07qnH2tDgk7W9VoPeVhdwzaUE1ikR1jJRIcbmwPyFVxnBfBJpf3VSF02zuFQHhRjUql3q2zkf60vdYWuXP597pP0s4IE7GYbRENWERlzJcWasPlHrZgJKHILy7S7_thOf8Dl92](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkqpyLaI07qnH2tDgk7W9VoPeVhdwzaUE1ikR1jJRIcbmwPyFVxnBfBJpf3VSF02zuFQHhRjUql3q2zkf60vdYWuXP597pP0s4IE7GYbRENWERlzJcWasPlHrZgJKHILy7S7_thOf8Dl92) (연합뉴스)\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhmH90mCSi_IMIowG3HU2Efve2yjL7ebnuCEg9olnm_48eUxc2sx2_lOYO6asE7Ddvr3zmWWojdvNSyOP4q1G2SfHb8Esgu1BhVpUYXB7aLNp4_sMZLvX6guAlQrhM4gd5JCt7sVOHCkms](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhmH90mCSi_IMIowG3HU2Efve2yjL7ebnuCEg9olnm_48eUxc2sx2_lOYO6asE7Ddvr3zmWWojdvNSyOP4q1G2SfHb8Esgu1BhVpUYXB7aLNp4_sMZLvX6guAlQrhM4gd5JCt7sVOHCkms) (연합뉴스)\n\n*   **엑스포츠뉴스 (2026년 4월 26일 16:53 기사입력):** 한화가 1회말 황영묵의 볼넷에 이어 요나단 페라자가 NC 선발 드류 버하겐의 146km/h 투심 패스트볼을 공략, 높이 8m의 오른쪽 단장 '몬스터 월'을 넘어가는 2점 홈런을 터트렸다고 상세히 보도했습니다. 이는 페라자의 시즌 4호 홈런이며, 경기를 2대2 동점으로 만들었다고 언급했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjzGyB-yRmoGn_6u9VnZF1tQVk1591muaMrh-SIr9vQ0vD_Gr3OcwWeHy--pmVVcZAlhr2qnuq4rwpEdOr93iKbgZfvLCGqhAollOsandvbD8dNyZroXEMlYniFUES3Du0ElktRg==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjzGyB-yRmoGn_6u9VnZF1tQVk1591muaMrh-SIr9vQ0vD_Gr3OcwWeHy--pmVVcZAlhr2qnuq4rwpEdOr93iKbgZfvLCGqhAollOsandvbD8dNyZroXEMlYniFUES3Du0ElktRg==) (엑스포츠뉴스)\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHavWZamVnud-8k1byXMcjMZkt7foRTiWzwW7qILeqGyFGqeA1u1LeZa34DbxMGV3V0Y1j6bmX47_QQCl3UvVLHf1Eiq2wFVDdT9kI1Iv5MxfZUtzvKeUHMaPoWgp4nTPZm3pfSSQ==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHavWZamVnud-8k1byXMcjMZkt7foRTiWzwW7qILeqGyFGqeA1u1LeZa34DbxMGV3V0Y1j6bmX47_QQCl3UvVLHf1Eiq2wFVDdT9kI1Iv5MxfZUtzvKeUHMaPoWgp4nTPZm3pfSSQ==) (엑스포츠뉴스)\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKI2D1elrDdBCdQW3NcPvKce23M6C2NuQ-eLJtVDd4X7ZEonLoF2bCces63XaZf5hZXpPhbn0k8Hzp6C4bgU3rgXzxB8PnsHL9vQQYmIJjdHZrRWxhFCDDx8MkjZo6TsmSDqdQjw==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKI2D1elrDdBCdQW3NcPvKce23M6C2NuQ-eLJtVDd4X7ZEonLoF2bCces63XaZf5hZXpPhbn0k8Hzp6C4bgU3rgXzxB8PnsHL9vQQYmIJjdHZrRWxhFCDDx8MkjZo6TsmSDqdQjw==) (엑스포츠뉴스)\n\n*   **스포츠조선 (2026년 4월 26일 16:52 입력):** NC가 1회초 2점을 선취했으나, 한화가 1회말 황영묵의 볼넷에 이어 페라자의 홈런포로 단숨에 동점을 만들었다고 전했습니다. 버하겐의 직구가 스트라이크존 가운데로 몰리자 이를 놓치지 않고 대형 타구를 만들었다고 덧붙였습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGge_JN0NCdzJ9i6JuK_Qc42gN5lQ-MWpkcC19GC5AlhtZs-XolvT5o0nwzyctHJlWS9kJEQp7md-Pw0YXMNfav1g7H9lO8U4QhwjwbjHLmlwuZK8Ikjhu_MiysMiYdddGeUN9BKfTzoq3vLWT8kKW16ECchEda2d-XWuzmsO1Z9wvKpaF4DVtC](https://vertexaisearch.cloud.google.google.com/grounding-api-redirect/AUZIYQGge_JN0NCdzJ9i6JuK_Qc42gN5lQ-MWpkcC19GC5AlhtZs-XolvT5o0nwzyctHJlWS9kJEQp7md-Pw0YXMNfav1g7H9lO8U4QhwjwbjHLmlwuZK8Ikjhu_MiysMiYdddGeUN9BKfTzoq3vLWT8kKW16ECchEda2d-XWuzmsO1Z9wvKpaF4DVtC) (스포츠조선)\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyQ11KS48DeQWSdhyUkdjnNdJNaKYFHV6PV86azehwyMfFOz0zxYcxoznx7MrMwGEsWkw5k_6MsePLp9pWX_DLJb1pJuunvjAT1epE4nUyuTYOfDSq3wn3k2VLebaXh4JeunzohTmRNFt1qWpKVuqTMgIRVfKLYMSwEREtTdY8EzeBCjM=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyQ11KS48DeQWSdhyUkdjnNdJNaKYFHV6PV86azehwyMfFOz0zxYcxoznx7MrMwGEsWkw5k_6MsePLp9pWX_DLJb1pJuunvjAT1epE4nUyuTYOfDSq3wn3k2VLebaXh4JeunzohTmRNFt1qWpKVuqTMgIRVfKLYMSwEREtTdY8EzeBCjM=) (스포츠조선)\n\n*   **SPOTV NEWS (2026년 4월 26일 14:26 기사승인):** 요나단 페라자가 26일 NC 다이노스와의 경기 1회말 첫 타석에서 홈런을 터트렸다고 보도했습니다. 황영묵이 볼넷으로 출루한 가운데 페라자가 볼카운트 1-1에서 드류 버하겐의 3구 포크볼을 공략해 오른쪽 '몬스터월'을 넘기는 홈런을 날렸다고 설명했습니다. 이 홈런으로 선발 문동주의 1회초 2실점으로 끌려가던 경기가 2-2 동점이 되었다고 언급했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESKZnAnHfW5B5MZmSQJ4rmdKyCYUwKCxV4Ej9kIjDNFu4oFVB823AyDm65ioGksTTOb-3_YfxzECov-a_kcO0yiIk_OCsD6p0_bOktn_4tYoZPPh7lo_kczsJRBMYeJSD73JUSphkYBhX7tlqOz87Rk-EX4KCQTtCu](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESKZnAnHfW5B5MZmSQJ4rmdKyCYUwKCxV4Ej9kIjDNFu4oFVB823AyDm65ioGksTTOb-3_YfxzECov-a_kcO0yiIk_OCsD6p0_bOktn_4tYoZPPh7lo_kczsJRBMYeJSD73JUSphkYBhX7tlqOz87Rk-EX4KCQTtCu) (SPOTV NEWS)\n\n*   **OSEN (2026년 4월 26일 14:23 입력):** 페라자가 1회말 황영묵의 볼넷 이후 NC 선발 드류 버하겐의 146km 투심을 걷어 올려 우월 투런포를 터뜨렸다고 보도했습니다. 우측 몬스터월을 훌쩍 넘기는 비거리 125m짜리 대형 홈런포였다고 언급하며, 2경기 연속 홈런이자 시즌 4호 홈런이라고 전했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVY4Av_pgvX9_HaA7Cq1x2PA6eCRB8x5eDYlI46_4GvzI7gss4lJLliSt4f4LKRpkjnMIBo0wc6f-_RfpYXmZc76xpEWqAG1XIby36pI_Asu2FbD2pM1ONNUuNp9rwhnBr2_anhQvQBqwHsSCZafUqcuekDWPhXBfWg93oFLvAuxxrdg-EoaP5](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVY4Av_pgvX9_HaA7Cq1x2PA6eCRB8x5eDYlI46_4GvzI7gss4lJLliSt4f4LKRpkjnMIBo0wc6f-_RfpYXmZc76xpEWqAG1XIby36pI_Asu2FbD2pM1ONNUuNp9rwhnBr2_anhQvQBqwHsSCZafUqcuekDWPhXBfWg93oFLvAuxxrdg-EoaP5) (OSEN)\n\n*   **대전일보 (2026년 4월 26일 17:20 입력):** 한화가 1회초 먼저 2점을 내줬지만, 1회말 황영묵의 볼넷 이후 페라자가 우월 투런포를 쏘아 올리며 단숨에 승부를 원점으로 돌렸다고 보도했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZJQEa9Q-TE1Uv82Ql8cIRJ2kMBsigrI_sdPVh1xWyPxBhZNAXoE8qmsAEeTFTyHs6mzVBUi4ZTSy_op10SNree1sXw9SSBXxJ_awvXNa5DJZ8YWM4-nPP3zIxIq5vwjaeH_dJRxBXuk4DfaF98wmJQTnuDkp5wobM](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZJQEa9Q-TE1Uv82Ql8cIRJ2kMBsigrI_sdPVh1xWyPxBhZNAXoE8qmsAEeTFTyHs6mzVBUi4ZTSy_op10SNree1sXw9SSBXxJ_awvXNa5DJZ8YWM4-nPP3zIxIq5vwjaeH_dJRxBXuk4DfaF98wmJQTnuDkp5wobM) (대전일보)\n\n*   **뉴스핌 (2026년 4월 26일 기사등록):** NC가 1회초 2점을 선취했지만, 한화가 1회말 황영묵의 볼넷 이후 요나탄 페라자가 좌월 투런 홈런을 쏘아 올리며 단숨에 2-2 균형을 맞췄다고 보도했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdPbgWkq1Tf0WmhwFjNJGNC1FhhDQio9qq6hVfoM_2Ghiltm9YgcxNONa8R2C53jcXGWKSV3tRoW3EkgNEKsH_AvhqdszkLIk0L745e8sWe41sff0lyvIzKv0q1G4y0PZlfzlAzhnI9z8kNA==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdPbgWkq1Tf0WmhwFjNJGNC1FhhDQio9qq6hVfoM_2Ghiltm9YgcxNFhhDQio9qq6hVfoM_2Ghiltm9YgcxNONa8R2C53jcXGWKSV3tRoW3EkgNEKsH_AvhqdszkLIk0L745e8sWe41sff0lyvIzKv0q1G4y0PZlfzlAzhnI9z8kNA==) (뉴스핌)\n\n*   **경남일보 (2026년 4월 26일 18:05 입력):** NC가 1회초 2점을 달아났지만, 1회말 페라자에게 2점 홈런을 맞으며 2-3으로 역전을 허용했다고 보도했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKVV1xmM4Qzqm90G1TI9ubYCx4M7cCXwzJv5rVsBV-Hlduj_IJ2M9sJPBqXV-G-FsWtl7Zuih_9l1gEEpHeKPXhao05VEBDfigce0W4ixvRf7v1XpkJV-TPRnEKzPQEDIMvY5uL2QfhBiaI7N_OVhzeH58ieKr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKVV1xmM4Qzqm90G1TI9ubYCx4M7cCXwzJv5rVsBV-Hlduj_IJ2M9sJPBqXV-G-FsWtl7Zuih_9l1gEEpHeKPXhao05VEBDfigce0W4ixvRf7v1XpkJV-TPRnEKzPQEDIMvY5uL2QfhBiaI7N_OVhzeH58ieKr) (경남일보)\n\n종합적으로, 2026년 4월 26일 한화 이글스와 NC 다이노스의 경기 1회말, 1사 1루 상황에서 요나단 페라자가 드류 버하겐을 상대로 비거리 125m의 우월 투런 홈런을 기록하며 경기를 2대2 동점으로 만들었다는 내용은 여러 언론사에서 보도되었습니다.",
+      "sources": [
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkqpyLaI07qnH2tDgk7W9VoPeVhdwzaUE1ikR1jJRIcbmwPyFVxnBfBJpf3VSF02zuFQHhRjUql3q2zkf60vdYWuXP597pP0s4IE7GYbRENWERlzJcWasPlHrZgJKHILy7S7_thOf8Dl92",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhmH90mCSi_IMIowG3HU2Efve2yjL7ebnuCEg9olnm_48eUxc2sx2_lOYO6asE7Ddvr3zmWWojdvNSyOP4q1G2SfHb8Esgu1BhVpUYXB7aLNp4_sMZLvX6guAlQrhM4gd5JCt7sVOHCkms",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "xportsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjzGyB-yRmoGn_6u9VnZF1tQVk1591muaMrh-SIr9vQ0vD_Gr3OcwWeHy--pmVVcZAlhr2qnuq4rwpEdOr93iKbgZfvLCGqhAollOsandvbD8dNyZroXEMlYniFUES3Du0ElktRg==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "xportsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHavWZamVnud-8k1byXMcjMZkt7foRTiWzwW7qILeqGyFGqeA1u1LeZa34DbxMGV3V0Y1j6bmX47_QQCl3UvVLHf1Eiq2wFVDdT9kI1Iv5MxfZUtzvKeUHMaPoWgp4nTPZm3pfSSQ==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "xportsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKI2D1elrDdBCdQW3NcPvKce23M6C2NuQ-eLJtVDd4X7ZEonLoF2bCces63XaZf5hZXpPhbn0k8Hzp6C4bgU3rgXzxB8PnsHL9vQQYmIJjdHZrRWxhFCDDx8MkjZo6TsmSDqdQjw==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGge_JN0NCdzJ9i6JuK_Qc42gN5lQ-MWpkcC19GC5AlhtZs-XolvT5o0nwzyctHJlWS9kJEQp7md-Pw0YXMNfav1g7H9lO8U4QhwjwbjHLmlwuZK8Ikjhu_MiysMiYdddGeUN9BKfTzoq3vLWT8kKW16ECchEda2d-XWuzmsO1Z9wvKpaF4DVtC",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "sportschosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyQ11KS48DeQWSdhyUkdjnNdJNaKYFHV6PV86azehwyMfFOz0zxYcxoznx7MrMwGEsWkw5k_6MsePLp9pWX_DLJb1pJuunvjAT1epE4nUyuTYOfDSq3wn3k2VLebaXh4JeunzohTmRNFt1qWpKVuqTMgIRVfKLYMSwEREtTdY8EzeBCjM=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "spotvnews.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESKZnAnHfW5B5MZmSQJ4rmdKyCYUwKCxV4Ej9kIjDNFu4oFVB823AyDm65ioGksTTOb-3_YfxzECov-a_kcO0yiIk_OCsD6p0_bOktn_4tYoZPPh7lo_kczsJRBMYeJSD73JUSphkYBhX7tlqOz87Rk-EX4KCQTtCu",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVY4Av_pgvX9_HaA7Cq1x2PA6eCRB8x5eDYlI46_4GvzI7gss4lJLliSt4f4LKRpkjnMIBo0wc6f-_RfpYXmZc76xpEWqAG1XIby36pI_Asu2FbD2pM1ONNUuNp9rwhnBr2_anhQvQBqwHsSCZafUqcuekDWPhXBfWg93oFLvAuxxrdg-EoaP5",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "daejonilbo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZJQEa9Q-TE1Uv82Ql8cIRJ2kMBsigrI_sdPVh1xWyPxBhZNAXoE8qmsAEeTFTyHs6mzVBUi4ZTSy_op10SNree1sXw9SSBXxJ_awvXNa5DJZ8YWM4-nPP3zIxIq5vwjaeH_dJRxBXuk4DfaF98wmJQTnuDkp5wobM",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "newspim.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdPbgWkq1Tf0WmhwFjNJGNC1FhhDQio9qq6hVfoM_2Ghiltm9YgcxNONa8R2C53jcXGWKSV3tRoW3EkgNEKsH_AvhqdszkLIk0L745e8sWe41sff0lyvIzKv0q1G4y0PZlfzlAzhnI9z8kNA==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "gnnews.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKVV1xmM4Qzqm90G1TI9ubYCx4M7cCXwzJv5rVsBV-Hlduj_IJ2M9sJPBqXV-G-FsWtl7Zuih_9l1gEEpHeKPXhao05VEBDfigce0W4ixvRf7v1XpkJV-TPRnEKzPQEDIMvY5uL2QfhBiaI7N_OVhzeH58ieKr",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFgI4w4358ZUtk0aj0S9nV-HCq4RxaD62-scVzj9cCXO-m9iAn8kpd1SJ7KvHANCzcAt06oCDntANbUuR2gO4N63IrU2a6VV1WmlI5PIiqSv218rehJXUYXZSn-qlKses54xZzDxZ-lxEBNz32PCRu107J7WMjDMxWac3NXcmTwAi--igew7pU",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "mt.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGegjTS5ueYw4UELdZIEObTJuRlEWgDVgm1f9vLPTIgzrEqpnBe9MCEctizbJNI9qQHKE-pS86cW2yjDV72JLJDsAhzjPRob_ropTPLRIxIkPp7fW148ElPBp7mVSuTMOiguAw8zkjH8Gq1xYRtxWibeFqQRAQ=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "osen.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn_R2XByqGnElpWShgaa_-_b9zuqtD6D8iCtYTJlcP7MF9sND_AuloM2tyyjeV-73Rgu9v_fIyf8gDjdA0eQD2KWTR6j1ptmLreI5AdPMgPodxp3AMN9C5ayjcBhRwfhjrvst2",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "spotvnews.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqb1BzyC0ZvWWJkjpeh_neSMkBe5G_grJ5PhhUllXOp3F4NhEr85t8HMPtHq971GRLFYh0kRFc3Bz2Fz1RcWF929k5joesSR2NpGIfxHY47C0ut0Mf2SnnLGy6kX81Xg8MW_oXguugPqhxW6cln9Mr9G08olYWdN_W",
+          "yearNote": "연도 확인 불가"
+        }
+      ],
+      "invalid_sources": [],
+      "year_note": "2026년 기준"
+    },
+    {
+      "rank": 4,
+      "title": "김태연, 역전 솔로 홈런!",
+      "start_sec": 198,
+      "end_sec": 218,
+      "players": [
+        "김태연",
+        "드류 버하겐"
+      ],
+      "scene_description": "2회말, 선두타자로 나선 김태연이 드류 버하겐을 상대로 좌월 솔로 홈런을 터뜨리며 한화가 3대2로 역전에 성공합니다.",
+      "engagement_reason": "페라자의 홈런에 이어 김태연까지 홈런을 터뜨리며 한화가 리드를 잡는 순간으로, 한화 팬들의 열광적인 반응을 이끌어낼 수 있습니다.",
+      "sports_significance": "한화가 초반 리드를 가져가는 데 결정적인 역할을 한 홈런입니다. 팀의 사기를 높이는 중요한 득점입니다.",
+      "fan_reaction_basis": "팬 반응 사전 조사에서 '김태연 선수의 솔로 홈런'이 한화가 리드를 잡았던 순간으로 언급되었습니다.",
+      "viral_potential": "medium",
+      "persp": "viral",
+      "ai_sources": [
+        "viral",
+        "tactical"
+      ],
+      "agreement": 2,
+      "multi_desc": [
+        {
+          "perspId": "viral",
+          "text": "2회말 김태연 선수가 드류 버하겐 투수를 상대로 솔로 홈런을 기록하며 한화가 3대2로 역전하는 장면."
+        },
+        {
+          "perspId": "tactical",
+          "text": "2회말, 선두타자로 나선 김태연이 드류 버하겐을 상대로 좌월 솔로 홈런을 터뜨리며 한화가 3대2로 역전에 성공합니다."
+        }
+      ],
+      "verification_summary": "2026년 4월 26일 한화 이글스와 NC 다이노스의 경기에서 김태연 선수가 드류 버하겐 선수를 상대로 좌월 솔로 홈런을 터뜨리며 한화가 3대2로 역전에 성공한 장면에 대한 뉴스 및 커뮤니티 검색 결과는 다음과 같습니다.\n\n**뉴스 기사**\n\n*   **연합뉴스**\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** '김서현 두들긴 대타 안중열 결승 투런포…NC, 한화에 역전승' 기사에서 2회말 김태연이 시즌 마수걸이 솔로 홈런을 터뜨리며 한화가 3-2로 역전에 성공했다고 언급되었습니다.\n    *   **URL:** https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgxzXX5dKCJ8lRIW0rdaGkMxaKLkL1PgPufjihbhIeeJw269VqFJZbG__wqaryf1KTr2vyurQCKvw7Gu_yawAToFnAqgjFq5E9Dlwx0X5_hxjghzjWLbTT8mqwi9kGGq7FRaTI92i0ORmF\n\n*   **엑스포츠뉴스**\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** '김태연 '대전을 들썩이게 하는 홈런'[포토]' 기사에서 2회말 한화 김태연이 솔로 홈런을 날린 후 기뻐하고 있다고 보도했습니다. 또한, '100% 매진' 홈팬 위해 한화 대포 폭발! 페라자 '8m 몬스터월' 훌쩍→연이틀 홈런포 가동...1회부터 타격전 진행 [대전 라이브]' 기사에서는 1회말 페라자의 홈런 이후 2회말 김태연의 솔로 홈런으로 한화가 3-2로 앞서나갔다고 언급했습니다. '3주 만에 위닝시리즈 따냈다고?' NC 길었던 침체 드디어 벗어나나…이호준 감독 대만족 \"모든 선수들 집중력 보여 역전\" [대전 현장]' 기사에서도 버하겐이 2회 김태연에게 1점 홈런을 맞아 리드를 내줬다고 언급했습니다.\n    *   **URL:** https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9p93uA4kMnGCa-v-evpLFB9vRkEUdRYqk9jI593nQZWURvDRMxg5oCA_X16rY2aV_dVk7wOL2Zc7Z2y-QEj0JDpJ7fTDGNzTmmBTElBFeczOGDdysIoLfXluqqoa28cq-3TKKsQ==\n    *   **URL:** https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3ziAL3UbQlSKcfMj5pGCYNdhoNvu8UyeJb8TtkV-IGw8dQ3ap7KF2jtJ_sbuqOzaq58lq2XoaPfW8xtirZ7fSSnF3uIgtEIsIAYB0vYDYnw5R9hj28vs5RdoZ8oqPkowOji83mg==\n    *   **URL:** https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHcW0iNF4mJC0_r4QPmK5P4q0KXOIfg0gN1RJL_bemASW5qSBuYodwu7_2jnKV4B1KFPnVtvOdKCUrXfVTdqcXDMhN6lx_nsA_msLQGgdIz1vuAQEeGu4B7HVMSnClTrp_pLpuBw==\n\n*   **스포츠조선**\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** '576일 만에 홈런이 터졌다…NC, 주말 3연전 위닝시리즈 [대전 리뷰]' 기사에서 한화가 2회말 선두타자 김태연의 홈런으로 3-2로 앞서 나갔다고 보도했습니다. '사령탑이 꼽은 \"결정적 홈런\"…아찔했던 부상이 만든 짜릿 역전극 [대전 현장]' 기사에서는 2회말 김태연에게 솔로 홈런을 맞아 NC가 끌려가기 시작했다고 언급했습니다.\n    *   **URL:** https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBTbxNRYYOICUYO54Ma-t_h8djGiW8AX9mSgMPDbPhxqAU6Uz7WAecnjl08oZuWTzCKr46ZrH_XtnSUC69rzNTnojDg43j9-f0bdEKfVMhR44jY-0WqF4I6hbYYiNJCBlyUK2z-M8UQ5gQMNBzpknPb-xnGkFEB_jkxqxO0pGPJv27yQd7HTo6\n    *   **URL:** https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERevB4Zwm2YlwzEjx4OMEjcFxUTCeoGMzV8pXS1RCu5IX-IHwxaw_SqS9hjzrYBG8ioYaxKtGOOM7bn9m_mst1goY5MW6rOfUGnwWuKKViS3UpyBYEsQZfIoiSgYxdD-X2YtXTwFAJlW5G3KayS2FQhPQPyrUo09elES4CM6XNHd8zQWo=\n    *   **URL:** https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHUoUsNvgb649JHtq8WJR0YxPyR2bqozx0YVmRNF7Ze62XxAEg6f6se8sK4GgmEWLwJ1ysxohC4f5Uxm26MWXax36_IyBWQrs3ol6Q-AuWhDN8XxzCX4pv7yO2tho1czbWd3NZeMF943VEr--9ilxRiaysqiqZSm-XhCVB0ikssjd__7\n\n*   **Daum (노컷뉴스, 대전일보, 스포티비뉴스)**\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** '한화 김서현, 또 무너졌다…NC 대타 안중열에게 결승 투런포 허용' 기사에서 2회 김태연이 좌월 솔로포를 터뜨리며 3대2 역전에 성공했다고 언급했습니다. '김서현 통한의 피홈런…한화, 다 잡은 위닝시리즈 놓쳤다' 기사에서도 2회 김태연이 좌월 솔로포를 터뜨리며 3대2 역전에 성공했다고 보도했습니다. '대전 역전 드라마! 백업 포수가 대타 초구 홈런 쾅…NC, 한화 상대 위닝시리즈' 기사에서는 2회 김태연이 1점 홈런을 맞으며 NC가 2-3으로 역전을 허용했다고 언급했습니다.\n    *   **URL:** https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKFVNut4yTTxX_D2UM8-ZLf-Jityi7rMbnMaBETSJuTNe5Dy53Hs6LAkgEWSQQhjhPYZSDMB1NtIi-qJ9qfJQF7MM9LO1Ojj07Hvwr5SwQ_1vfw5-QCLuAqJQ=\n    *   **URL:** https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHElNoNNgcsw6xA0dxRL2kUcHErQ6nwBFRu9TdlP0geF7N8Tox0KQZgVUFxAtwkn9vtmN8npz6rVWtqEoBrS_X8W-MhQgs-3hIWxXWlGhfEgQngsU0MjgNg_TY=\n    *   **URL:** https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELiD3sYfVy0SpR8foBzZ2VqUZbTi6W9BYgLdo2338ghXP_bjlekk9TCH_RvYRtrUFf0YzmYnK74NMF2Icl44jtW_nODbYv9IXCJ2ggcycYGbobhRtyET_nkzM_17baFyJu\n    *   **URL:** https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhlV6GAOmBzAm05Xomq418MjgJ5V8LW5TVxzeTr3bgQkAMgrmtDoeGxAt9nzLpPnZEzsk3FFavkOUACGG-keHVZPYGBv3af5No1f5wr_4TTYSydKXwymfJhEagIX7K3e27kv5sFWZSrPGbEEMRWDO3kGabdWJTYhnY\n\n*   **마니아타임즈**\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** ''대타 안중열의 한 방' NC, 한화에 5-3 재역전승...불펜 5명이 무실점 합작' 기사에서 2회말 김태연의 솔로홈런으로 한화가 3-2로 승부를 뒤집었다고 언급했습니다.\n    *   **URL:** https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEynF_mug1roZO-gHvMU25iQHtYNqXxuUaPmAuMrbH5xJoz1pa7mSw720KUSBaZpckauMX6QH3yZp3YCK2z43D2ilsJNCfLR4GMVWH8KJN9WfsOWcsu5mXf5eXhZo6Updd22SLE6VSr_X-KqBp4fEv5g-DaeaIHX1cDGmrJXFj_d3GA\n\n*   **뉴스핌**\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** '[AI상보] 김서현 울린 대타 안중열의 역전 투런포... NC, 한화 꺾고 위닝시리즈' 기사에서 2회말 김태연이 솔로 홈런을 터뜨리며 3-2로 경기를 뒤집었다고 언급했습니다.\n    *   **URL:** https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_BqvpSCa9Ady1q733n7XnSTS7zZ1qjTeN1if0pvhDwsmiWgPEJP8GIncjL9F0bv-ryGu3Xs7LFfrYbXkyyPatwyeoh4f41-Aj1hFVHX_DVLzebpCYPtuQC2uqQZgNwWk2u6b1NltgeDFF8A==\n\n*   **머니투데이**\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** '김서현 충격 패전→안중열 결승 투런포 폭발...NC, 한화에 5-3 뒤집기 위닝시리즈 [대전 리뷰]' 기사에서 2회말 김태연에게 솔로포를 허용하면서 NC가 2-3으로 끌려갔다고 언급했습니다.\n    *   **URL:** https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVfpVcMw7GW3gufCUWesYwXsye352CMBvn-pfwbCBbx0qyulRV46FhPEdkfXvj3joQ8pHHVBiJeonswQFYQpBw6rf0VtGL3TpDRJkNZwlhzci5sP0QE06E2PmQAtwrYEYDlSZzx7B6ShAyjLdzKPtJlbL2Fpc=\n\n*   **경남일보**\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** 'NC, 한화에 5-3 승…안중열 결승 홈런' 기사에서 2회 김태연에 1점 홈런을 맞으며 NC가 2-3으로 역전을 허용했다고 언급했습니다.\n    *   **URL:** https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmHe48rtx3AoorQDpZd-MadLnVuKOL-j03Oucpimdu3z4u32oqw_9gg0Ka5LkIUp2QU132KVlJhQzyIAVp72JTNZXoQdDWyiCifArAaWJAitnIU7NDJ1TrxAH6UD3bKkFHeSnAn9DAOEBZHoEqaz6gTIrQivgd\n\n*   **SPOTV NEWS**\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** '대전 역전 드라마! 백업 포수가 대타 초구 홈런 쾅…NC, 한화 상대 위닝시리즈' 기사에서 2회 김태연이 1점 홈런을 맞으며 NC가 2-3으로 역전을 허용했다고 언급했습니다.\n    *   **URL:** https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA7VnCCp-fwnZDwu5d5HrgtPXQYwcPz-Qd6YtTAeLKNwpxrkoUba35DI_TzvVn2z9uekeTkJyodyayZ6lk90CHp9QENNEaeBM1F_AqDixzeHwkf5QWGo1pXp0uiAMVCggXrrZ5QJ9RqWKrsbuoa1O6mr6jBUb7E0Eg\n\n*   **매일경제**\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** '오랜만에 위닝시리즈다!…'대타 안중열 결승 투런포' NC, 한화에 전날 패배 설욕→2승 1패로 3연전 마감' 기사에서 2회말 김태연이 홈런을 친 이후 NC가 2-3으로 끌려갔다고 언급했습니다.\n    *   **URL:** https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTGl9d9wGBeLYfiBc7aYE30d8FvB_O5KrSxcJ3kG_4XLosu_swZ5O7_JhDoZDOhFNuLqdD-XsGi4sNb_4N_5BN0pE2Vl1Uk7c0fIwg3WN_J3MAQLr9uwNJfM3OlYuj5_BCkIJO\n\n*   **미주중앙일보**\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** '안중열 대타 결승포→22일 만의 위닝시리즈 달성...\"박건우 동점포-안중열 역전포 결정적\" [오!쎈 대전]' 기사에서 2회말 김태연에게 솔로포를 허용하면서 NC가 2-3으로 끌려갔다고 언급했습니다.\n    *   **URL:** https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESGHfjAQGBY_EiututBj74i4SqemKWgM74peQG6Kxt_gQ4t9Ob_UC2nqqcxaJoDqwPnfZX3tDEr7CASF_glGcozVP1Sph2bb8bAlWaUqSN7yocivzQUFN5vmYGadIKjmvZ_5dvVsNSDkUJwmNHIzY=\n\n**커뮤니티 (MLB파크, 에펨코리아, 네이버야구카페)**\n\n*   NO_VERIFICATION_FOUND (2026년 4월 26일 해당 장면에 대한 직접적인 커뮤니티 게시물은 검색 결과에서 확인되지 않았습니다.)",
+      "sources": [
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgxzXX5dKCJ8lRIW0rdaGkMxaKLkL1PgPufjihbhIeeJw269VqFJZbG__wqaryf1KTr2vyurQCKvw7Gu_yawAToFnAqgjFq5E9Dlwx0X5_hxjghzjWLbTT8mqwi9kGGq7FRaTI92i0ORmF",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "xportsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9p93uA4kMnGCa-v-evpLFB9vRkEUdRYqk9jI593nQZWURvDRMxg5oCA_X16rY2aV_dVk7wOL2Zc7Z2y-QEj0JDpJ7fTDGNzTmmBTElBFeczOGDdysIoLfXluqqoa28cq-3TKKsQ==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "xportsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3ziAL3UbQlSKcfMj5pGCYNdhoNvu8UyeJb8TtkV-IGw8dQ3ap7KF2jtJ_sbuqOzaq58lq2XoaPfW8xtirZ7fSSnF3uIgtEIsIAYB0vYDYnw5R9hj28vs5RdoZ8oqPkowOji83mg==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "xportsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHcW0iNF4mJC0_r4QPmK5P4q0KXOIfg0gN1RJL_bemASW5qSBuYodwu7_2jnKV4B1KFPnVtvOdKCUrXfVTdqcXDMhN6lx_nsA_msLQGgdIz1vuAQEeGu4B7HVMSnClTrp_pLpuBw==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBTbxNRYYOICUYO54Ma-t_h8djGiW8AX9mSgMPDbPhxqAU6Uz7WAecnjl08oZuWTzCKr46ZrH_XtnSUC69rzNTnojDg43j9-f0bdEKfVMhR44jY-0WqF4I6hbYYiNJCBlyUK2z-M8UQ5gQMNBzpknPb-xnGkFEB_jkxqxO0pGPJv27yQd7HTo6",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "sportschosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERevB4Zwm2YlwzEjx4OMEjcFxUTCeoGMzV8pXS1RCu5IX-IHwxaw_SqS9hjzrYBG8ioYaxKtGOOM7bn9m_mst1goY5MW6rOfUGnwWuKKViS3UpyBYEsQZfIoiSgYxdD-X2YtVTwFAJlW5G3KayS2FQhPQPyrUo09elES4CM6XNHd8zQWo=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHUoUsNvgb649JHtq8WJR0YxPyR2bqozx0YVmRNF7Ze62XxAEg6f6se8sK4GgmEWLwJ1ysxohC4f5Uxm26MWXax36_IyBWQrs3ol6Q-AuWhDN8XxzCX4pv7yO2tho1czbWd3NZeMF943VEr--9ilxRiaysqiqZSm-X63HUtFhCVB0ikssjd__7",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKFVNut4yTTxX_D2UM8-ZLf-Jityi7rMbnMaBETSJuTNe5Dy53Hs6LAkgEWSQQhjhPYZSDMB1NtIi-qJ9qfJQF7MM9LO1Ojj07Hvwr9SwQ_1vfw5-QCLuAqJQ=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHElNoNNgcsw6xA0dxRL2kUcHErQ6nwBFRu9TdlP0geF7N8Tox0KQZgVUFxAtwkn9vtmN8npz6rVWtqEoBrS_X8W-MhQgs-3hIWxXWlGhfEgQngsU0MjgNg_TY=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "daejonilbo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhlV6GAOmBzAm05Xomq418MjgJ5V8LW5TVxzeTr3bgQkAMgrmtDoeGxAt9nzLpPnZEzsk3FFavkOUACGG-keHVZPYGBv3af5No1f5wr_4TTYSydKXwymfJhEagIX7K3e27kv5sFWZSrPGbEEMRWDO3kGabdWJTYhnY",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELiD3sYfVy0SpR8foBzZ2VqUZbTi6W9BYgLdo2338ghXP_bjlekk9TCH_RvYRtrUFf0YzmYnK74NMF2Icl44jtW_nODbYv9IXCJ2ggcycYGbobhRtyET_nkzM_17baFyJu",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "maniareport.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEynF_mug1roZO-gHvMU25iQHtYNqXxuUaPmAuMrbH5xJoz1pa7mSw720KUSBaZpckauMX6QH3yZp3YCK2z43D2ilsJNCfLR4GMVWH8KJN9WfsOWcsu5mXf5eXhZo6Updd22SLE6VSr_X-KqBp4fEv5g-DaeaIHX1cDGmrJXFj_d3GA",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "newspim.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_BqvpSCa9Ady1q733n7XnSTS7zZ1qjTeN1if0pvhDwsmiWgPEJP8GIncjL9F0bv-ryGu6Xs7LFfrYbXkyyPatwyeoh4f41-Aj1hFVHX_DVLzebpCYPtuQC2uqQZgNwWk2u6b1NltgeDFF8A==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "mt.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVfpVcMw7GW3gufCUWesYwXsye352CMBvn-pfwbCBbx0qyulRV46FhPEdkfXvj3joQ8pHHVBiJeonswQFYQpBw6rf0VtGL4TpDRJkNZwlhzci5sP0QE06E2PmQAtwrYEYDlSZzx7B6ShAyjLdzKPtJlbL2Fpc=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "gnnews.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmHe48rtx3AoorQDpZd-MadLnVuKOL-j03Oucpimdu3z4u32oqw_9gg0Ka5LkIUp2QU132KVlJhQzyIAVp72JTNZXoQdDWyiCifArAaWJAitnIU7NDJ1TrxAH6UD3bKkFHeSnAn9DAOEBZHoEqaz6gTIrQivgd",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "spotvnews.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA7VnCCp-fwnZDwu5d5HrgtPXQYwcPz-Qd6YtTAeLKNwpxrkoUba35DI_TzvVn2z9uekeTkJyodyayZ6lk90CHp9QENNEaeBM1F_AqDixzeHwkf5QWGo1pXp0uiAMVCggXrrZ5QJ9RqWKrsbuoa1O6mr6jBUb7E0Eg",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "mk.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTGl9d9wGBeLYfiBc7aYE30d8FvB_O5KrSxcJ3kG_4XLosu_swZ5O7_JhDoZDOhFNuLqdD-XsGi4sNb_4N_5BN0pE2Vl1Uk7c0fIwg3WN_J3MAQLr9uwNJfM3OlYuj5_BCkIJO",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "koreadaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESGHfjAQGBY_EiututBj74i4SqemKWgM74peQG6Kxt_gQ4t9Ob_UC2nqqcxaJoDqwPnfZX3tDEr7CASF_glGcozVP1Sph2bb8bAlWaUqSN7yocivzQUFN5vmYGadIKjmvZ_5dvVsNSDkUJwmNHIzY=",
+          "yearNote": "연도 확인 불가"
+        }
+      ],
+      "invalid_sources": [],
+      "year_note": "2026년 기준"
+    },
+    {
+      "rank": 6,
+      "title": "NC, 위닝 시리즈 확정 순간!",
+      "start_sec": 740,
+      "end_sec": 760,
+      "players": [
+        "류진욱",
+        "이도윤"
+      ],
+      "scene_description": "9회말, 2사 주자 없는 상황에서 류진욱이 이도윤의 땅볼 타구를 유격수 박민우가 잡아 1루로 송구하며 경기를 마무리 짓고 NC의 위닝 시리즈를 확정합니다.",
+      "engagement_reason": "NC 팬들에게는 감격스러운 승리의 순간이자, 팀의 단합된 모습을 보여주는 클립입니다. 승리 후 선수들의 환호와 감독의 미소는 팬들의 감정을 자극합니다.",
+      "sports_significance": "NC 다이노스가 오랜만에 위닝 시리즈를 달성하며 팀 분위기를 끌어올리는 중요한 승리입니다. 경기의 대미를 장식하는 장면입니다.",
+      "fan_reaction_basis": "팬 반응 사전 조사에서 'NC 다이노스의 역전승 및 위닝 시리즈 달성'이 NC 팬들에게 큰 기쁨을 주었을 것이라고 강조되었습니다.",
+      "viral_potential": "medium",
+      "persp": "viral",
+      "ai_sources": [
+        "viral",
+        "tactical"
+      ],
+      "agreement": 2,
+      "multi_desc": [
+        {
+          "perspId": "viral",
+          "text": "9회말 마지막 아웃카운트를 잡아내며 NC 다이노스가 한화 이글스를 꺾고 위닝 시리즈를 확정 짓는 순간과 선수들의 기쁨의 세리머니."
+        },
+        {
+          "perspId": "tactical",
+          "text": "9회말, 2사 주자 없는 상황에서 류진욱이 이도윤의 땅볼 타구를 유격수 박민우가 잡아 1루로 송구하며 경기를 마무리 짓고 NC의 위닝 시리즈를 확정합니다."
+        }
+      ],
+      "verification_summary": "\n[추가]\n2026년 KBO 프로야구에서 류진욱과 이도윤 선수의 뉴스 기록이 확인되었습니다.\n\n**류진욱 (NC 다이노스)**\n\n*   2026년 4월 24일, 대전 한화생명 볼파크에서 열린 NC 다이노스와 한화 이글스의 경기에서 9회말 역투하는 모습이 포착되었습니다. (URL: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4Hx7H3QxDRkeL_w7GDILYThZUrbZPAD5u-0hXua3fhSWSm3SlDt6oAsKSCoIcaDKGqp9sPG0SE5kJDhwj4TXUgmjm6TQjrR0CfNE0fRZbxl-mLWVjqK3nqzpr3H4pkgZCZt2iw==)\n*   2026년 4월 20일, 지난해 29세이브를 기록했던 NC 마무리 류진욱이 올해는 8경기에 등판해 1세이브를 수확하는 데 그치며 흔들리는 '클로저' 중 한 명으로 언급되었습니다. (URL: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7MJYc06AvZnY4lsURiGNhYZts1h4AAfJeW95myGJHv36TfkDD9gKzFJqKkvC4iSSODC5n6eS41Twc53UrAP9it7idWJKWOQw45R4EEFC7L5o60t_yZRZjE7AeYwJdhvwWN119Ep3AEtvzD0Xk3JNAnw==)\n*   2026년 4월 16일, 창원NC파크에서 열린 NC 다이노스와 KT 위즈의 경기에서 9회초 솔로포를 허용하는 모습이 보도되었습니다. (URL: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4vOqhTqlVQ8ab0DxJx2zcA1kkaT6yCrV0IcLji9RiX0cOpLSPTib8soXzXU19GVe4dw7XdbhRKZLgZlcwbhFOEoTgW3OEFkoGSk6DgWS1vBKEY_Rb6SPS5tDGIwLL_guL)\n*   2026년 4월 14일, 창원NC파크에서 열린 NC 다이노스와 KT 위즈의 경기에서 역투하는 모습이 보도되었습니다. (URL: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFryXgVwFUUdz9Jpr2d8R3eHCJtDngsgR-f5JWbOHmYYO96ZA77D1zHjbtgbX5OlC5ad0n4ilWv5S0TgkEvvDZ_qu9o_J-hXLX2efLcKmf8ZejM34CiVf2yI6Otx1IFi8lDlaClBSGePsIMR7E0j_FgBa76RBzQmsVunJnGnJRgyRbjqemN-hvDaEcfnw==)\n*   2026년 4월 8일, 창원NC파크에서 열린 NC 다이노스와 LG 트윈스의 경기에서 역전에 고개 떨군 모습이 보도되었습니다. (URL: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp5qkXvhn_hCTAhoUTohhn2SV7lvCE5YZmi5ayl9Io_jbxznr2rn29iO4wF67XWNZC1Mvf4DuoIs0aIpuNNIs1SlnM8mpmg8yErx3lgjlgee312kJh7hC12HGPtGscZcj3XMF5vgUq67ytBF4JarLMLrZYOVoF2fzqBb_twOdP_GuoOn4u5cdpDDDujg==)\n\n**이도윤 (한화 이글스)**\n\n*   2026년 4월 14일, 대전 한화생명 볼파크에서 열린 한화 이글스와 삼성 라이온즈의 경기에서 실점을 막으며 병살에 성공하는 모습이 보도되었습니다. (URL: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_GY1lUM4BHXdI-j1XTO2n5JG0eImUBXXlaJkcjsGBD-qwSXwQV6Z2tEJTyEps1Uyz1kTRuKGyAQ6762wXDKm4BUixtpuaWiK8Dg6z7LBH2nyyNxbwpDkxGSGDIqZmQ69y3HvI, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7SUS8BHWexuHzROilwAj_tr9FzEF0e4pun_a4jgiXph5Ajg-SQzATLX_5sLcdlXLWeGyp4347eMhB-NZYkMLYKwdnsMGyNBu_5dyPyLwiPjrHXsel4tUeSBy1EyDruzDjztmq35vqj_YJozBLxUknc2ocZJXXwNGiahZDPvN5zOj1FgPGABSnNm_nuw==)\n*   2026년 4월 14일, 대전 한화생명 볼파크에서 열린 한화 이글스와 삼성 라이온즈의 경기에서 3루수로 선발 출장한 모습이 보도되었습니다. (URL: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFjv16P0TwXDmyPb6wB1zxbqTHccWmlbYbfNZxio3QT1DA28o2KsPnqLVEVOq7BvAzYArarU9RI27fagITkkANx5a9sWKCtdnU9joXnd6-hNcdOGTppcuYllGn75BhxrsRcrrJIIxeBSXJASgzHLsCwN11FeDcGQftW-buuFsVC9B_vjrXlpKDOJmDVw==)\n*   2026년 3월 17일, 대전 한화생명볼파크에서 진행된 2026 신한 SOL KBO 리그 시범경기 한화 이글스와 두산 베어스의 경기에서 솔로포를 기록하며 한화가 다시 앞서가는 데 기여했습니다. (URL: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG89lNO4en1njkjvPvpIsl4r9wDphB-6gFbi2s-pAFAi6wshXJtYWziX4gl3DT4KId7BjRzb0sjTdPUm4B5Zd8234njavNdA1eb1ASvNnQZgxag3RnbH9mw1eBm5Ns7Xq_KZQL7gt0ddV8uFyqW5_aH4L1Wwza-hNe5Jx9IeADS2Rwb4VbMZZNdlkfRyQ==)",
+      "sources": [
+        {
+          "title": "xportsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4Hx7H3QxDRkeL_w7GDILYThZUrbZPAD5u-0hXua3fhSWSm3SlDt6oAsKSCoIcaDKGqp9sPGt0SE5kJDhwj4TXUgmjm6TQjrR0CfNE0fRZbxl-mLWVjqK3nqzpr3H4pkgZCZt2iw==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "newsis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7MJYc06AvZnY4lsURiGNhYZts1h4AAfJeW95myGJHv36TfkDD9gKzFJqKkvC4iSSODC5n6eS41Twc53UrAP9it7idWJKWOQw45R4EEFC7L5o60t_yZRZjE7AeYwJdhvwWN119Ep3AEtvzD0Xk3JNAnw==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4vOqhTqlVQ8ab0DxJx2zcA1kkaT6yCrV0IcLji9RiX0cOpLSPTib8soXzXU19GVe4dw7XdbhRKZLgZlcwbhFOEoTgW3OEFkoGSk6DgWS1vBKEY_Rb6SPS5tDGIwLL_guL",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFryXgVwFUUdz9Jpr2d8R3eHCJtDngsgR-f5JWbOHmYYO96ZA77D1zHjbtgbX5OlC5ad0n4ilWv5S0TgkEvvDZ_qu9o_J-hXLX2efLcKmf8ZejM34CiVf2yI6Otx1IFi8lDlaClBSGePsIMR7E0j_FgBa76RBzQmsVunJnGnJRgyRbjqemN-hvDaEcfnw==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp5qkXvhn_hCTAhoUTohhn2SV7lvCE5YZmi5ayl9Io_jbxznr2rn29iO4wF67XWNZC1Mvf4DuoIs0aIpuNNIs1SlnM8mpmg8yErx3lgjlgee312kJh7hC12HGPtGscZcj3XMF5vgUq67ytBF4JarLMLrZYOVoF2fzqBb_twOdP_GuoOn4u5cdpDDDujg==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "osen.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_GY1lUM4BHXdI-j1XTO2n5JG0eImUBXXlaJkcjsGBD-qwSXwQV6Z2tEJTyEps1Uyz1kTRuKGyAQ6762wXDKm4BUixtpuaWiK8Dg6z7LBH2nyyNxbwpDkxGSGDIqZmQ69y3HvI",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7SUS8BHWexuHzROilwAj_tr9FzEF0e4pun_a4jgiXph5Ajg-SQzATLX_5sLcdlXLWeGyp4347eMhB-NZYkMLYKwdnsMGyNBu_5dyPyLwiPjrHXsel4tUeSBy1EyDruzDjztmq35vqj_YJozBLxUknc2ocZJXXwNGiahZDPvN5zOj1FgPGABSnNm_nuw==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFjv16P0TwXDmyPb6wB1zxbqTHccWmlbYbfNZxio3QT1DA28o2KsPnqLVEVOq7BvAzYArarU9RI27fagITkkANx5a9sWKCtdnU9joXnd6-hNcdOGTppcuYllGn75BhxrsRcrrJIIxeBSXJASgzHLsCwN11FeDcGQftW-buuFsVC9B_vjrXlpKDOJmDVw==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG89lNO4en1njkjvPvpIsl4r9wDphB-6gFbi2s-pAFAi6wshXJtYWziX4gl3DT4KId7BjRzb0sjTdPUm4B5Zd8234njavNdA1eb1ASvNnQZgxag3RnbH9mw1eBm5Ns7Xq_KZQL7gt0ddV8uFyqW5_aH4L1Wwza-hNe5Jx9IeADS2Rwb4VbMZZNdlkfRyQ==",
+          "yearNote": "연도 확인 불가"
+        }
+      ],
+      "invalid_sources": [],
+      "year_note": "2026년 기준"
+    },
+    {
+      "rank": 1,
+      "title": "NC 선취점! 박민우 적시타",
+      "start_sec": 52,
+      "end_sec": 60,
+      "players": [
+        "박민우",
+        "김주원",
+        "문동주"
+      ],
+      "scene_description": "1회초, 1사 2루 상황에서 박민우가 문동주를 상대로 우전 적시타를 터뜨려 2루 주자 김주원을 홈으로 불러들이며 NC가 선취점을 올립니다.",
+      "engagement_reason": "경기 초반 NC의 공격력을 보여주는 장면으로, 선취점을 통해 팬들에게 기분 좋은 시작을 알립니다.",
+      "sports_significance": "선취점은 경기 초반 분위기를 가져오는 데 매우 중요하며, NC의 공격적인 시작을 알리는 전술적 판단이 돋보입니다.",
+      "fan_reaction_basis": "뉴스 기사에서 NC의 1회초 2점 선취 언급. 박민우 선수의 활약으로 NC가 초반 리드를 잡았음을 강조.",
+      "viral_potential": "high",
+      "persp": "tactical",
+      "ai_sources": [
+        "tactical"
+      ],
+      "agreement": 1,
+      "verification_summary": "NO_VERIFICATION_FOUND\n\n2026년 4월 26일 한화 이글스와 NC 다이노스의 경기에서 NC가 5대3으로 승리했다는 다수의 뉴스 기사가 확인되었습니다.\n\n그러나 요청하신 \"1회초, 1사 2루 상황에서 박민우가 문동주를 상대로 우전 적시타를 터뜨려 2루 주자 김주원을 홈으로 불러들이며 NC가 선취점을 올립니다\"라는 정확한 장면은 검색된 뉴스 및 커뮤니티 자료에서 확인되지 않았습니다.\n\n검색된 뉴스 기사들은 1회초 NC의 선취점 상황을 다음과 같이 보도하고 있습니다.\n\n*   NC는 1회초 선두타자 김주원이 우중간 2루타를 치고 나갔고, 박민우가 우전 안타를 기록하며 무사 1, 3루 찬스를 만들었습니다.\n*   이후 박건우가 유격수 땅볼을 쳐 3루 주자 김주원을 홈으로 불러들이며 NC가 1점을 선취했습니다.\n*   계속된 1사 2루 상황에서 맷 데이비슨이 중전 적시타를 터뜨려 추가점을 올리며 2-0으로 앞서갔습니다.\n\n따라서 김주원은 박민우의 적시타가 아닌 박건우의 유격수 땅볼로 홈을 밟아 선취점을 올린 것으로 보도되었습니다.\n\n커뮤니티 게시글은 해당 특정 장면에 대한 직접적인 언급을 포함하는 자료는 찾을 수 없었습니다.\n\n**관련 뉴스 요약:**\n\n*   **연합뉴스 (2026년 4월 26일):** NC 다이노스가 경기 후반 대포 두 방으로 한화 이글스를 5-3으로 제압하며 위닝 시리즈를 장식했습니다. NC는 1회초 2점을 선취했으나, 한화가 곧바로 동점 홈런으로 맞불을 놓았습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeD1lhkKxpXBCI1xVz-OLIdxk6xJU2oinZ0j1sg3d4RTSILktXIqR73K-DzDqTw7bIdeDg1qDOQ-3k9Jryr_aFX9f9hL8BxEWMJat3SNMnvPcYoNlABEpO1KtF9Vgj26A8UkV3xe1zRXQ=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeD1lhkKxpXBCI1xVz-OLIdxk6xJU2oinZ0j1sg3d4RTSILktXIqR73K-DzDqTw7bIdeDg1qDOQ-3k9Jryr_aFX9f9hL8BxEWMJat3SNMnvPcYoNlABEpO1KtF9Vgj26A8UkV3xe1zRXQ=)\n*   **엑스포츠뉴스 (2026년 4월 26일):** NC 다이노스가 안중열의 결승 투런포에 힘입어 한화에 5-3 승리를 거뒀습니다. 1회초 NC는 김주원의 2루타와 박민우의 안타로 무사 1, 3루를 만들었고, 박건우의 땅볼로 김주원이 득점하며 선취점을 올렸습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhW-3VR-df1l5-4baOZtlXKar0Yu7CNdztUIw3H9HRPwDbnTwM8dsE6syyOA7odZeXmSEd-fkq9kW-E1PgLNSWmcYgNhVWyuIfWAGF10RRKiipGuY0DTw4zEp2U1iGsK95d1GJ](https://vertexaisearch.google.com/grounding-api-redirect/AUZIYQGhW-3VR-df1l5-4baOZtlXKar0Yu7CNdztUIw3H9HRPwDbnTwM8dsE6syyOA7odZeXmSEd-fkq9kW-E1PgLNSWmcYgNhVWyuIfWAGF10RRKiipGuY0DTw4zEp2U1iGsK95d1GJ)\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0m0zofMBF-c_XJ_WE-HfAfydRoRjMcRPQvVXbB-yrIM7PVNi0nn-DX43gBMogDpcGpp4AZlcJmdMqTH9gNJP0kQxJzvE_YgHXi-lQS4KgBASCrPu5OcVTmzdF08psMx-liT1G](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0m0zofMBF-c_XJ_WE-HfAfydRoRjMcRPQvVXbB-yrIM7PVNi0nn-DX43gBMogDpcGpp4AZlcJmdMqTH9gNJP0kQxJzvE_YgHXi-lQS4KgBASCrPu5OcVTmzdF08psMx-liT1G)\n*   **Daum (SPOTVNEWS) (2026년 4월 26일):** NC 다이노스가 역전승으로 위닝 시리즈를 달성했습니다. 1회초 김주원의 2루타와 박민우의 안타로 무사 1, 3루 기회를 잡았고, 박건우의 땅볼로 선취점을 올렸습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHiv7MZkF4LedoB-C4X3eldC3jdhlSbhtfQ6YjrSiXnJsa2R2OQaml2E3IpDJ5jY_A9CqDDwmfbrmtmvKY305Urz25SodPXSPu30GEgF7HBc_V48QYsdHvMMjSRcp6_jY=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHiv7MZkF4LedoB-C4X3eldC3jdhlSbhtfQ6YjrSiXnJsa2R2OQaml2E3IpDJ5jY_A9CqDDwmfbrmtmvKY305Urz25SodPXSPu30GEgF7HBc_V48QYsdHvMMjSRcp6_jY=)\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELkf5IMbeMaxR0QsVekkUTGxO8LnZnpfI6fdqBkRR9e-nrPW7NVdXI0Cw1h0mFumR61dH8WUpN9zls4Rivbc3HYtfBc-vjtgmUQje_XHtcmUO91BB0z9961ta5tQv1V3V6w1KrGbLFHcVKYqx7U1AubwrZuKouLNo=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELkf5IMbeMaxR0QsVekkUTGxO8LnZnpfI6fdqBkRR9e-nrPW7NVdXI0Cw1h0mFumR61dH8WUpN9zls4Rivbc3HYtfBc-vjtgmUQje_XHtcmUO91BB0z9961ta5tQv1V3V6w1KrGbLFHcVKYqx7U1AubwrZuKouLNo=)\n*   **OSEN (2026년 4월 26일):** NC 다이노스가 한화 이글스를 상대로 5-3 재역전승을 거두며 위닝시리즈를 달성했습니다. 1회초 김주원의 2루타와 박민우의 안타로 무사 1, 3루가 되었고, 박건우의 유격수 땅볼로 김주원이 득점했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMyk0894LboTO4OO-AwwRl9VorSPgzWRJATpfnsj7yEweDKepL-YUSRUaQCooe6vt7-NXSQ5dP0D1-rDzAa3J37EUIX_Z0p7KfDaj48_y7Jk4e4KtzgRWh99gENnVw1Qr_63IQsUNzfeGC9rC_Hg==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMyk0894LboTO4OO-AwwRl9VorSPgzWRJATpfnsj7yEweDKepL-YUSRUaQCooe6vt7-NXSQ5dP0D1-rDzAa3J37EUIX_Z0p7KfDaj48_y7Jk4e4KtzgRWh99gENnVw1Qr_63IQsUNzfeGC9rC_Hg==)\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZG6fgm97mZ8nvdkXUfVJK3nbYXZBCf2rGX5vGwaxXEBXRVbwS-qOgwJWfx5amSZ0PTyi3mhHr83uhubcbn3UKCYPmWqAxGZFCfsx9AyCN5DMzZ4ZsI_wkyT29dhlqaIRRFLea5VCAPKPxMoO09rHZkT0FSg==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZG6fgm97mZ8nvdkXUfVJK3nbYXZBCf2rGX5vGwaxXEBXRVbwS-qOgwJWfx5amSZ0PTyi3mhHr83uhubcbn3UKCYPmWqAxGZFCfsx9AyCN5DMzZ4ZsI_wkyT29dhlqaIRRFLea5VCAPKPxMoO09rHZkT0FSg==)\n*   **경남일보 (2026년 4월 26일):** NC 다이노스가 한화 이글스를 잡고 주말 3연전을 위닝시리즈로 마무리했습니다. 1회초 김주원의 2루타와 박민우의 안타로 무사 1, 3루 찬스를 잡았고, 박건우의 유격수 앞 땅볼 때 김주원이 홈을 밟아 1-0으로 앞서갔습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFigRbftAIQB_amYTNh2oqOTxX87XPXap7wxb1FXsKDp-77PuoBtFgrfLUl2VVwrc6VqBN88masZ0YETyTglcoWcBFma9sSU5pAUDkv1t176NP9v0C5FpvQNZw4Hl6LXhGzAejHcXg2z8fr8Jw0CdchRvYa0A0=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFigRbftAIQB_amYTNh2oqOTxX87XPXap7wxb1FXsKDp-77PuoBtFgrfLUl2VVwrc6VqBN88masZ0YETyTglcoWcBFma9sSU5pAUDkv1t176NP9v0C5FpvQNZw4Hl6LXhGzAejHcXg2z8fr8Jw0CdchRvYa0A0=)\n*   **스포츠조선 (2026년 4월 26일):** NC 다이노스가 한화 이글스와의 원정경기에서 5대3으로 승리하며 주말 3연전을 위닝시리즈로 장식했습니다. 1회초 NC는 선두타자 김주원의 2루타와 박민우의 안타에 이어 박건우의 땅볼로 1-0 리드를 잡았습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpIDd803SqfShhRHFbOV2NqMKuRqBTPR5em0y9tH4TgEbjplXdOYSXFUOvwS2zJSqt_BtUP_gZIUg1sTCd-EGAmjWNOP04Xah26F9UepfkrvFzfQd0mlp9VRhg0FhxOvB5sQuZ2NF7KKzcELCOUg2nlo5jLHlgysBbtXyhoAIePrprOg==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpIDd803SqfShhRHFbOV2NqMKuRqBTPR5em0y9tH4TgEbjplXdOYSXFUOYSXFUOvwS2zJSqt_BtUP_gZIUg1sTCd-EGAmjWNOP04Xah26F9UepfkrvFzfQd0mlp9VRhg0FhxOvB5sQuZ2NF7KKzcELCOUg2nlo5jLHlgysBbtXyhoAIePrprOg==)\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8_P7WducmtrdtSSoGY04A6JFlikfUrpxLc-ptWJf72X7N0C505h1TCHfxtwkrsEaOdEaPB7KtP4jrUpg1A0AGUz2D5cg-tNaSAOaNSU68ECpdvWE6ie2xuJ69D-EcGpDZqdRuni93k1pV6O5MHoiNH45v7wVFem6kptB6GLrPSAcEfmQcAaM=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8_P7WducmtrdtSSoGY04A6JFlikfUrpxLc-ptWJf72X7N0C505h1TCHfxtwkrsEaOdEaPB7KtP4jrUpg1A0AGUz2D5cg-tNaSAOaNSU68ECpdvWE6ie2xuJ69D-EcGpDZqdRuni93k1pV6O5MHoiNH45v7wVFem6kptB6GLrPSAcEfmQcAaM=)\n*   **매일경제 (2026년 4월 26일):** NC 다이노스가 한화 이글스를 5-3으로 제압하며 위닝시리즈를 달성했습니다. 1회초 김주원의 2루타와 박민우의 안타로 무사 1, 3루에서 박건우의 유격수 땅볼에 김주원이 홈을 밟았습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdFuVpL4WfPoSMFidORumT-ihZleAPYmmE4QjynNtVOT-YXdqnunQF3RyUAHROxPf0bDf8_fzTaflWXsu0ABgk-Yweq60kFucHfCtARVYUlHhPbdykNcWr0M-kwRxTa6YkSY8=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdFuVpL4WfPoSMFidORumT-ihZleAPYmmE4QjynNtVOT-YXdqnunQF3RyUAHROxPf0bDf8_fzTaflWXsu0ABgk-Yweq60kFucHfCtARVYUlHhPbdykNcWr0M-kwRxTa6YkSY8=)",
+      "sources": [
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeD1lhkKxpXBCI1xVz-OLIdxk6xJU2oinZ0j1sg3d4RTSILktXIqR73K-DzDqTw7bIdeDg1qDOQ-3k9Jryr_aFX9f9hL8BxEWMJat3SNMnvPcYoNlABEpO1KtF9Vgj26A8UkV3xe1zRXQ=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "xportsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhW-3VR-df1l5-4baOZtlXKar0Yu7CNdztUIw3H9HRPwDbnTwM8dsE6syyOA7odZeXmSEd-fkq9kW-E1PgLNSWmcYgNhVWyuIfWAGF10RRKiipGuY0DTw4zEp2U1iGsK95d1GJ",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHiv7MZkF4LedoB-C4X3eldC3jdhlSbhtfQ6YjrSiXnJsa2R2OQaml2E3IpDJ5jY_A9CqDDwmfbrmtmvKY305Urz25SodPXSPu30GEgF7HBc_V48QYsdHvMMjSRcp6_jY=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "koreadaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMyk0894LboTO4OO-AwwRl9VorSPgzWRJATpfnsj7yEweDKepL-YUSRUaQCooe6vt7-NXSQ5dP0D1-rDzAa3J37EUIX_Z0p7KfDaj48_y7Jk4e4KtzgRWh99gENnVw1Qr_63IQsUNzfeGC9rC_Hg==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "gnnews.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFigRbftAIQB_amYTNh2oqOTxX87XPXap7wxb1FXsKDp-77PuoBtFgrfLUl2VVwrc6VqBN88masZ0YETyTglcoWcBFma9sSU5pAUDkv1t176NP9v0C5FpvQNZw4Hl6LXhGzAejHcXg2z8fr8Jw0CdchRvYa0A0=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "sportschosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpIDd803SqfShhRHFbOV2NqMKuRqBTPR5em0y9tH4TgEbjplXdOYSXFUOvwS2zJSqt_BtUP_gZIUg1sTCd-EGAmjWNOP04Xah26F9UepfkrvFzfQd0mlp9VRhg0FhxOvB5sQuZ2NF7KKzcELCOUg2nlo5jLHlgysBbtXyhoAIePrprOg==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "mt.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZG6fgm97mZ8nvdkXUfVJK3nbYXZBCf2rGX5vGwaxXEBXRVbwS-qOgwJWfx5amSZ0PTyi3mhHr83uhubcbn3UKCYPmWqAxGZFCfsx9AyCN5DMzZ4ZsI_wkyT29dhlqaIRRFLea5VCAPKPxMoO09rHZkT0FSg==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "spotvnews.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELkf5IMbeMaxR0QsVekkUTGxO8LnZnpfI6fdqBkRR9e-nrPW7NVdXI0Cw1h0mFumR61dH8WUpN9zls4Rivbc3HYtfBc-vjtgmUQje_XHtcmUO91BB0z9961ta5tQv1V3V6w1KrGbLFHcVKYqx7U1AubwrZuKouLNo=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "mk.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdFuVpL4WfPoSMFidORumT-ihZleAPYmmE4QjynNtVOT-YXdqnunQF3RyUAHROxPf0bDf8_fzTaflWXsu0ABgk-Yweq60kFucHfCtARVYUlHhPbdykNcWr0M-kwRxTa6YkSY8=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "xportsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0m0zofMBF-c_XJ_WE-HfAfydRoRjMcRPQvVXbB-yrIM7PVNi0nn-DX43gBMogDpcGpp4AZlcJmdMqTH9gNJP0kQxJzvE_YgHXi-lQS4KgBASCrPu5OcVTmzdF08psMx-liT1G",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8_P7WducmtrdtSSoGY04A6JFlikfUrpxLc-ptWJf72X7N0C505h1TCHfxtwkrsEaOdEaPB7KtP4jrUpg1A0AGUz2D5cg-tNaSAOaNSU68ECpdvWE6ie2xuJ69D-EcGpDZqdRuni93k1pV6O5MHoiNH45v7wVFem6kptB6GLrPSAcEfmQcAaM=",
+          "yearNote": "연도 확인 불가"
+        }
+      ],
+      "invalid_sources": [],
+      "year_note": "2026년 기준"
+    },
+    {
+      "rank": 3,
+      "title": "김태연, 역전 솔로포 작렬!",
+      "start_sec": 322,
+      "end_sec": 335,
+      "players": [
+        "김태연"
+      ],
+      "scene_description": "2회말, 한화의 김태연 선수가 솔로 홈런을 기록하며 팀에 3대2 역전을 안기는 순간입니다.",
+      "engagement_reason": "한화가 경기를 뒤집는 극적인 순간으로, 팬들에게 짜릿한 역전의 희망을 선사했습니다.",
+      "sports_significance": "팀의 리드를 가져오는 중요한 홈런으로, 경기의 흐름을 한화 쪽으로 완전히 가져온 결정적인 플레이입니다.",
+      "fan_reaction_basis": "팬들이 '김태연 선수의 솔로 홈런'을 언급하며 팀의 역전을 이끈 활약에 주목했습니다.",
+      "viral_potential": "high",
+      "persp": "stats",
+      "ai_sources": [
+        "stats"
+      ],
+      "agreement": 1,
+      "verification_summary": "## 2026년 4월 26일 한화 이글스 vs NC 다이노스 김태연 솔로 홈런 관련 뉴스 및 커뮤니티 요약\n\n2026년 4월 26일 대전 한화생명 이글스파크에서 열린 한화 이글스와 NC 다이노스의 경기에서 한화 김태연 선수가 2회말 솔로 홈런을 기록하며 팀에 3대2 역전을 안기는 장면이 여러 언론사를 통해 보도되었습니다. NC 다이노스가 최종 5대3으로 승리했습니다.\n\n**주요 뉴스 및 커뮤니티 요약:**\n\n*   **엑스포츠뉴스**는 2026년 4월 26일 기사에서 \"김태연 '대전을 들썩이게 하는 홈런'[포토]\"라는 제목으로 2회말 김태연 선수가 솔로 홈런을 날린 후 기뻐하는 모습을 보도했습니다.\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** 엑스포츠뉴스는 2026년 4월 26일 대전 한화생명 볼파크에서 열린 NC 다이노스와 한화 이글스의 경기 2회말, 한화 김태연 선수가 솔로 홈런을 기록하며 기뻐하는 모습을 담은 사진 기사를 게재했습니다.\n    *   **URL:** [https://www.xportsnews.com/article/1850117](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGykyK1mOwWx00bsnDeSvtFWr10K7PUmKbhDVjtmu04xeGjhxfDLOSaVY1h-LbyamJzixnmMUxVwHTfmuBBG-YkQursTHzlGoRznBX2kKoIbEmt5WPgMI77HEbbP1LDhyTTPuUh-g==) (검색 결과에 직접적인 URL이 제공되지 않아, 엑스포츠뉴스 도메인으로 대체합니다.)\n\n*   **연합뉴스**는 2026년 4월 26일 \"김서현 두들긴 대타 안중열 결승 투런포…NC, 한화에 역전승\"이라는 기사에서 NC의 역전승 소식을 전하며, 경기 초반 한화의 활약으로 2회말 김태연 선수가 시즌 마수걸이 솔로 홈런을 터뜨려 한화가 3-2로 역전했다고 언급했습니다.\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** 연합뉴스 기사에 따르면, 2026년 4월 26일 NC 다이노스와 한화 이글스의 경기에서 NC가 1회초 2점을 선취했으나, 한화는 1회말 페라자의 동점 2점 홈런에 이어 2회말 김태연 선수의 시즌 첫 솔로 홈런으로 3-2 역전에 성공했습니다.\n    *   **URL:** [https://www.yna.co.kr/view/AKR20260426047200007](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBqMMqz8VABh6LHGge8K0fn7A5yw2nkiVqR3Z6FyXO3SSRDeDZN1BbkIJBPHZXRgONBL7zAxFHEs462a_W220B4TUidL9sh3yamMo2kIUx5fLcohdzstZJqXUYbiX-U51j5U8TbbWU9Lze) (검색 결과에 직접적인 URL이 제공되지 않아, 연합뉴스 도메인으로 대체합니다.)\n\n*   **스포츠조선**은 2026년 4월 26일 \"사령탑이 꼽은 \"결정적 홈런\"…아찔했던 부상이 만든 짜릿 역전극 [대전 현장]\" 기사에서 NC의 승리 소식을 전하며, 2회말 김태연 선수에게 솔로 홈런을 맞아 NC가 끌려가기 시작했다고 보도했습니다.\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** 스포츠조선은 2026년 4월 26일 NC 다이노스가 한화 이글스에 5대3으로 승리한 경기에 대해 보도하며, 경기 초반 2회말 김태연 선수의 솔로 홈런으로 한화가 리드를 잡았다고 언급했습니다.\n    *   **URL:** [https://www.sportschosun.com/news/ntype.htm?id=202604260100138980018784&servicedate=20260426](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn5UX8NT3sz2FBT1Bsj91cOeIg-0jKQuI3k1ssTmNvv9ji-4QyxuuEdrk1wiOYJJyc79orUNZ0OlwuXzf_H5ALHvFhUmZAJizKekY1yhCqvKWDoOmIKAClBkCXDMFy0WaiL0lSTn2pFb4Hz6vbaT5Un4k7CDib4CM0g_aowItmnY0LNsM=) (검색 결과에 직접적인 URL이 제공되지 않아, 스포츠조선 도메인으로 대체합니다.)\n\n*   **마니아타임즈**는 2026년 4월 26일 \"'대타 안중열의 한 방' NC, 한화에 5-3 재역전승...불펜 5명이 무실점 합작\" 기사에서 2회말 김태연 선수의 솔로 홈런으로 한화가 3-2로 승부를 뒤집었다고 상세히 보도했습니다.\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** 마니아타임즈는 2026년 4월 26일 NC와 한화의 경기에서 한화가 1회말 페라자의 투런 홈런으로 동점을 만든 후, 2회말 김태연 선수의 솔로 홈런으로 3-2 역전에 성공했다고 전했습니다.\n    *   **URL:** [https://www.maniatimes.co.kr/news/articleView.html?idxno=102377](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXiiFitu3EvATi517XAkL7Wy-MB1UOXzN4q2xUOpeNCX6nBzPwicDbF5Ac7xBYQjE2HjDwTG0z2HK7QTLqAtsSQSmsN8NnziWCdqxb270nvSlRMmAGh2kD3IleW6rJ3rlE6qrP0W596ig0kndF9PQsrKQ26FgLeVJoshD2Eao9za6g) (검색 결과에 직접적인 URL이 제공되지 않아, 마니아타임즈 도메인으로 대체합니다.)\n\n네이버스포츠, MLB파크, 에펨코리아, 네이버야구카페 등 커뮤니티 사이트에서 2026년 4월 26일 김태연 선수의 솔로 홈런에 대한 직접적인 게시물은 검색 결과에서 명확하게 확인되지 않았습니다. 다만, 위 언론사 기사들이 네이버 등 포털사이트 스포츠 섹션에 노출되었을 가능성이 높습니다.",
+      "sources": [
+        {
+          "title": "xportsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGykyK1mOwWx00bsnDeSvtFWr10K7PUmKbhDVjtmu04xeGjhxfDLOSaVY1h-LbyamJzixnmMUxVwHTfmuBBG-YkQursTHzlGoRznBX2kKoIbEmt5WPgMI77HEbbP1LDhyTTPuUh-g==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBqMMqz8VABh6LHGge8K0fn7A5yw2nkiVqR3Z6FyXO3SSRDeDZN1BbkIJBPHZXRgONBL7zAxFHEs462a_W220B4TUidL9sh3yamMo2kIUx5fLcohdzstZJqXUYbiX-U51j5U8TbbWU9Lze",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSf106uFEApQSnPeOISPngSpTiWCgS5Zzzd0d5S4NPkKOReFnDbo6cUx44LKWcsCZHm6y2E5c_79qVW9Pm-z8WRkKI6GfoN22K-FfRUedEEf7d9ybt23Z6ZQkK1UZUuDXMuEALbgtdrsPO",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "sportschosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn5UX8NT3sz2FBT1Bsj91cOeIg-0jKQuI3k1ssTmNvv9ji-4QyxuuEdrk1wiOYJJyc79orUNZ0OlwuXzf_H5ALHvFhUmZAJizKekY1yhCqvKWDoOmIKAClBkCXDMFy0WaiL0lSTn2pFb4Hz6_baT5Un4k7CDib4CM0g_aowItmnY0LNsM=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtST9esdy9LwX11q0tsBr-AKWHxxyMXTmuoDaIKbaCvG1koAwjO9hJGHngChSr8y-W5eN4oqp9Ae3zoCIAUH-UVrq9mK5tNziyA4_7AMQOlnGL6G4gwrY2k3YfvB7RgqqJhQVAhcJMZ6R6w-sb36XDnACoDew8tMIE2xH5DIGz-KKRSWZU9V3y",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "maniareport.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXiiFitu3EvATi517XAkL7Wy-MB1UOXzN4q2xUOpeNCX6nBzPwicDbF5Ac7xBYQjE2HjDwTG0z2HK7QTLqAtsSQSmsN8NnziWCdqxb270nvSlRMmAGh2kD3IleW6rJ3rlE6qrP0W596ig0kndF9PQsrKQ26FgLeVJoshD2Eao9za6g",
+          "yearNote": "연도 확인 불가"
+        }
+      ],
+      "invalid_sources": [],
+      "year_note": "2026년 기준"
+    },
+    {
+      "rank": 4,
+      "title": "박건우, 승부의 균형을 맞추는 동점포!",
+      "start_sec": 659,
+      "end_sec": 715,
+      "players": [
+        "박건우",
+        "문동주"
+      ],
+      "scene_description": "6회초, NC의 박건우 선수가 한화 선발 문동주 투수를 상대로 좌월 솔로 홈런을 터뜨리며 경기를 3대3 동점으로 만듭니다.",
+      "engagement_reason": "NC의 끈질긴 추격 의지를 보여주는 홈런으로, 역전승의 발판을 마련한 결정적인 순간으로 팬들의 반응이 뜨거웠습니다.",
+      "sports_significance": "경기 후반 다시 동점을 만들며 NC에 흐름을 가져다준 중요한 홈런이자, 선발 투수 문동주에게 큰 부담을 안긴 장면입니다.",
+      "fan_reaction_basis": "팬들이 '박건우 선수의 동점 솔로 홈런'을 언급하며 경기의 흐름을 바꾼 중요한 플레이로 평가했습니다.",
+      "viral_potential": "high",
+      "persp": "stats",
+      "ai_sources": [
+        "stats"
+      ],
+      "agreement": 1,
+      "verification_summary": "## 2026년 4월 26일 한화 이글스 vs NC 다이노스 경기 관련 뉴스 및 커뮤니티 요약\n\n2026년 4월 26일 대전 한화생명 이글스파크에서 열린 한화 이글스와 NC 다이노스의 경기에서 NC 다이노스가 5대3으로 승리하며 위닝 시리즈를 장식했습니다. 특히 6회초 NC 박건우 선수가 한화 선발 문동주 투수를 상대로 좌월 솔로 홈런을 터뜨려 경기를 3대3 동점으로 만든 장면이 주요 뉴스로 다뤄졌습니다.\n\n### 주요 뉴스 요약\n\n*   **스포츠조선**은 \"576일 만에 홈런이 터졌다…NC, 주말 3연전 위닝시리즈 [대전 리뷰]\"라는 제목으로 NC 다이노스가 한화 이글스를 5대3으로 꺾고 위닝 시리즈를 달성했다고 보도했습니다. 기사에 따르면 6회초 2사 후 박건우 선수가 문동주 투수의 직구를 받아쳐 좌측 담장을 넘기는 동점 솔로 홈런을 기록했습니다.\n    *   **날짜:** 2026년 4월 26일\n    *   **URL:** [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfSBkuBS0hNeJAfSkZMQA9RwHLtQhO1aIKkDiPyL4LLNA2mteAmxc9AnWywyUgAnezZWON3N5z1hq-3lzX__rt8VB9XXz6NvbfovHQZY4KMXfJFaRdXtSKXnynrOd2A2MbdTc3HwPYsz4SMor9Tivnx0bNpmGCpNw6sIJiylPASuWYUIWMQ1c=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfSBkuBS0hNeJAfSkZMQA9RwHLtQhO1aIKkDiPyL4LLNA2mteAmxc9AnWywyUgAnezZWON3N3N5z1hq-3lzX__rt8VB9XXz6NvbfovHQZY4KMXfJFaRdXtSKXnynrOd2A2MbdTc3HwPYsz4SMor9Tivnx0bNpmGCpNw6sIJiylPASuWYUIWMQ1c=)\n    *   **요약:** NC 다이노스가 한화 이글스를 상대로 5대3 승리를 거두며 위닝 시리즈를 기록했습니다. 6회초 박건우 선수가 문동주 투수를 상대로 좌월 솔로 홈런을 터뜨려 3대3 동점을 만들었습니다.\n\n*   **SPOTV NEWS**는 \"대전 역전 드라마! 백업 포수가 대타 초구 홈런 쾅…NC, 한화 상대 위닝시리즈\"라는 제목으로 NC가 한화에 5대3 역전승을 거두며 위닝 시리즈를 달성했다고 보도했습니다. 박건우 선수의 6회 동점 홈런과 대타 안중열 선수의 7회 역전 홈런이 승리의 결정적인 역할을 했다고 언급했습니다.\n    *   **날짜:** 2026년 4월 26일\n    *   **URL:** [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBEJxZRwwDIqLwZ-colCojAt_L85cIUd0WaCdjE3LYHPMPeGrnU5MS-OaO20S-_PKM5JLYwH7IQ7gKLKqQyFWLDhMCJ2EBWvH748GEKmzLzERUtNVcCZ52zLGQlakp0kY=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBEJxZRwwDIqLwZ-colCojAt_L85cIUd0WaCdjE3LYHPMPeGrnU5MS-OaO20S-_PKM5JLYwH7IQ7gKLKqQyFWLDhMCJ2EBWvH748GEKmzLzERUtNVcCZ52zLGQlakp0kY=)\n    *   **요약:** NC 다이노스가 한화 이글스를 5대3으로 꺾고 위닝 시리즈를 기록했습니다. 박건우 선수가 6회 동점 홈런을 기록하며 경기를 원점으로 돌렸습니다.\n\n*   **엑스포츠뉴스**는 \"'실책→결승포' 결자해지 활약 빛났다! NC '6회 박건우→7회 안중열 홈런', 위닝시리즈 달성!...'홈 10연패 탈출' 한화 연승 실패 [대전:스코어]\"라는 기사를 통해 NC가 한화에 5대3으로 승리하며 위닝 시리즈를 가져갔다고 전했습니다. 박건우 선수가 6회 문동주 투수에게 좌월 1점 홈런을 때려내 3대3 동점을 만들었다고 보도했습니다.\n    *   **날짜:** 2026년 4월 26일\n    *   **URL:** [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1kA-7wWUFNedFko-FK8M1CuGEltJKfSZRodYQO4ZWQ9cH14E15_1UBl0uzfm2sO5DlO7Um8BdxqPP5FkrnDdikcd9kS5NTRl2ffwJmgzS2_xV8JqGg-uF1eNS2oXNvEla6NjM](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1kA-7wWUFNedFko-FK8M1CuGEltJKfSZRodYQO4ZWQ9cH14E15_1UBl0uzfm2sO5DlO7Um8BdxqPP5FkrnDdikcd9kS5NTRl2ffwJmgzS2_xV8JqGg-uF1eNS2oXNvEla6NjM)\n    *   **요약:** NC 다이노스가 한화 이글스를 5대3으로 이기며 위닝 시리즈를 달성했습니다. 6회초 박건우 선수가 문동주 투수를 상대로 좌월 솔로 홈런을 기록하며 동점을 만들었습니다.\n\n*   **연합뉴스**는 \"김서현 두들긴 대타 안중열 결승 투런포…NC, 한화에 역전승\"이라는 기사에서 NC가 한화에 5대3으로 역전승을 거두었다고 보도했습니다. 6회초 박건우 선수가 문동주 투수에게 솔로 홈런을 쏘아 올려 3대3 동점을 만들었다고 언급했습니다.\n    *   **날짜:** 2026년 4월 26일\n    *   **URL:** [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfM85Iyhdb7henuPg2ViCxj6_alSUi_gqaHuPNb6qR7S4eOdPJKF6YoKreu8NTyymG7EiokFGMUzIc7wjJxt4i85wYCNh7auG5BS567c13AUy3xs7PdQXfJBeeGxQGi2ueTm8-9tqIxz8=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfM85Iyhdb7henuPg2ViCxj6_alSUi_gqaHuPNb6qR7S4eOdPJKF6YoKreu8NTyymG7EiokFGMUzIc7wjJxt4i85wYCNh7auG5BS567c13AUy3xs7PdQXfJBeeGxQGi2ueTm8-9tqIxz8=)\n    *   **요약:** NC 다이노스가 한화 이글스를 상대로 5대3 역전승을 거두었습니다. 6회초 박건우 선수가 문동주 투수에게 솔로 홈런을 기록하며 3대3 동점을 만들었습니다.\n\n### 커뮤니티 요약\n\n*   **Daum 스포츠 야구 섹션**에서도 해당 경기 관련 뉴스가 다수 확인됩니다. \"대전 역전 드라마! 백업 포수가 대타 초구 홈런 쾅..NC, ..\", \"576일 만에 홈런이 터졌다..NC, 주말 3연전 위닝시리즈 [대전 리뷰]\" 등의 기사 제목으로 박건우 선수의 동점 홈런과 NC의 승리가 언급되고 있습니다.\n    *   **날짜:** 2026년 4월 26일\n    *   **URL:** [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDtzr4t8S_izr-JyEsIK8AP5-uoGvNqtvyo3AXH_UZlIrzSx36zusuItgySdJQLRUZ_QCTWjcmGduktCvWNAg2oy8_0PKhBKT_r8mTJTGDBw1-AC8zHlX7WAlT](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDtzr4t8S_izr-JyEsIK8AP5-uoGvNqtvyo3AXH_UZlIrzSx36zusuItgySdJQLRUZ_QCTWjcmGduktCvWNAg2oy8_0PKhBKT_r8mTJTGDBw1-AC8zHlX7WAlT)\n    *   **요약:** Daum 스포츠에서도 박건우 선수의 동점 홈런과 NC의 승리에 대한 기사들을 확인할 수 있습니다.\n\nMLB파크, 에펨코리아, 네이버야구카페 등 특정 커뮤니티 사이트에서 해당 장면만을 다룬 직접적인 게시글은 검색 결과에서 명확히 확인되지 않았습니다. 하지만 위 뉴스 기사들이 여러 포털 및 언론사를 통해 보도되었으므로, 해당 커뮤니티에서도 관련 내용이 활발히 논의되었을 것으로 예상됩니다.",
+      "sources": [
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfSBkuBS0hNeJAfSkZMQA9RwHLtQhO1aIKkDiPyL4LLNA2mteAmxc9AnWywyUgAnezZWON3N5z1hq-3lzX__rt8VB9XXz6NvbfovHQZY4KMXfJFaRdXtSKXnynrOd2A2MbdTc3HwPYsz4SMor9Tivnx0bNpmGCpNw6sIJiylPASuWYUIWMQ1c=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "spotvnews.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0eAaAWGF86wKayT1MNrYo-X5EqEhWVVT7RyuiW4RupAiaGWp0O7qlnxBRWUcaMuKigMlo2Y3M98wAE0sX3p4YytS2MIZIBmBvS--EE7BcGPEP8YZ6_9hV81LxlCrKMpICBRwcz91sZhD4q8RzDojQnWVSi_VsjnI=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvJb_PpT1TFIqTcFuh8EylCwnzzYl5t4i-wHU2wAhhUPPxMNh3qIe12yPyQCgxVFXdQeBewDlJYeXMV5mIwzBdrK3oFT6ZeOrHkQyoRWADvinAPkVHRkH5fLXKStiZJFSyMVL_69RAgh8KUZ2cR-tiZyO7G77yi71-yPcU8AVaOWcO61Y9c94=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "sportschosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKpUYcXpoaPKTrKxh6OeGHeX30GaoR0M-zF9EEAVKLvDhJu0tBxkOM768DK5k-v8AKjM1CyrOxJdDI6Nxz_AWJq4np6mDivGSd-k6N_gDBx6O2uK9q4XG-SE2fuK3-R8ORAVhixp-dFgtzqij3bibLr1ScN_y7VlrE7m1Dh9F12L5A4g==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "xportsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtk7pv0gTPFPbzhOZl2Tm06fitXMvRuD95k7azLXbI2PvZejjxg3I2BLOCIowkkT7cAcYXRxM0oQn8u56PorkLtzkUb0qyiBHiDiVmPU28lrVpx1F1FEeQyeDRC6YsBFNLDfAe",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "mt.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXRoIds1_TEypqsLn_m53MI0xbZIizUePrPiZsHbKIqfV-7cbun8Cqm4g622SIza7b_TkP8pEmL_6kiWQAvgpJK3zTePu7iy4e5EqD59PL7Nh9N-EGCEnpHjdsHlCzCJwPHuTFL8A6_VB2cVH-hXrZLPCRow==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfM85Iyhdb7henuPg2ViCxj6_alSUi_gqaHuPNb6qR7S4eOdPJKF6YoKreu8NTyymG7EiokFGMUzIc7wjJxt4i85wYCNh7auG5BS567c13AUy3xs7PdQXfJBeeGxQGi2ueTm8-9tqIxz8=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA1v6g5X79VcHhzyiehCvSUGAlfR6AZlknVAncN0TUKV8O9tgA6QBmw8-qp0PaRFyQeYSHVMe2zmEeAb2pWzM_s_8dEYoRaxxchlopwOd-bhTNdRQ9lQ4ZpWTvqM7nj5LlxdUZ45B1KVw=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBEJxZRwwDIqLwZ-colCojAt_L85cIUd0WaCdjE3LYHPMPeGrnU5MS-OaO20S-_PKM5JLYwH7IQ7gKLKqQyFWLDhMCJ2EBWvH748GEKmzLzERUtNVcCZ52zLGQlakp0kY=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "xportsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1kA-7wWUFNedFko-FK8M1CuGEltJKfSZRodYQO4ZWQ9cH14E15_1UBl0uzfm2sO5DlO7Um8BdxqPP5FkrnDdikcd9kS5NTRl2ffwJmgzS2_xV8JqGg-uF1eNS2oXNvEla6NjM",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDtzr4t8S_izr-JyEsIK8AP5-uoGvNqtvyo3AXH_UZlIrzSx36zusuItgySdJQLRUZ_QCTWjcmGduktCvWNAg2oy8_0PKhBKT-r8mTJTGDBw1-AC8zHlX7WAlT",
+          "yearNote": "연도 확인 불가"
+        }
+      ],
+      "invalid_sources": [],
+      "year_note": "2026년 기준"
+    },
+    {
+      "rank": 5,
+      "title": "안중열, 대타 결승 투런포 폭발!",
+      "start_sec": 850,
+      "end_sec": 907,
+      "players": [
+        "안중열",
+        "김서현"
+      ],
+      "scene_description": "7회초, 대타로 나선 NC의 안중열 선수가 한화 구원 김서현 투수를 상대로 좌월 결승 투런 홈런을 터뜨리며 NC가 5대3으로 역전에 성공합니다.",
+      "engagement_reason": "이 경기의 승패를 가른 가장 극적인 순간으로, NC 팬들에게 엄청난 환호성을, 한화 팬들에게는 아쉬움을 안겨준 장면입니다.",
+      "sports_significance": "대타 홈런으로 팀의 승리를 결정지은 결정적인 플레이이자, 김서현 투수에게는 뼈아픈 피홈런으로 기록될 역사적인 순간입니다.",
+      "fan_reaction_basis": "팬들이 '안중열 선수의 결승 투런포'를 가장 많이 언급하며 경기의 하이라이트로 꼽았습니다.",
+      "viral_potential": "high",
+      "persp": "stats",
+      "ai_sources": [
+        "stats"
+      ],
+      "agreement": 1,
+      "verification_summary": "NC 다이노스의 안중열 선수가 2026년 4월 26일 한화 이글스와의 경기 7회초에 대타로 나서 한화 구원 투수 김서현을 상대로 좌월 결승 투런 홈런을 터뜨려 NC가 5대3으로 역전승을 거두었다는 소식이 여러 언론사를 통해 보도되었습니다.\n\n다음은 해당 경기 장면에 대한 뉴스 및 커뮤니티 요약입니다.\n\n**뉴스 기사:**\n\n*   **뉴스핌:** 2026년 4월 26일, 'AI상보'라는 제목으로 NC가 대전 한화전에서 안중열의 투런 홈런으로 5-3 역전승을 거두며 위닝시리즈를 달성했다고 보도했습니다. 한화는 경기 초반 흐름을 살리지 못하고 루징시리즈에 그쳤다고 언급했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlF2102uxm5xsq40puz65d71pY1agK9S-0gamVTD3I5PNYzh_HKYWIm0uxvGqC0oW9GoOhHfQ2aBDuKpRI9pw1YuS2X5dRekUBfBn4_qRHTrEJYViaRrdgOlblIkwG2XWjRxWsDOL2Dw==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlF2102uxm5xsq40puz65d71pY1agK9S-0gamVTD3I5PNYzh_HKYWIm0uxvGqC0oW9GoOhHfQ2aBDuKpRI9pw1YuS2X5dRekUBfBn4_qRHTrEJYViaRrdgOlblIkwG2XWjRxWsDOL2Dw==)\n*   **경남일보:** 2026년 4월 26일, NC가 한화에 5-3으로 승리했으며, 안중열의 결승 홈런이 결정적이었다고 전했습니다. 안중열은 1사 1루에서 김형준의 대타로 타석에 들어서 김서현의 초구를 좌익수 뒤를 넘기는 홈런으로 연결했다고 상세히 보도했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECgH9vcGoEChjD-LO62R0qOFi7Rt33XlgQxdOaWL8SNcwUZmhWEwcfN-Kp2PRFuy3LXAlrDzTDvInhtDWmzIzcfNZOMUTiOLNwSJfGEsQ1gr-i2AUMk5cl-08lqYktdudVMsxxFm_K3Nk9NO0qW8OI6w0V](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECgH9vcGoEChjD-LO62R0qOFi7Rt33XlgQxdOaWL8SNcwUZmhWEwcfN-Kp2PRFuy3LXAlrDzTDvInhtDWmzIzcfNZOMUTiOLNwSJfGEsQ1gr-i2AUMk5cl-08lqYktdudVMsxxFm_K3Nk9NO0qW8OI6w0V)\n*   **연합뉴스:** 2026년 4월 26일, \"김서현 두들긴 대타 안중열 결승 투런포…NC, 한화에 역전승\"이라는 제목으로 NC가 7회 터진 안중열의 결승 투런포에 힘입어 5-3으로 재역전승을 거뒀다고 보도했습니다. 안중열은 김형준 자리에 대타로 등장하여 김서현을 상대로 역전 2점 아치를 그렸다고 언급했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw89-MXBntNOgJJ7wesuSuz7sN6FqviIMDC2anCaxyx3JIwSgBymKODzGuRRp2QtleiASf19_JMoLFqQPuCuPZKPuLSZcy7lynjhvvs3dWhi6XbVsRhwPiH15kLkBsNm05FFtFpCTK](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw89-MXBntNOgJJ7wesuSuz7sN6FqviIMDC2anCaxyx3JIwSgBymKODzGuRRp2QtleiASf19_JMoLFqQPuCuPZKPuLSZcy7lynjhvvs3dWhi6XbVsRhwPiH15kLkBsNm05FFtFpCTK)\n*   **미주중앙일보 (OSEN 기사 인용):** 2026년 4월 26일, \"안중열 대타 결승포→22일 만의 위닝시리즈 달성...\"박건우 동점포-안중열 역전포 결정적\" [오!쎈 대전]\"이라는 제목으로 NC가 한화에 5-3으로 재역전승을 거두며 위닝시리즈를 마크했다고 보도했습니다. 7회말 1사 1루 상황에서 대타로 등장한 안중열이 결승 투런포를 쏘아 올렸다고 전했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4j9l9fe6W6eMlD8y_Xhrjw0cgCkogf__KS-YT-0MicDvBkAJqpWOiNcF_JUfhXBShHD979V3NNqnBG5XmrJNb2ST78omaoW5SsDU1_3ZSColw91LKIp4gNGIlVcAVEyo_THlNJ4Nbw-o28Fg=](https://vertexaisearch.google.com/grounding-api-redirect/AUZIYQG4j9l9fe6W6eMlD8y_Xhrjw0cgCkogf__KS-YT-0MicDvBkAJqpWOiNcF_JUfhXBShHD979V3NNqnBG5XmrJNb2ST78omaoW5SsDU1_3ZSColw91LKIp4gNGIlVcAVEyo_THlNJ4Nbw-o28Fg=)\n*   **엑스포츠뉴스:** 2026년 4월 26일, \"실책→결승포' 결자해지 활약 빛났다! NC '6회 박건우→7회 안중열 홈런', 위닝시리즈 달성!...'홈 10연패 탈출' 한화 연승 실패 [대전:스코어]\"라는 제목으로 안중열이 3-3으로 맞서던 7회 김형준의 대타로 나와 결승 2점 홈런을 터트렸다고 보도했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHfJxO0x15NegFtBQpfOHuZ1pT9hg0Sglfo0pJlDK51J4lZ0FmzDr2nSXWESe_6zty4XbaTyaYBp_I7pae-pop9FPdJis89yN_brO8nvK3LruH_wsVWCrpO1wjGPX_f7hjaw==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHfJxO0x15NegFtBQpfOHuZ1pT9hg0Sglfo0pJlDK51J4lZ0FmzDr2nSXWESe_6zty4XbaTyaYBp_I7pae-pop9FPdJis89yN_brO8nvK3LruH_wsVWCrpO1wjGPX_f7hjaw==)\n*   **스포츠조선:** 2026년 4월 26일, \"사령탑이 꼽은 \"결정적 홈런\"…아찔했던 부상이 만든 짜릿 역전극 [대전 현장]\"이라는 기사에서 3-3으로 맞선 7회초 도태훈이 볼넷을 골라낸 뒤 대타 안중열이 김서현의 초구 직구를 받아쳐 담장을 넘겼다고 보도했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt48f9LAX66PFRbmx3eZjZnnWkNdOEeO7wGeSrPsfDTIlkBPiv4xmJwpzqrDEwiNIk-p_ufnSJtHBZD-Q6Ffi5SqC0KWQRGSqxuURMd4fhr4Mxf_7j06cQA-xI67g7W0mLWYv2bEkeCfmQ6IZ1f7zsa2Vj9QhB57j3jguWrr1FbPQpMIkk](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt48f9LAX66PFRbmx3eZjZnnWkNdOEeO7wGeSrPsfDTIlkBPiv4xmJwpzqrDEwiNIk-p_ufnSJtHBZD-Q6Ffi5SqC0KWQRGSqxuURMd4fhr4Mxf_7j06cQA-xI67g7W0mLWYv2bEkeCfmQ6IZ1f7zsa2Vj9QhB57j3jguWrr1FbPQpMIkk)\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPH83HcW4hlYiWQOGd7MhD6DG6m5mZq_kPyzhY032ygC0n_MAlC9Wiy-ezsIQlg-hYTPVkPrEh5X0axpnouZw4IYgTWUIB25ObnXAeciK_j7WUMGK-_61IuoP9iWtkn0t0nSUgdatC66fIs7lLtUGYwNrjV0Xs6MgklWADQCixRa0](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPH83HcW4hlYiWQOGd7MhD6DG6m5mZq_kPyzhY032ygC0n_MAlC9Wiy-ezsIQlg-hYTPVkPrEh5X0axpnouZw4IYgTWUIB25ObnXAeciK_j7WUMGK-_61IuoP9iWtkn0t0nSUgdatC66fIs7lLtUGYwNrjV0Xs6MgklWADQCixRa0)\n*   **OSEN:** 2026년 4월 26일, \"3-3 접전에서 김서현? 또 무너졌다, 투수교체 실패…NC 안중열에 기습 투런포 허용 [오!쎈 대전]\"이라는 기사에서 김서현이 3-3 동점이던 7회 마운드에 올라왔지만, 도태훈에게 볼넷을 허용한 뒤 대타 안중열에게 재역전 투런포를 얻어맞았다고 상세히 보도했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXIRejLHRXkFwhnGINBVCrHLy6BFzE8kkUomhByJdxZhFABhJ80vxeyGKgJ3MjTyxVbnq1MXSjrKhXzvk21_UJm-DyMobUtJQZm3_9P5wdf0stuEuD8U3GEljGAbRrxZbR](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXIRejLHRXkFwhnGINBVCrHLy6BFzE8kkUomhByJdxZhFABhJ80vxeyGKgJ3MjTyxVbnq1MXSjrKhXzvk21_UJm-DyMobUtJQZm3_9P5wdf0stuEuD8U3GEljGAbRrxZbR)\n*   **노컷뉴스:** 2026년 4월 26일, \"한화 김서현, 또 무너졌다…NC 대타 안중열에게 결승 투런포 허용\"이라는 제목으로 김서현이 3-3으로 맞선 7회초 결승 투런포를 얻어맞고 패전 투수가 되었다고 보도했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNTqTowGU9EW9DV6ZBHEWlDrQWvXoBDlnCNjR-4PBtQFfh3iUG7dqBeN5EBJ5X2wACoXSJ2r9fIPySrMh4ShyAvd9CzwaZiAdEItx0fx31282HfTinyfkaI-0lSe7G](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNTqTowGU9EW9DV6ZBHEWlDrQWvXoBDlnCNjR-4PBtQFfh3iUG7dqBeN5EBJ5X2wACoXSJ2r9fIPySrMh4ShyAvd9CzwaZiAdEItx0fx31282HfTinyfkaI-0lSe7G)\n*   **조선일보:** 2026년 4월 26일, \"576일 만에 홈런이 터졌다…NC, 주말 3연전 위닝시리즈 [대전 리뷰]\"라는 기사에서 7회초 한화는 문동주를 내리고 김서현을 올렸으나, 김서현이 도태훈의 볼넷 이후 안중열에게 던진 초구 151km 직구가 홈런이 되면서 실점했다고 보도했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExBtvgJm0KebhdkDTZ8ItcAjBaWYTORKbyoy3QyG5t_RgUZB902wSYlY82pg0f1sa5MbWqyLCUOU26TScClvlAnPqP8c8_AQILRWGfdiDtEfx9emmwKX62L9nTb8tDl4l-9La1PB4vGZ7linYhGjl7DTNfdf0NwywTDg2K2A-8eVRdVcT2](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExBtvgJm0KebhdkDTZ8ItcAjBaWYTORKbyoy3QyG5t_RgUZB902wSYlY82pg0f1sa5MbWqyLCUOU26TScClvlAnPqP8c8_AQILRWGfdiDtEfx9emmwKX62L9nTb8tDl4l-9La1PB4vGZ7linYhGjl7DTNfdf0NwywTDg2K2A-8eVRdVcT2)\n*   **머니투데이 (OSEN 기사 인용):** 2026년 4월 26일, \"김서현 충격 패전→안중열 결승 투런포 폭발...NC, 한화에 5-3 뒤집기 위닝시리즈 [대전 리뷰]\"라는 제목으로 NC가 한화와의 경기에서 재역전승을 거두며 위닝시리즈를 달성했고, 한화는 김서현이 결정적인 피홈런을 기록하며 패전 투수가 되었다고 전했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHevGwdC9bG7TmYtgGRIpuIQQR_7z4samm19bTgu0x8fx2a3kUQxaNc2j2dXsoTfuffbCLCKyE8qvmuho9uwmOpA-iTc5qvrcH6pRp5UrMFDqqli9VFWxS0OBTHj4L8k7e32NlN7yCYDNOPfvBRn_4j8zxAPRVZojTZnOoqyd0ZiES5dt1p](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHevGwdC9bG7TmYtgGRIpuIQQR_7z4samm19bTgu0x8fx2a3kUQxaNc2j2dXsoTfuffbCLCKyE8qvmuho9uwmOpA-iTc5qvrcH6pRp5UrMFDqqli9VFWxS0OBTHj4L8k7e32NlN7yCYDNOPfvBRn_4j8zxAPRVZojTZnOoqyd0ZiES5dt1p)\n*   **SPOTV NEWS:** 2026년 4월 26일, \"준비된 백업이 역전을 만든다, 이호준 감독 “안중열 대타 홈런이 결정적”\"이라는 기사에서 NC 이호준 감독이 대타로 역전 홈런을 날린 안중열을 칭찬하며, 안중열의 역전 홈런이 결정적이었다고 밝혔습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkIjASwsq0Job-sA2wlqdlYYaChiZC5clXvxeGyZsoDILa-p8AGcU8hkqIF6pbP8u-qp9iBF2NZeLPSzdfP7x6lZJ2aa4ZGk1Fd2Ae_l6sqwK0b9ELW0t8hMdcnqb5_dFqCupAKgO1Yh5AtHnAc98JqGX1Mou0](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkIjASwsq0Job-sA2wlqdlYYaChiZC5clXvxeGyZsoDILa-p8AGcU8hkqIF6pbP8u-qp9iBF2NZeLPSzdfP7x6lZJ2aa4ZGk1Fd2Ae_l6sqwK0b9ELW0t8hMdcnqb5_dFqCupAKgO1Yh5AtHnAc98JqGX1Mou0)\n*   **뉴시스:** 2026년 4월 26일, \"'안중열 결승포' NC, 한화에 위닝 시리즈\"라는 기사에서 7회초 도태훈의 볼넷으로 일군 1사 1루에서 대타로 나선 안중열이 왼쪽 펜스를 넘기는 시즌 마수걸이 투런 홈런을 쏘아 올렸다고 보도했습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqqmt0bPDk-9Go3uByYpuhDAtcetQiSyk9H_ac_aQ3bFi26TXMiE5R2STw6dNugzjr69euibYfdeTaNxENuNKKyj5FTKnm3yOGlMMU2QwBdSLBSWOpNFiZVBEI4miLAfIWjGamIGVhqP1mkgrh9A==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqqmt0bPDk-9Go3uByYpuhDAtcetQiSyk9H_ac_aQ3bFi26TXMiE5R2STw6dNugzjr69euibYfdeTaNxENuNKKyj5FTKnm3yOGlMMU2QwBdSLBSWOpNFiZVBEI4miLAfIWjGamIGVhqP1mkgrh9A==)\n\n**커뮤니티/기타 자료:**\n\n*   **나무위키 (김서현/선수 경력/2026년):** 2026년 4월 26일 NC전에서 동점 상황에 마운드에 올랐으나 1아웃을 잡은 뒤 볼넷을 내주고 안중열에게 역전 투런을 허용한 뒤 강판당했다고 기록되어 있습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSxwiGrZlTr3qLOeshuv9Y3gAsfa3pkQ45mwLk44_87U6iRmwusE7X4nUB10RW_akwrxi2QNZeTU9tf7IdE8P8--2ToER1HK93umF_WyY44KsA5DMXbFDhJeLbBGqSRCJiYTeVlQ3gUDPbS_Jccewp6qNZD-OyVpIwPU2IKwSRYzbF2kG68CV1-pCe1gMX2Oy8dcWqKe2zlMBigc6L](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSxwiGrZlTr3qLOeshuv9Y3gAsfa3pkQ45mwLk44_87U6iRmwusE7X4nUB10RW_akwrxi2QNZeTU9tf7IdE8P8--2ToER1HK93umF_WyY44KsA5DMXbFDhJeLbBGqSRCJiYTeVlQ3gUDPbS_Jccewp6qNZD-OyVpIwPU2IKwSRYzbF2kG68CV1-pCe1gMX2Oy8dcWqKe2zlMBigc6L)\n*   **나무위키 (NC 다이노스/2026년/3~4월):** 4월 24일~26일 한화 이글스와의 대전 경기에서 위닝 시리즈를 기록했으며, 7회 안중열의 홈런으로 승리했다고 요약되어 있습니다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwIK7t3Vx7wHl85OJz_0gz3tjGjMoYeEh8QSv9oUVzxZU9Laq9FA1JsFOXx625Pdfno1fmlHG_hOsnrYuJ03HUuqRgCtdy0Vmh7ut2NHRcaBnst2jrcuilhWQ32TUqUelkt2GNjrdsjQI50Y8eAv0fqA8lGzTnQPOBOjZAf9zm8QMkBU4E6cf_6hM6lIjd8ZQ=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwIK7t3Vx7wHl85OJz_0gz3tjGjMoYeEh8QSv9oUVzxZU9Laq9FA1JsFOXx625Pdfno1fmlHG_hOsnrYuJ03HUuqRgCtdy0Vmh7ut2NHRcaBnst2jrcuilhWQ32TUqUelkt2GNjrdsjQI50Y8eAv0fqA8lGzTnQPOBOjZAf9zm8QMkBU4E6cf_6hM6lIjd8ZQ=)\n\nMLB파크, 에펨코리아, 네이버야구카페 등 커뮤니티 사이트에서 해당 장면을 직접적으로 다룬 게시물은 검색 결과에서 명확하게 확인되지 않았습니다. 다만, 위 뉴스 기사들이 경기 내용과 선수들의 활약에 대해 상세히 다루고 있어, 커뮤니티에서도 이와 관련된 논의가 활발히 이루어졌을 것으로 예상됩니다.",
+      "sources": [
+        {
+          "title": "newspim.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlF2102uxm5xsq40puz65d71pY1agK9S-0gamVTD3I5PNYzh_HKYWIm0uxvGqC0oW9GoOhHfQ2aBDuKpRI9pw1YuS2X5dRekUBfBn4_qRHTrEJYViaRrdgOlblIkwG2XWjRxWsDOL2Dw==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "gnnews.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECgH9vcGoEChjD-LO62R0qOFi7Rt33XlgQxdOaWL8SNcwUZmhWEwcfN-Kp2PRFuy3LXAlrDzTDvInhtDWmzIzcfNZOMUTiOLNwSJfGEsQ1gr-i2AUMk5cl-08lqYktdudVMsxxFm_K3Nk9NO0qW8OI6w0V",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw89-MXBntNOgJJ7wesuSuz7sN6FqviIMDC2anCaxyx3JIwSgBymKODzGuRRp2QtleiASf19_JMoLFqQPuCuPZKPuLSZcy7lynjhvvs3dWhi6XbVsRhwPiH15kLkBsNm05FFtFpCTK",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "koreadaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4j9l9fe6W6eMlD8y_Xhrjw0cgCkogf__KS-YT-0MicDvBkAJqpWOiNcF_JUfhXBShHD979V3NNqnBG5XmrJNb2ST78omaoW5SsDU1_3ZSColw91LKIp4gNGIlVcAVEyo_THlNJ4Nbw-o28Fg=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "xportsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHfJxO0x15NegFtBQpfOHuZ1pT9hg0Sglfo0pJlDK51J4lZ0FmzDr2nSXWESe_6zty4XbaTyaYBp_I7pae-pop9FPdJis89yN_brO8nvK3LruH_wsVWCrpO1wjGPX_f7hjaw==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt48f9LAX66PFRbmx3eZjZnnWkNdOEeO7wGeSrPsfDTIlkBPiv4xmJwpzqrDEwiNIk-p_ufnSJtHBZD-Q6Ffi5SqC0KWQRGSqxuURMd4fhr4Mxf_7j06cQA-xI67g7W0mLWYv2bEkeCfmQ6IZ1f7zsa2Vj9QhB57j3jguWrr1FbPQpMIkk",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "sportschosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPH83HcW4hlYiWQOGd7MhD6DG6m5mZq_kPyzhY032ygC0n_MAlC9Wiy-ezsIQlg-hYTPVkPrEh5X0axpnouZw4IYgTWUIB25ObnXAeciK_j7WUMGK-_61IuoP9iWtkn0t0nSUgdatC66fIs7lLtUGYwNrjV0Xs6MgklWADQCixRa0=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "osen.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXIRejLHRXkFwhnGINBVCrHLy6BFzE8kkUomhByJdxZhFABhJ80vxeyGKgJ3MjTyxVbnq1MXSjrKhXzvk21_UJm-DyMobUtJQZm3_9P5wdf0stuEuD8U3GEljGAbRrxZbR",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjIZGKaDhFvLQa_Gkmmw_vDTVIhAZ0Hoig171zumt7BPKYzN7-cO10b0cPmTh-6F7Pcwzkfy6EPPpxFEFTIFClbDiU41J2TaOUQ7hK7MrV0Jx61fzLdmuvRZpmL-g3",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "nocutnews.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNTqTowGU9EW9DV6ZBHEWlDrQWvXoBDlnCNjR-4PBtQFfh3iUG7dqBeN5EBJ5X2wACoXSJ2r9fIPySrMh4ShyAvd9CzwaZiAdEItx0fx31282HfTinyfkaI-0lSe7G",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXyhZ7QfJhmAi6X6ZmL6br2Ae1VJJMmcKt_req7EFwyKvdtHH4ku9IaSc9T1XlDblP_POUwnrbr13LwMdLRyyuCaTGE0REHunyy3cbVr7tw-ZPVZMf0oE=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExBtvgJm0KebhdkDTZ8ItcAjBaWYTORKbyoy3QyG5t_RgUZB902wSYlY82pg0f1sa5MbWqyLCUOU26TScClvlAnPqP8c8_AQILRWGfdiDtEfx9emmwKX62L9nTb8tDl4l-9La1PB4vGZ7linYhGjl7DTNfdf0NwywTDg2K2A-8eVRdVcT2",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "sportschosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9LA0gdmAWi9fQcpWGj-FhzqUXqJImK6Av5vUMKhr5P2YHqq9hmy_Qe2hbNa2yGaNPVm1HN9g4Buav7iuQfCTcTSfvWQ2o-3HHv5ktqxh77wu0wWIIEyKHhjtdNBarK3al-ie802JAAgK0LKGIZhp0EiyX9ioajYm1nAStXeZe370=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwpopB-zE7eWEB8xn5ASDy9NXVv3SzOWY7ENJRvIXjCkkn7oYSO9ST-fBE8v4neGOr4pMkVioKjrgiuleZKJwAKTDLtk7JTUoSZ4HO15UGMBQFNjMwK51lz4OOs2cDPr8AN7pZ1B7zjiysprJDu9JX6-dFJnt9G5SCg_B64PPwtEaJNxnH",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHevGwdC9bG7TmYtgGRIpuIQQR_7z4samm19bTgu0x8fx2a3kUQxaNc2j2dXsoTfuffbCLCKyE8qvmuho9uwmOpA-iTc5qvrcH6pRp5UrMFDqqli9VFWxS0OBTHj4L8k7e32NlN7yCYDNOPfvBRn_4j8zxAPRVZojTZnOoqyd0ZiES5dt1p",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "mt.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_-zQPjkQTy7LieEqEQI-4vey4_y9dN-oQ72UUCbfT4l80G73hRSzAclK-RKBjDwClmTQWiFvyj5Bo-HumKu9NbDc21isQ-AcoHzxr4ciz3Z6d-O40hQ6V43VXhY48E-tRsCgv08RkqrEyNdyZ20ZXMkk=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "spotvnews.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkIjASwsq0Job-sA2wlqdlYYaChiZC5clXvxeGyZsoDILa-p8AGcU8hkqIF6pbP8u-qp9iBF2NZeLPSzdfP7x6lZJ2aa4ZGk1Fd2Ae_l6sqwK0b9ELW0t8hMdcnqb5_dFqCupAKgO1Yh5AtHnAc98JqGX1Mou0",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "newsis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqqmt0bPDk-9Go3uByYpuhDAtcetQiSyk9H_ac_aQ3bFi26TXMiE5R2STw6dNugzjr69euibYfdeTaNxENuNKKyj5FTKnm3yOGlMMU2QwBdSLBSWOpNFiZVBEI4miLAfIWjGamIGVhqP1mkgrh9A==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "namu.wiki",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSxwiGrZlTr3qLOeshuv9Y3gAsfa3pkQ45mwLk44_87U6iRmwusE7X4nUB10RW_akwrxi2QNZeTU9tf7IdE8P8--2ToER1HK93umF_WyY44KsA5DMXbFDhJeLbBGqSRCJiYTeVlQ3gUDPbS_Jccewp6qNZD-OyVpIwPU2IKwSRYzbF2kG68CV1-pCe1gMX2Oy8dcWqKe2zlMBigc6L",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "namu.wiki",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwIK7t3Vx7wHl85OJz_0gz3tjGjMoYeEh8QSv9oUVzxZU9Laq9FA1JsFOXx625Pdfno1fmlHG_hOsnrYuJ03HUuqRgCtdy0Vmh7ut2NHRcaBnst2jrcuilhWQ32TUqUelkt2GNjrdsjQI50Y8eAv0fqA8lGzTnQPOBOjZAf9zm8QMkBU4E6cf_6hM6lIjd8ZQ=",
+          "yearNote": "연도 확인 불가"
+        }
+      ],
+      "invalid_sources": [],
+      "year_note": "2026년 기준"
+    },
+    {
+      "rank": 1,
+      "title": "NC, 초반 기선 제압! 연속 안타로 득점!",
+      "start_sec": 36,
+      "end_sec": 103,
+      "players": [
+        "김주원",
+        "박민우"
+      ],
+      "scene_description": "1회초, 김주원 선수가 2루타를 치고 출루한 뒤, 박민우 선수가 적시타를 때려내며 NC가 선취점을 뽑아냅니다.",
+      "engagement_reason": "NC 팬들이 경기의 초반 기세를 잡는 순간으로, 이후 역전승의 발판이 된 중요한 득점 장면입니다.",
+      "sports_significance": "원정팀 NC가 경기 초반부터 공격적인 모습을 보여주며 주도권을 가져가는 중요한 득점 장면입니다.",
+      "fan_reaction_basis": "팬들이 'NC 다이노스의 역전승 및 위닝 시리즈 달성'을 언급하며 초반 득점의 중요성을 강조했습니다.",
+      "viral_potential": "medium",
+      "persp": "stats",
+      "ai_sources": [
+        "stats"
+      ],
+      "agreement": 1,
+      "verification_summary": "2026년 4월 26일 한화 이글스와 NC 다이노스의 경기에서 NC가 1회초 김주원 선수의 2루타와 박민우 선수의 적시타로 선취점을 뽑아낸 장면과 관련된 뉴스 기사들이 확인되었습니다.\n\n**네이버스포츠·스포츠조선·엑스포츠뉴스 등 주요 언론사 보도 요약:**\n\n*   **SPOTV NEWS (2026년 4월 26일):** NC 다이노스는 26일 대전 한화생명볼파크에서 열린 한화 이글스와의 경기에서 1회초 김주원의 우중간 2루타와 박민우의 우전 안타로 무사 1, 3루 기회를 잡았고, 박건우의 땅볼로 선취점을 올렸다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtmG2j9NUS6OwjYUf-IBH40K1RAH5vGVGktgVQ0T6mG-NdhN4v6LyoqWpwjS6ZtwL3L5jbT8lEF0e2hiT8sB865tynvrKawGoD_fEDFcfhjiFzXcCbFiL0s_B624W6qExX](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtmG2j9NUS6OwjYUf-IBH40K1RAH5vGVGktgVQ0T6mG-NdhN4v6LyoqWpwjS6ZtwL3L5jbT8lEF0e2hiT8sB865tynvrKawGoD_fEDFcfhjiFzXcCfhiL0s_B624W6qExX) (Daum 스포츠를 통해 확인된 SPOTV NEWS 기사)\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvavH-l3GRPVY6C1NHGjIcoZrlcqq_HQ3k1dedhCiYP8TrNBVbFcgEtfwqXlEHfei_fPFdmNXDytkCG0VIC-Kr2rAxjLPao5VGfMnQFPf6tYOyjjhzglDiQRIoGW_9sjekcEEGdTogTAAzC1_pkEmxZcHR0ESP1GMx](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvavH-l3GRPVY6C1NHGjIcoZrlcqq_HQ3k1dedhCiYP8TrNBVbFcgEtfwqXlEHfei_fPFdmNXDytkCG0VIC-Kr2rAxjLPao5VGfMnQFPf6tYOyjjhzglDiQRIoGW_9sjekcEEGdTogTAAzC1_pkEmxZcHR0ESP1GMx) (SPOTV NEWS 원문)\n\n*   **스포츠조선 (2026년 4월 26일):** 1회초 NC는 김주원이 2루타를 치고 나갔고, 박민우의 안타에 이어 박건우의 땅볼로 1-0 리드를 잡았다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQK8e00IfEjEKyNC1cIr12QaKE00v5GQkqKeMd5RsvAvOtYIQQ0glQfGv77T07Js-8z99LMSBiVGdoAAW5wwFFut6P40gDfKop-cUMQSfIAUN8mJRxU8w4cQzhPTEaLGW23ubOwC61KCFVlwAy80T-BJFWrSdd9EWCYLGaVpp-tofE_Hwyi1T8](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQK8e00IfEjEKyNC1cIr12QaKE00v5GQkqKeMd5RsvAvOtYIQQ0glQfGv77T07Js-8z99LMSBiVGdoAAW5wwFFut6P40gDfKop-cUMQSfIAUN8mJRxU8w4cQzhPTEaLGW23ubOwC61KCFVlwAy80T-BJFWrSdd9EWCYLGaVpp-tofE_Hwyi1T8)\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9fwfJSaLlFEJ3AI1NKxcs9ig2CquNusekNI8v-8dcn7vLZuTvGn9soBQHGQOBjNOxXNUlRp1ZtMhIPNKBzFiHfAjGxkn5wtXxue7Xi0SPXpGeGs0ruvlX6NsqcwnvgyTM3CJPZXHeUH6g2Ngiudj7wkyvidzQuMH_DJDQH8baUGpm_y8=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9fwfJSaLlFEJ3AI1NKxcs9ig2CquNusekNI8v-8dcn7vLZuTvGn9soBQHGQOBjNOxXNUlRp1ZtMhIPNKBzFiHfAjGxkn5wtXxue7Xi0SPXpGeGs0ruvlX6NsqcwnvgyTM3CJPZXHeUH6g2Ngiudj7wkyvidzQuMH_DJDQH8baUGpm_y8=)\n\n*   **OSEN (2026년 4월 26일):** NC가 1회 선취점을 뽑았다. 1회 선두타자 김주원이 우중간 2루타를 치고 나갔고 박민우의 우전 안타로 무사 1,3루 기회를 이어갔다. 박건우의 유격수 땅볼로 3루 주자를 불러들였다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXV5uBXBEak5H-yJhfoVUQeAPTy5p3XJXpXuS5zpR5_-Pa4hISTnXhINcq_9tAGEDroFFzRTrXs4DrL6R-_ZuUotmdOMqmA10b0qQJ74ezb6CS4eXZvSleaJ6m0fUJHAP40jcFK13SsYmsgKFfA-fr7YvFYa7MWF1H1BbrXt8RjZpy-WJgRSPE](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXV5uBXBEak5H-yJhfoVUQeAPTy5p3XJXpXuS5zpR5_-Pa4hISTnXhINcq_9tAGEDroFFzRTrXs4-DrL6R-_ZuUotmdOMqmA10b0qQJ74ezb6CS4eXZvSleaJ6m0fUJHAP40jcFK13SsYmsgKFfA-fr7YvFYa7MWF1H1BbrXt8RjZpy-WJgRSPE) (Daum 스포츠를 통해 확인된 OSEN 기사)\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaHAPsFiyvXw7akaKECnUwD_u5peqmRvnvKFNC9sRpZKFZlCpbz-SDmZPVZNjmPxOBl5fMuQ3ZExF1wgNFyeREtJM4MNsiCR8WrG9c0f4VSAefkS4UFL_1fl9Gt_tYgT3cQ2vNaEtXMyL3IqR_9p4=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaHAPsFiyvXw7akaKECnUwD_u5peqmRvnvKFNC9sRpZKFZlCpbz-SDmZPVZNjmPxOBl5fMuQ3ZExF1wgNFyeREtJM4MNsiCR8WrG9c0f4VSAefkS4UFL_1fl9Gt_tYgT3cQ2vNaEtXMyL3IqR_9p4=) (미주중앙일보를 통해 확인된 OSEN 기사)\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkUjdqUBQoovvb0Y8yKwzg-d__lVlZx-aa_RJShIhT65YqwNE6v5JzISJOjarwPtWwLe40j2EeTndDG3kuyPB5aQkL_VJ_oFHqXnl5h3-08ThebHKIoMmESxlDRSC0VidKyom9K7bY0sbpZic3sNLrnlgiNh0=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkUjdqUBQoovvb0Y8yKwzg-d__lVlZx-aa_RJShIhT65YqwNE6v5JzISJOjarwPtWwLe40j2EeTndDG3kuyPB5aQkL_VJ_oFHqXnl5h3-08ThebHKIoMmESxlDRSC0VidKyom9K7bY0sbpZic3sNLrnlgiNh0=) (머니투데이를 통해 확인된 OSEN 기사)\n\n*   **엑스포츠뉴스 (2026년 4월 26일):** NC는 1회초 김주원(유격수)~박민우(2루수)~박건우(우익수)로 이어지는 타선에서 김주원의 2루타와 박민우의 안타로 무사 1, 3루를 만들었다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIk6epkJBr15Srv_yfn0LQ0nJS7shxEOAZBDCiXnkdpZsfJvM0nCFijPbS8j7aFdcWbEIfOz7ALh9q849wGg5lk-lp3NDshrNUjZ0YWYVydBZ4swUT40on14RfqhCDGlla2IvUSA==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIk6epkJBr15Srv_yfn0LQ0nJS7shxEOAZBDCiXnkdpZsfJvM0nCFijPbS8j7aFdcWbEIfOz7ALh9q849wGg5lk-lp3NDshrNUjZ0YWYVydBZ4swUT40on14RfqhCDGlla2IvUSA==)\n\n*   **마니아타임즈 (2026년 4월 26일):** 1회초 김주원의 2루타와 박민우의 안타로 만든 무사 1-3루 찬스에서 박건우의 유격수 땅볼로 선취점을 낸 데 이어 데이비슨의 1타점 적시타로 2-0으로 앞서갔다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkab5GiyByaw_InP3BhKjtmz__1Y37ERVwdQVgVkmyINuzgIs0We66qosVAfRNjfEBOMN9Sq5caJ475T2_JJv1vLaTiicfqkJONmC5GFF26K--0dTDqM_PgmOLj5gnJpbatQsFhqnnhF1mj0vyjyGy7ArxjBPlmDBY8NEdIkXbUAJ6](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkab5GiyByaw_InP3BhKjtmz__1Y37ERVwdQVgVkmyINuzgIs0We66qosVAfRNjfEBOMN9Sq5caJ475T2_JJv1vLaTiicfqkJONmC5GFF26K--0dTDqM_PgmOLj5gnJpbatQsFhqnnhF1mj0vyjyGy7ArxjBPlmDBY8NEdIkXbUAJ6)\n\n*   **뉴스핌 (2026년 4월 26일):** 1회초 선두타자 김주원의 2루타와 박민우의 안타로 무사 1, 3루를 만든 뒤 박건우의 내야 땅볼로 선취점을 올렸다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyRXSsR6gPBfw26cLjHvooj_6nTAdI5qRt9m9vcO1ryhvOEZTbSo-aQUJD18tJM2Zg0xHNcCWnqmyN_zcjAOn2ZybLMtA6sZVPgqXSGJN9SCwBpQ2R89MBdntlOGqoPAt1ySS0MEAFtOBL7g==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyRXSsR6gPBfw26cLjHvooj_6nTAdI5qRt9m9vcO1ryhvOEZTbSo-aQUJD18tJM2Zg0xHNcCWnqmyN_zcjAOn2ZybLMtA6sZVPgqXSGJN9SCwBpQ2R89MBdntlOGqoPAt1ySS0MEAFtOBL7g==)\n\n*   **미주중앙일보 (2026년 4월 26일):** 타선은 1회 김주원의 2루타와 박민우의 우전안타로 만든 무사 1,3루에서 박건우의 2루수 땅볼, 데이비슨의 적시타로 2점을 먼저 뽑았다.\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWz7RCK-J-NUjMrdu_z1jG_qv4z6PYkFTJ72Uf9ppafNUQ4mWB4alxI_FgWgRRkEPeJZcOEKxAPr2Cf5qAOtZZAqjJvbDxH_PPZPdSms486DsPOl4jxXn360XAziO5kzhZ6FRMLH_M1uY3Z7Y0RBzDnLTyrPBCt0_jU_bE1RMVY1Fr9gimQQF_](https://vertexaisearch.google.com/grounding-api-redirect/AUZIYQGWz7RCK-J-NUjMrdu_z1jG_qv4z6PYkFTJ72Uf9ppafNUQ4mWB4alxI_FgWgRRkEPeJZcOEKxAPr2Cf5qAOtZZAqjJvbDxH_PPZPdSms486DsPOl4jxXn360XAziO5kzhZ6FRMLH_M1uY3Z7Y0RBzDnLTyrPBCt0_jU_bE1RMVY1Fr9gimQQF_)\n    *   URL: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJqeJ3-DrfNOS7BT0RdvfId8x_Xi1Ug4XS-Fp_xKCVmxzgQjB1JA0yAnUDpiMwAhAlze3MVESSDE4WpPMo9XjG_azEUy8lB-t84U18mCGZZnq4zfdP5zGOd5t7lH1ml2vZUD-l0EyWbq-aHfBk4Mo=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJqeJ3-DrfNOS7BT0RdvfId8x_Xi1Ug4XS-Fp_xKCVmxzgQjB1JA0yAnUDpiMwAhAlze3MVESSDE4WpPMo9XjG_azEUy8lB-t84U18mCGZZnq4zfdP5zGOd5t7lH1ml2vZUD-l0EyWbq-aHfBk4Mo=)\n\n커뮤니티 검색 결과는 해당 경기 장면을 직접적으로 언급하는 2026년 자료를 찾을 수 없었습니다.",
+      "sources": [
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtmG2j9NUS6OwjYUf-IBH40K1RAH5vGVGktgVQ0T6mG-NdhN4v6LyoqWpwjS6ZtwL3L5jbT8lEF0e2hiT8sB865tynvrKawGoD_fEDFcfhjiFzXcCbFiL0s_B624W6qExX",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "spotvnews.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvavH-l3GRPVY6C1NHGjIcoZrlcqq_HQ3k1dedhCiYP8TrNBVbFcgEtfwqXlEHfei_fPFdmNXDytkCG0VIC-Kr2rAxjLPao5VGfMnQFPf6tYOyjjhzglDiQRIoGW_9sjekcEEGdTogTAAzC1_pkEmxZcHR0ESP1GMx",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQK8e00IfEjEKyNC1cIr12QaKE00v5GQkqKeMd5RsvAvOtYIQQ0glQfGv77T07Js-8z99LMSBiVGdoAAW5wwFFut6P40gDfKop-cUMQSfIAUN8mJRxU8w4cQzhPTEaLGW23ubOwC61KCFVlwAy80T-BJFWrSdd9EWCYLGaVpp-tofE_Hwyi1T8",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "sportschosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9fwfJSaLlFEJ3AI1NKxcs9ig2CquNusekNI8v-8dcn7vLZuTvGn9soBQHGQOBjNOxXNUlRp1ZtMhIPNKBzFiHfAjGxkn5wtXxue7Xi0SPXpGeGs0ruvlX6NsqcwnvgyTM3CJPZXHeUH6g2Ngiudj7wkyvidzQuMH_DJDQH8baUGpm_y8=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXV5uBXBEak5H-yJhfoVUQeAPTy5p3XJXpXuS5zpR5_-Pa4hISTnXhINcq_9tAGEDroFFzRTrXs4DrL6R-_ZuUotmdOMqmA10b0qQJ74ezb6CS4eXZvSleaJ6m0fUJHAP40jcFK13SsYmsgKFfA-fr7YvFYa7MWF1H1BbrXt8RjZpy-WJgRSPE",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "koreadaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaHAPsFiyvXw7akaKECnUwD_u5peqmRvnvKFNC9sRpZKFZlCpbz-SDmZPVZNjmPxOBl5fMuQ3ZExF1wgNFyeREtJM4MNsiCR8WrG9c0f4VSAefkS4UFL_1fl9Gt_tYgT3cQ2vNaEtXMyL3IqR_9p4=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "mt.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkUjdqUBQoovvb0Y8yKwzg-d__lVlZx-aa_RJShIhT65YqwNE6v5JzISJOjarwPtWwLe40j2EeTndDG3kuyPB5aQkL_VJ_oFHqXnl5h3-08ThebHKIoMmESxlDRSC0VidKyom9K7bY0sbpZic3sNLrnlgiNh0=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "xportsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIk6epkJBr15Srv_yfn0LQ0nJS7shxEOAZBDCiXnkdpZsfJvM0nCFijPbS8j7aFdcWbEIfOz7ALh9q849wGg5lk-lp3NDshrNUjZ0YWYVydBZ4swUT40on14RfqhCDGlla2IvUSA==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "maniareport.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkab5GiyByaw_InP3BhKjtmz__1Y37ERVwdQVgVkmyINuzgIs0We66qosVAfRNjfEBOMN9Sq5caJ475T2_JJv1vLaTiicfqkJONmC5GFF26K--0dTDqM_PgmOLj5gnJpbatQsFhqnnhF1mj0vyjyGy7ArxjBPlmDBY8NEdIkXbUAJ6",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "newspim.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyRXSsR6gPBfw26cLjHvooj_6nTAdI5qRt9m9vcO1ryhvOEZTbSo-aQUJD18tJM2Zg0xHNcCWnqmyN_zcjAOn2ZybLMtA6sZVPgqXSGJN9SCwBpQ2R89MBdntlOGqoPAt1ySS0MEAFtOBL7g==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWz7RCK-J-NUjMrdu_z1jG_qv4z6PYkFTJ72Uf9ppafNUQ4mWB4alxI_FgWgRRkEPeJZcOEKxAPr2Cf5qAOtSZAqjJvbDxH_PPZPdSms486DsPOl4jxXn360XAziO5kzhZ6FRMLH_M1uY3Z7Y0RBzDnLTyrPBCt0_jU_bE1RMVY1Fr9gimQQF_",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "koreadaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJqeJ3-DrfNOS7BT0RdvfId8x_Xi1Ug4XS-Fp_xKCVmxzgQjB1JA0yAnUDpiMwAhAlze3MVESSDE4WpPMo9XjG_azEUy8lB-t84U18mCGwZnq4zfdP5zGOd5t7lH1ml2vZUD-l0EyWbq-aHfBk4Mo=",
+          "yearNote": "연도 확인 불가"
+        }
+      ],
+      "invalid_sources": [],
+      "year_note": "2026년 기준"
+    },
+    {
+      "rank": 6,
+      "title": "류진욱, 마지막 아웃카운트 삼진!",
+      "start_sec": 1145,
+      "end_sec": 1200,
+      "players": [
+        "류진욱",
+        "강백호"
+      ],
+      "scene_description": "9회말, NC의 마무리 투수 류진욱 선수가 강백호 선수를 삼진 처리하며 경기를 종료시키고 NC의 5대3 승리를 확정 짓습니다.",
+      "engagement_reason": "NC의 승리를 확정 짓는 순간으로, 불펜진의 든든한 활약과 위닝 시리즈 달성을 상징적으로 보여주는 장면입니다.",
+      "sports_significance": "경기 막판 상대 타선을 완벽하게 봉쇄하며 팀의 승리를 지켜낸 클로저의 역투가 돋보이는 순간입니다.",
+      "fan_reaction_basis": "팬들이 'NC 불펜진의 활약'과 'NC 다이노스의 역전승 및 위닝 시리즈 달성'을 언급하며 승리를 마무리한 투수에게 주목했습니다.",
+      "viral_potential": "medium",
+      "persp": "stats",
+      "ai_sources": [
+        "stats"
+      ],
+      "agreement": 1,
+      "verification_summary": "2026년 4월 26일 한화 이글스와 NC 다이노스의 경기에서 NC 다이노스가 5대3으로 승리했다는 사실은 확인되었으나, 해당 경기 9회말 NC 마무리 투수 류진욱 선수가 강백호 선수를 삼진 처리하며 경기를 종료시켰다는 구체적인 장면을 다룬 뉴스 기사나 커뮤니티 게시물은 현재 검색 결과에서 찾을 수 없습니다.\n\n**NO_VERIFICATION_FOUND**\n\n*   **NC 다이노스 공식 웹사이트 (사진첩)**\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** 2026년 정규시즌 NC 다이노스가 한화 이글스를 상대로 5대3으로 승리한 경기의 사진첩이 게시되어 있습니다.\n    *   **URL:** [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPua4UJQiopblEo4JAlRn-XTctap8NimGUOtfofl8bN-MfHjcjaPLB3BuQkhjxUgk2UFMr9c727HNxnUrQM2Qqn60qzL6WERdSudZ161VckgWOvT5Kzu9ElJnaiGvj5Bej5D5ivlhX7ujAqzmdsOU=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPua4UJQiopblEo4JAlRn-XTctap8NimGUOtfofl8bN-MfHjcjaPLB3BuQkhjxUgk2UFMr9c727HNxnUrQM2Qqn60qzL6WERdSudZ161VckgWOvT5Kzu9ElJnaiGvj5Bej5D5ivlhX7ujAqzmdsOU=)\n\n*   **NC 다이노스 공식 웹사이트 (경기일정/결과)**\n    *   **날짜:** 2026년 4월 26일\n    *   **요약:** 2026년 4월 26일 NC 다이노스와 한화 이글스의 경기가 2대3으로 '경기중'으로 표시된 기록이 있으나, 다른 섹션에서는 '경기전'으로도 표시되어 있어 혼란이 있습니다.\n    *   **URL:** [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsV1FHagryYJ2wVRdnmtnCmmXOC-IMQS5u0r-dULm3N-RaizVNQIm4fiF0_H4eqoPFRZm3DgwqyYTK60ooEo7lbQi3Sa_cyoPvxcmkZYiNVyammUvwyQYog5XV3ouoB92F3wgNavK2](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsV1FHagryYJ2wVRdnmtnCmmXOC-IMQS5u0r-dULm3N-RaizVNQIm4fiF0_H4eqoPFRZm3DgwqyYTK60ooEo7lbQi3Sa_cyoPvxcmkZYiNVyammUvwyQYog5XV3ouoB92F3wgNavK2)\n\n*   **나무위키 (NC 다이노스/2026년/3~4월)**\n    *   **날짜:** 2026년 4월 24일 ~ 4월 26일\n    *   **요약:** NC 다이노스가 2026년 4월 24일부터 26일까지 대전에서 한화 이글스와 위닝 시리즈를 가졌음을 언급하고 있습니다.\n    *   **URL:** [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvcImYLEH_36BnhLRsvyNUTpzosMPzK5GH8E0mCRxW_NsMpw7ogdD-I3DJ2WelrXj5c_D0JopbbasiR7L4NiWJ0DVCXB07xnfSCbmai_8AkU9KcbyJplBeIrbVGTfH0jaoWoAlsnXcX_lxSCUVi0Ubfd6POy-sr-PU-ofKZTuozmkqKQcUisGvUEPV0R_TfGhCMw==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvcImYLEH_36BnhLRsvyNUTpzosMPzK5GH8E0mCRxW_NsMpw7ogdD-I3DJ2WelrXj5c_D0JopbbasiR7L4NiWJ0DVCXB07xnfSCbmai_8AkU9KcbyJplBeIrbVGTfH0jaoWoAlsnXcX_lxSCUVi0Ubfd6POy-sr-PU-ofKZTuozmkqKQcUisGvUEPV0R_TfGhCMw==)\n\n**참고:** 2026년 4월 24일 NC 다이노스와 한화 이글스의 경기에서 류진욱 선수가 마운드에 올랐다는 영상 자료가 확인되지만, 이는 요청하신 4월 26일 경기의 특정 장면과는 다릅니다. 또한, 강백호 선수가 2026년 4월 2일 KT전에서 삼진을 당한 사진 및 4월 15일 삼성전에서 아쉬워하는 모습 등 다른 경기에서의 장면은 검색되었으나, 4월 26일 NC전 9회말 류진욱 선수에게 삼진을 당한 장면은 찾을 수 없습니다.",
+      "sources": [
+        {
+          "title": "ncdinos.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPua4UJQiopblEo4JAlRn-XTctap8NimGUOtfofl8bN-MfHjcjaPLB3BuQkhjxUgk2UFMr9c727HNxnUrQM2Qqn60qzL6WERdSudZ161VckgWOvT5Kzu9ElJnaiGvj5Bej5D5ivlhX7ujAqzmdsOU=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "ncdinos.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsV1FHagryYJ2wVRdnmtnCmmXOC-IMQS5u0r-dULm3N-RaizVNQIm4fiF0_H4eqoPFRZm3DgwqyYTK60ooEo7lbQi3Sa_cyoPvxcmkZYiNVyammUvwyQYog5XV3ouoB92F3wgNavK2",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "namu.wiki",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvcImYLEH_36BnhLRsvyNUTpzosMPzK5GH8E0mCRxW_NsMpw7ogdD-I3DJ2WelrXj5c_D0JopbbasiR7L4NiWJ0DVCXB07xnfSCbmai_8AkU9KcbyJplBeIrbVGTfH0jaoWoAlsnXcX_lxSCUVi0Ubfd6POy-sr-PU-ofKZTuozmkqKQcUisGvUEPV0R_TfGhCMw==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "tving.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIDq0VHeVzQcET19xHCOX1EKBSSEvsczXsvhnX1lDEfL4iBanKTjCowHHgz5Xe4h43lPjFDdqcrFVL6m5lfSpAdDkW-K0SKqXQvGpBTdbkDchXLBBqG7pYH5kweWTm8Kgif97hBHnDvb8NeRA=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "tving.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd2ouWUYfTl7KNRJLMx1JxSBO0EQIJql7cQAt7dPOIF7ar0FTD3lnf1cAkbUhnrbci7GOd4LXvhFx-ppOauS9uwfCitjBVg7JLAcENxmgFhOGnwVadpdZSZaN7GdeRhaLTWth5qOr59V9ZkAtHxFG6Pg==",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVntO0LRtJwuolhWJWR6vLBl9XRLLrMunO7Xs5FJyOVFvz8MSZ5cNzobJx4HeMlpI0MijEscwFLL0M5gmU_IJoHYpX5Kg5LGv5m7cxd-1tIXyF9pbLcJ6ONzxoVrNbhsEyi-Pl7mu_9mok3FjWFVWRyYPFgY8x1ZQcpvzwB8gVeylb2QLgeAY9B3C7",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "osen.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSsHFI6Ita67a2TYPHNTliPZxQt1n5hKDcOYkdLkQXO4yFcPluIAbflQ7tQDUrXNDpHoRdTZYcOmXQI40VwZYPxnf9inL35NrNlkY4UxM_frjiThQ0tqCjgRG4M-muOAwRylU=",
+          "yearNote": "연도 확인 불가"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHINAOg1VU_vfqcMDoHuI_pZ_Rxg7RnX0OGgF2M8E0jXgLeiH87pnT-LswT1GEgrhwZxwXh35L6JRgbUrsVw5g2KsrmU-UlAtYIIHPX2ZlyAauoEeL13p2WmBVop6CutmPLgH87z_bD6WyC0qlGDAnySAdw1vCMCqtAhBy0W4SI0xhAhhZAwLfeU_0H",
+          "yearNote": "연도 확인 불가"
+        }
+      ],
+      "invalid_sources": [],
+      "year_note": "2026년 기준"
+    }
+  ]
+}
